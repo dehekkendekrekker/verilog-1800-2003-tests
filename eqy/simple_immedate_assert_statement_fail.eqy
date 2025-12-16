@@ -1,0 +1,13 @@
+[gold]
+read_rtlil ../rtlil/verific/simple_immediate_assert_statement_fail.il
+hierarchy -auto-top
+proc
+
+[gate]
+read_rtlil ../rtlil/slang/simple_immediate_assert_statement_fail.il
+hierarchy -auto-top
+
+[strategy sby]
+use sby
+depth 2
+engine smtbmc bitwuzla

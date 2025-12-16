@@ -1,0 +1,16 @@
+[options]
+mode prove
+depth 20
+
+[engines]
+smtbmc
+
+[script]
+plugin -i slang
+read_slang --no-proc 16.3-assert.sv
+dump
+prep -top test_assert
+
+[files]
+../../rtl/16.3-assert.sv
+
