@@ -10,4 +10,3 @@ Created Tuesday 16 December 2025
 
 ===== Backlinks =====
 [[procedural assertion statement]]
-[[simple immediate assertion statement]]

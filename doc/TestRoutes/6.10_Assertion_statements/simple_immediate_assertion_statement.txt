@@ -12,6 +12,3 @@ Created Tuesday 16 December 2025
 
 ===== Backlinks =====
 [[immediate assertion statement]]
-[[simple immediate assert statement]]
-[[simple immediate assume statement]]
-[[simple immediate cover statement]]
