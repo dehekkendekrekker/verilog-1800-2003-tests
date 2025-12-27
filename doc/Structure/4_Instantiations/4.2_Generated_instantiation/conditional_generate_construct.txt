@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-22T00:00:00+00:00
+
+====== conditional generate construct ======
+Created Sunday 22 December 2025
+
+[[if_generate_construct]]
+| [[case_generate_construct]]
+
+===== Backlinks =====
+[[1_Source_text/1.1_Source_text:checker_generate_item|checker_generate_item]]

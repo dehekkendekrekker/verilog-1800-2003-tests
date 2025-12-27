@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== module or generate item ======
+Created Friday 27 December 2025
+
+{ attribute_instance } [[parameter_override]]
+| { attribute_instance } [[4_Instantiations/4.1_Instantiations:gate_instantiation|gate_instantiation]]
+| { attribute_instance } [[4_Instantiations/4.1_Instantiations:udp_instantiation|udp_instantiation]]
+| { attribute_instance } [[4_Instantiations/4.1_Instantiations:module_instantiation|module_instantiation]]
+| { attribute_instance } [[module_common_item]]
+
+===== Backlinks =====
+[[non_port_module_item]]
+[[4_Instantiations/4.2_Generated_instantiation:generate_block|generate_block]]

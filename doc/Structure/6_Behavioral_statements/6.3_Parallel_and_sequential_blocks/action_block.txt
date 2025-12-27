@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-17T01:18:58+00:00
+
+====== action block ======
+Created Wednesday 17 December 2025
+
+[[6_Behavioral_statements/6.4_Statements:statement_or_null|statement_or_null]]
+| [ [[6_Behavioral_statements/6.4_Statements:statement|statement]] ] **else** [[6_Behavioral_statements/6.4_Statements:statement_or_null|statement_or_null]]
+
+===== Backlinks =====
+[[6_Behavioral_statements/6.5_Timing_control_statements:wait_statement|wait_statement]]
+[[6_Behavioral_statements/6.10_Assertion_statements:deferred_immediate_assert_statement|deferred_immediate_assert_statement]]
+[[6_Behavioral_statements/6.10_Assertion_statements:deferred_immediate_assume_statement|deferred_immediate_assume_statement]]
+[[6_Behavioral_statements/6.10_Assertion_statements:simple_immediate_assert_statement|simple_immediate_assert_statement]]
+[[6_Behavioral_statements/6.10_Assertion_statements:simple_immediate_assume_statement|simple_immediate_assume_statement]]
+[[2_Declarations/2.10_Assertion_declarations:assert_property_statement|assert_property_statement]]
+[[2_Declarations/2.10_Assertion_declarations:assume_property_statement|assume_property_statement]]
+[[2_Declarations/2.10_Assertion_declarations:expect_property_statement|expect_property_statement]]

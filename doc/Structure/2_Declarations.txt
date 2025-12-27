@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== 2 Declarations ======
+Created Friday 27 December 2025
+
+IEEE 1800-2023 Section A.2
+
+===== Child pages =====
+[[+2.1_Declaration_types]]
+[[+2.2_Declaration_data_types]]
+[[+2.3_Declaration_lists]]
+[[+2.4_Declaration_assignments]]
+[[+2.5_Declaration_ranges]]
+[[+2.6_Function_declarations]]
+[[+2.7_Task_declarations]]
+[[+2.8_Block_item_declarations]]
+[[+2.9_Interface_declarations]]
+[[+2.10_Assertion_declarations]]
+[[+2.11_Covergroup_declarations]]
+

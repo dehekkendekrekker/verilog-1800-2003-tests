@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-16T21:47:22+00:00
+
+====== let declaration ======
+Created Tuesday 16 December 2025
+
+let_declaration ::= let let_identifier [ ( [ let_port_list ] ) ] = expression ;
+
+===== Backlinks =====
+[[2_Declarations/2.10_Assertion_declarations:assertion_item_declaration|assertion_item_declaration]]

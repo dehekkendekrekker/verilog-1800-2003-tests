@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== conditional statement ======
+Created Friday 27 December 2025
+
+[ [[unique_priority]] ] **if** ( [[cond_predicate]] ) [[6_Behavioral_statements/6.4_Statements:statement_or_null|statement_or_null]]
+{ **else if** ( [[cond_predicate]] ) [[6_Behavioral_statements/6.4_Statements:statement_or_null|statement_or_null]] }
+[ **else** [[6_Behavioral_statements/6.4_Statements:statement_or_null|statement_or_null]] ]
+
+===== Backlinks =====
+[[6_Behavioral_statements/6.4_Statements:statement_item|statement_item]]
+

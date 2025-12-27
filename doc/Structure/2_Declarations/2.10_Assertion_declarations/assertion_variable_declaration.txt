@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-17T00:44:03+00:00
+
+====== assertion variable declaration ======
+Created Wednesday 17 December 2025
+
+ [[2_Declarations/2.2_Declaration_data_types:var_data_type|var_data_type]] list_of_variable_decl_assignments ;
+
+
+===== Backlinks =====
+[[property_declaration]]
+[[sequence_declaration]]

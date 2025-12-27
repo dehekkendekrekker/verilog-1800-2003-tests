@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-16T21:34:52+00:00
+
+====== final construct ======
+Created Tuesday 16 December 2025
+
+**final** [[6_Behavioral_statements/6.4_Statements:function_statement|function_statement]]
+
+===== Backlinks =====
+[[1_Source_text/1.1_Source_text:checker_or_generate_item|checker_or_generate_item]]
+[[1_Source_text/1.4_Module_items:module_common_item|module_common_item]]
+[[1_Source_text/1.7_Program_items:non_port_program_item|non_port_program_item]]

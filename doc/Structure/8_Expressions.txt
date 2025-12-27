@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== 8 Expressions ======
+Created Friday 27 December 2025
+
+IEEE 1800-2023 Section A.8
+
+===== Child pages =====
+[[+8.1_Concatenations]]
+[[+8.2_Subroutine_calls]]
+[[+8.3_Expressions]]
+[[+8.4_Primaries]]
+[[+8.5_Expression_left_side_values]]
+[[+8.6_Operators]]
+[[+8.7_Numbers]]
+

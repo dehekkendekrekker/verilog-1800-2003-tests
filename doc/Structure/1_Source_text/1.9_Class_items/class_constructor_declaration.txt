@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== class constructor declaration ======
+Created Friday 27 December 2025
+
+**function** [ class_scope ] **new** [ ( [ class_constructor_arg_list ] ) ] ;
+{ [[2_Declarations/2.8_Block_item_declarations:block_item_declaration|block_item_declaration]] }
+[ **super** . **new** [ ( [ list_of_arguments | **default** ] ) ] ; ]
+{ [[6_Behavioral_statements/6.4_Statements:function_statement_or_null|function_statement_or_null]] }
+**endfunction** [ : **new** ]
+
+===== Backlinks =====
+[[class_method]]
+[[1_Source_text/1.11_Package_items:package_or_generate_item_declaration|package_or_generate_item_declaration]]

@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== procedural continuous assignment ======
+Created Friday 27 December 2025
+
+**assign** [[variable_assignment]]
+| **deassign** variable_lvalue
+| **force** [[variable_assignment]]
+| **force** net_assignment
+| **release** variable_lvalue
+| **release** net_lvalue
+
+===== Backlinks =====
+[[6_Behavioral_statements/6.4_Statements:statement_item|statement_item]]
+

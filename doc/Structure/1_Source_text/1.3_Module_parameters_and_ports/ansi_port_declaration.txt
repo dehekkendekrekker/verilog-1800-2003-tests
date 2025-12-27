@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== ansi port declaration ======
+Created Friday 27 December 2025
+
+[ [[net_port_header]] | [[interface_port_header]] ] port_identifier { [[2_Declarations/2.2_Declaration_data_types:unpacked_dimension|unpacked_dimension]] }
+[ = [[8_Expressions/8.3_Expressions:constant_expression|constant_expression]] ]
+| [ [[variable_port_header]] ] port_identifier { [[2_Declarations/2.2_Declaration_data_types:variable_dimension|variable_dimension]] } [ = [[8_Expressions/8.3_Expressions:constant_expression|constant_expression]] ]
+| [ [[port_direction]] ] . port_identifier ( [ [[8_Expressions/8.3_Expressions:expression|expression]] ] )
+
+===== Backlinks =====
+[[list_of_port_declarations]]

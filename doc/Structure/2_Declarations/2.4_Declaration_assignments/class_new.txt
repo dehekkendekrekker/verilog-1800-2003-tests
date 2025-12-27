@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== class new ======
+Created Friday 27 December 2025
+
+[ [[9_General/9.3_Identifiers:class_scope|class_scope]] ] **new** [ ( [[8_Expressions/8.2_Subroutine_calls:list_of_arguments|list_of_arguments]] ) ]
+| **new** [[8_Expressions/8.3_Expressions:expression|expression]]
+
+===== Backlinks =====
+[[variable_decl_assignment]]

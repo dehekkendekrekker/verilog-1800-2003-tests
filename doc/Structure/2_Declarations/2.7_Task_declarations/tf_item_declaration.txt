@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== tf item declaration ======
+Created Friday 27 December 2025
+
+[[2_Declarations/2.8_Block_item_declarations:block_item_declaration|block_item_declaration]]
+| [[tf_port_declaration]]
+
+===== Backlinks =====
+[[task_body_declaration]]
+[[2_Declarations/2.6_Function_declarations:function_body_declaration|function_body_declaration]]

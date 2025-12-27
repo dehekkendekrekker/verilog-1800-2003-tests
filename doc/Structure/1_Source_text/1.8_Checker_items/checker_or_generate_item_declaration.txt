@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-16T22:55:56+00:00
+
+====== checker or generate item declaration ======
+Created Tuesday 16 December 2025
+
+[ **rand** ] [[2_Declarations/2.1_Declaration_types:data_declaration|data_declaration]]
+| [[2_Declarations/2.6_Function_declarations:function_declaration|function_declaration]]
+| [[1_Source_text/1.1_Source_text:checker_declaration|checker_declaration]]
+| [[2_Declarations/2.10_Assertion_declarations:assertion_item_declaration|assertion_item_declaration]]
+| [[2_Declarations/2.11_Covergroup_declarations:covergroup_declaration|covergroup_declaration]]
+| [[2_Declarations/2.1_Declaration_types:genvar_declaration|genvar_declaration]]
+| [[6_Behavioral_statements/6.11_Clocking_block:clocking_declaration|clocking_declaration]]
+| **default** **clocking** clocking_identifier ;
+| **default** **disable** **iff** [[1_Source_text/1.10_Constraints:expression_or_dist|expression_or_dist]] ;
+| ;
+
+===== Backlinks =====
+[[checker_or_generate_item]]

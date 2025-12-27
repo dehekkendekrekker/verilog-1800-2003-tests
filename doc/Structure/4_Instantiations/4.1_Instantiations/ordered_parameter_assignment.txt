@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== ordered parameter assignment ======
+Created Friday 27 December 2025
+
+IEEE 1800-2023 Section A.4.1.1
+
+[[8_Expressions/8.3_Expressions:param_expression|param_expression]]
+
+===== Backlinks =====
+[[list_of_parameter_value_assignments]]

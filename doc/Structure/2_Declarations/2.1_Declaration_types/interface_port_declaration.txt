@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== interface port declaration ======
+Created Friday 27 December 2025
+
+interface_identifier [[2_Declarations/2.3_Declaration_lists:list_of_interface_identifiers|list_of_interface_identifiers]]
+| interface_identifier . modport_identifier [[2_Declarations/2.3_Declaration_lists:list_of_interface_identifiers|list_of_interface_identifiers]]
+
+===== Backlinks =====
+[[1_Source_text/1.3_Module_parameters_and_ports:port_declaration|port_declaration]]

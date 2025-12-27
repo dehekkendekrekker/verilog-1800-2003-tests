@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-16T22:52:12+00:00
+
+====== package item ======
+Created Tuesday 16 December 2025
+
+[[package_or_generate_item_declaration]]
+| [[anonymous_program]]
+| [[package_export_declaration]]
+| timeunits_declaration
+
+===== Backlinks =====
+[[1_Source_text/1.1_Source_text:package_declaration|package_declaration]]

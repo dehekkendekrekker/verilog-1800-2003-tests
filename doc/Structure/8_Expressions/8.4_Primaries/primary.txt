@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-17T00:45:56+00:00
+
+====== primary ======
+Created Wednesday 17 December 2025
+
+[[primary_literal]]
+| [ [[class_qualifier]] | [[9_General/9.3_Identifiers:package_scope|package_scope]] ] [[9_General/9.3_Identifiers:hierarchical_identifier|hierarchical_identifier]] [[select]]
+| [[8_Expressions/8.1_Concatenations:empty_unpacked_array_concatenation|empty_unpacked_array_concatenation]]
+| [[8_Expressions/8.1_Concatenations:concatenation|concatenation]] [ [ [[8_Expressions/8.3_Expressions:range_expression|range_expression]] ] ]
+| [[8_Expressions/8.1_Concatenations:multiple_concatenation|multiple_concatenation]] [ [ [[8_Expressions/8.3_Expressions:range_expression|range_expression]] ] ]
+| [[8_Expressions/8.2_Subroutine_calls:function_subroutine_call|function_subroutine_call]] [ [ [[8_Expressions/8.3_Expressions:range_expression|range_expression]] ] ]
+| let_expression
+| ( [[8_Expressions/8.3_Expressions:mintypmax_expression|mintypmax_expression]] )
+| [[cast]]
+| assignment_pattern_expression
+| [[8_Expressions/8.1_Concatenations:streaming_concatenation|streaming_concatenation]]
+| [[2_Declarations/2.10_Assertion_declarations:sequence_method_call|sequence_method_call]]
+| **this**
+| **$**
+| **null**
+
+===== Backlinks =====
+[[8_Expressions/8.3_Expressions:expression|expression]]
+[[8_Expressions/8.3_Expressions:tagged_union_expression|tagged_union_expression]]

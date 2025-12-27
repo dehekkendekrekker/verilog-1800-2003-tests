@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-16T23:58:13+00:00
+
+====== property formal type ======
+Created Tuesday 16 December 2025
+
+[[sequence_formal_type]]
+| **property**
+
+===== Backlinks =====
+[[property_port_item]]
+[[1_Source_text/1.8_Checker_items:checker_port_item|checker_port_item]]

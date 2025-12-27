@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== variable dimension ======
+Created Friday 27 December 2025
+
+[[unsized_dimension]]
+| [[unpacked_dimension]]
+| [[associative_dimension]]
+| [[queue_dimension]]
+
+===== Backlinks =====
+[[1_Source_text/1.8_Checker_items:checker_port_item|checker_port_item]]
+[[2_Declarations/2.4_Declaration_assignments:variable_decl_assignment|variable_decl_assignment]]

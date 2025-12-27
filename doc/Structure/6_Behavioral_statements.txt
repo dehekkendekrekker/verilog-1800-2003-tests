@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== 6 Behavioral statements ======
+Created Friday 27 December 2025
+
+IEEE 1800-2023 Section A.6
+
+===== Child pages =====
+[[+6.1_Continuous_assignment]]
+[[+6.2_Procedural_blocks_and_assignments]]
+[[+6.3_Parallel_and_sequential_blocks]]
+[[+6.4_Statements]]
+[[+6.5_Timing_control_statements]]
+[[+6.6_Conditional_statements]]
+[[+6.7_Case_statements]]
+[[+6.8_Looping_statements]]
+[[+6.9_Subroutine_call_statements]]
+[[+6.10_Assertion_statements]]
+[[+6.11_Clocking_block]]
+

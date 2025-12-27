@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-16T22:50:20+00:00
+
+====== clocking item ======
+Created Tuesday 16 December 2025
+
+**default** default_skew ;
+| clocking_direction list_of_clocking_decl_assign ;
+| { attribute_instance } [[2_Declarations/2.10_Assertion_declarations:assertion_item_declaration|assertion_item_declaration]]
+
+
+===== Backlinks =====
+[[clocking_declaration]]

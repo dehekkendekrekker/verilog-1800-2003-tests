@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-16T23:27:39+00:00
+
+====== property instance ======
+Created Tuesday 16 December 2025
+
+ [[9_General/9.3_Identifiers:ps_or_hierarchical_property_identifier|ps_or_hierarchical_property_identifier]] [ ( [ [[property_list_of_arguments]] ] ) ]
+
+===== Backlinks =====
+[[property_expr]]

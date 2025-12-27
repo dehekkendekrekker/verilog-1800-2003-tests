@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-17T00:37:52+00:00
+
+====== sequence method call ======
+Created Wednesday 17 December 2025
+
+[[sequence_instance]] . method_identifier
+
+
+===== Backlinks =====
+[[8_Expressions/8.4_Primaries:primary|primary]]

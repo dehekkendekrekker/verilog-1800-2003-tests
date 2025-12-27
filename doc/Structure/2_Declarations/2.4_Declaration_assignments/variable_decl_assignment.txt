@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== variable decl assignment ======
+Created Friday 27 December 2025
+
+variable_identifier { [[2_Declarations/2.2_Declaration_data_types:variable_dimension|variable_dimension]] } [ = [[8_Expressions/8.3_Expressions:expression|expression]] ]
+| dynamic_array_variable_identifier [[2_Declarations/2.2_Declaration_data_types:unsized_dimension|unsized_dimension]] { [[2_Declarations/2.2_Declaration_data_types:variable_dimension|variable_dimension]] }
+[ = [[dynamic_array_new]] ]
+| class_variable_identifier [ = [[class_new]] ]
+
+===== Backlinks =====
+[[2_Declarations/2.3_Declaration_lists:list_of_variable_decl_assignments|list_of_variable_decl_assignments]]

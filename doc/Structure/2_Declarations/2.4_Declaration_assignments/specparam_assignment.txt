@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== specparam assignment ======
+Created Friday 27 December 2025
+
+specparam_identifier = [[8_Expressions/8.3_Expressions:constant_mintypmax_expression|constant_mintypmax_expression]]
+| pulse_control_specparam
+
+===== Backlinks =====
+[[1_Source_text/1.1_Source_text:specparam_declaration|specparam_declaration]]

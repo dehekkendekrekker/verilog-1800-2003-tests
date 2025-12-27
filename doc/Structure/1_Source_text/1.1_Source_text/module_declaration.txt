@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== module declaration ======
+Created Friday 27 December 2025
+
+[[module_nonansi_header]]
+[ [[timeunits_declaration]] ] { [[1_Source_text/1.4_Module_items:module_item|module_item]] }
+**endmodule** [ : module_identifier ]
+| [[module_ansi_header]]
+[ [[timeunits_declaration]] ] { [[1_Source_text/1.4_Module_items:non_port_module_item|non_port_module_item]] }
+**endmodule** [ : module_identifier ]
+| { attribute_instance } [[module_keyword]] [ [[lifetime]] ] module_identifier ( . * ) ;
+[ [[timeunits_declaration]] ] { [[1_Source_text/1.4_Module_items:module_item|module_item]] }
+**endmodule** [ : module_identifier ]
+| **extern** [[module_nonansi_header]]
+| **extern** [[module_ansi_header]]
+
+===== Backlinks =====
+[[description]]
+[[non_port_module_item]]

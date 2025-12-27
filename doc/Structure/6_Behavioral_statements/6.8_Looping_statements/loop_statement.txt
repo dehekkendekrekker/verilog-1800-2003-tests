@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== loop statement ======
+Created Friday 27 December 2025
+
+**forever** [[6_Behavioral_statements/6.4_Statements:statement_or_null|statement_or_null]]
+| **repeat** ( [[8_Expressions/8.3_Expressions:expression|expression]] ) [[6_Behavioral_statements/6.4_Statements:statement_or_null|statement_or_null]]
+| **while** ( [[8_Expressions/8.3_Expressions:expression|expression]] ) [[6_Behavioral_statements/6.4_Statements:statement_or_null|statement_or_null]]
+| **for** ( [ [[for_initialization]] ] ; [ [[8_Expressions/8.3_Expressions:expression|expression]] ] ; [ [[for_step]] ] ) [[6_Behavioral_statements/6.4_Statements:statement_or_null|statement_or_null]]
+| **do** [[6_Behavioral_statements/6.4_Statements:statement_or_null|statement_or_null]] **while** ( [[8_Expressions/8.3_Expressions:expression|expression]] ) ;
+| **foreach** ( ps_or_hierarchical_array_identifier [ [[loop_variables]] ] ) [[6_Behavioral_statements/6.4_Statements:statement|statement]]
+
+===== Backlinks =====
+[[6_Behavioral_statements/6.4_Statements:statement_item|statement_item]]
+

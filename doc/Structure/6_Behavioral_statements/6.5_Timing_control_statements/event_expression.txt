@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-17T00:53:31+00:00
+
+====== event expression ======
+Created Wednesday 17 December 2025
+
+[ edge_identifier ] [[8_Expressions/8.3_Expressions:expression|expression]] [ **iff** [[8_Expressions/8.3_Expressions:expression|expression]] ]
+| [[2_Declarations/2.10_Assertion_declarations:sequence_instance|sequence_instance]] [ **iff** [[8_Expressions/8.3_Expressions:expression|expression]] ]
+| [[event_expression]] **or** [[event_expression]]
+| [[event_expression]] , [[event_expression]]
+| ( [[event_expression]] )
+
+===== Backlinks =====
+[[clocking_event]]

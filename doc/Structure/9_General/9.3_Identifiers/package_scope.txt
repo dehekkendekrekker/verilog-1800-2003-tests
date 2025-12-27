@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== package scope ======
+Created Friday 27 December 2025
+
+package_identifier ::
+| **$unit** ::
+
+===== Backlinks =====
+[[8_Expressions/8.4_Primaries:primary|primary]]
+[[8_Expressions/8.4_Primaries:constant_primary|constant_primary]]
+[[8_Expressions/8.4_Primaries:class_qualifier|class_qualifier]]
+[[ps_identifier]]
+[[ps_parameter_identifier]]
+[[ps_type_identifier]]

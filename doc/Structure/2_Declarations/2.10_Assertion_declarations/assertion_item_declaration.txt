@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-16T21:46:24+00:00
+
+====== assertion item declaration ======
+Created Tuesday 16 December 2025
+
+IEEE 1800-2023 Section A.2.10
+
+assertion_item_declaration ::=
+	[[property_declaration]]
+	| [[sequence_declaration]]
+	| [[..:..:let_declaration|let_declaration]]
+
+===== SVA-relevant paths =====
+
+==== Property declaration ====
+[[property_declaration]]
+
+==== Sequence declaration ====
+[[sequence_declaration]]
+
+==== Let declaration ====
+[[..:..:let_declaration|let_declaration]] (for reusable expressions)
+
+===== Backlinks =====
+[[1_Source_text/1.8_Checker_items:checker_or_generate_item_declaration|checker_or_generate_item_declaration]]
+[[6_Behavioral_statements/6.11_Clocking_block:clocking_item|clocking_item]]
+[[1_Source_text/1.11_Package_items:package_or_generate_item_declaration|package_or_generate_item_declaration]]
+

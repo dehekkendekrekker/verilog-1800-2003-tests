@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-22T00:00:00+00:00
+
+====== expression ======
+Created Sunday 22 December 2025
+
+[[8_Expressions/8.4_Primaries:primary|primary]]
+| [[8_Expressions/8.6_Operators:unary_operator|unary_operator]] { attribute_instance } [[8_Expressions/8.4_Primaries:primary|primary]]
+| [[inc_or_dec_expression]]
+| ( [[6_Behavioral_statements/6.2_Procedural_blocks_and_assignments:operator_assignment|operator_assignment]] )
+| [[8_Expressions/8.3_Expressions:expression|expression]] [[8_Expressions/8.6_Operators:binary_operator|binary_operator]] { attribute_instance } [[8_Expressions/8.3_Expressions:expression|expression]]
+| [[conditional_expression]]
+| [[inside_expression]]
+| [[tagged_union_expression]]
+
+===== Backlinks =====
+[[2_Declarations/2.2_Declaration_data_types:type_reference|type_reference]]
+[[6_Behavioral_statements/6.5_Timing_control_statements:event_expression|event_expression]]
+[[6_Behavioral_statements/6.5_Timing_control_statements:delay_or_event_control|delay_or_event_control]]
+[[6_Behavioral_statements/6.5_Timing_control_statements:wait_statement|wait_statement]]
+[[6_Behavioral_statements/6.5_Timing_control_statements:jump_statement|jump_statement]]
+[[6_Behavioral_statements/6.6_Conditional_statements:expression_or_cond_pattern|expression_or_cond_pattern]]
+[[6_Behavioral_statements/6.6_Conditional_statements:cond_pattern|cond_pattern]]
+[[6_Behavioral_statements/6.7_Case_statements:case_expression|case_expression]]
+[[6_Behavioral_statements/6.7_Case_statements:case_item_expression|case_item_expression]]
+[[6_Behavioral_statements/6.7_Case_statements:case_pattern_item|case_pattern_item]]
+[[6_Behavioral_statements/6.7_Case_statements:randcase_item|randcase_item]]
+[[6_Behavioral_statements/6.7_Case_statements:value_range|value_range]]
+[[6_Behavioral_statements/6.7_Case_statements:assignment_pattern|assignment_pattern]]
+[[6_Behavioral_statements/6.8_Looping_statements:loop_statement|loop_statement]]
+[[6_Behavioral_statements/6.8_Looping_statements:for_variable_declaration|for_variable_declaration]]
+[[6_Behavioral_statements/6.2_Procedural_blocks_and_assignments:operator_assignment|operator_assignment]]
+[[6_Behavioral_statements/6.2_Procedural_blocks_and_assignments:blocking_assignment|blocking_assignment]]
+[[6_Behavioral_statements/6.2_Procedural_blocks_and_assignments:nonblocking_assignment|nonblocking_assignment]]
+[[6_Behavioral_statements/6.2_Procedural_blocks_and_assignments:variable_assignment|variable_assignment]]
+

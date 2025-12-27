@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== tf port declaration ======
+Created Friday 27 December 2025
+
+{ attribute_instance } [[tf_port_direction]] [ **var** ] [[2_Declarations/2.2_Declaration_data_types:data_type_or_implicit|data_type_or_implicit]] [[2_Declarations/2.3_Declaration_lists:list_of_tf_variable_identifiers|list_of_tf_variable_identifiers]] ;
+
+===== Backlinks =====
+[[tf_item_declaration]]

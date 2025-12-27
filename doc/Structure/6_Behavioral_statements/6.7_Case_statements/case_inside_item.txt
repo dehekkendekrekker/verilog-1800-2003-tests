@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== case inside item ======
+Created Friday 27 December 2025
+
+[[range_list]] : [[6_Behavioral_statements/6.4_Statements:statement_or_null|statement_or_null]]
+| **default** [ : ] [[6_Behavioral_statements/6.4_Statements:statement_or_null|statement_or_null]]
+
+===== Backlinks =====
+[[case_statement]]
+

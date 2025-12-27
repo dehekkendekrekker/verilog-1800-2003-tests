@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-17T00:50:39+00:00
+
+====== ps or hierarchical sequence identifier ======
+Created Wednesday 17 December 2025
+
+[ [[package_scope]] ] sequence_identifier
+| hierarchical_sequence_identifier
+
+===== Backlinks =====
+[[2_Declarations/2.10_Assertion_declarations:sequence_instance|sequence_instance]]

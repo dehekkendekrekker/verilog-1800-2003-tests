@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== constant cast ======
+Created Friday 27 December 2025
+
+[[2_Declarations/2.2_Declaration_data_types:casting_type|casting_type]] ' ( [[8_Expressions/8.3_Expressions:constant_expression|constant_expression]] )
+
+===== Backlinks =====
+[[constant_primary]]

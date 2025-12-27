@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== expression or dist ======
+Created Friday 27 December 2025
+
+[[8_Expressions/8.3_Expressions:expression|expression]] [ **dist** { [[dist_list]] } ]
+
+===== Backlinks =====
+[[constraint_expression]]
+[[1_Source_text/1.4_Module_items:module_or_generate_item_declaration|module_or_generate_item_declaration]]
+[[1_Source_text/1.8_Checker_items:checker_or_generate_item_declaration|checker_or_generate_item_declaration]]

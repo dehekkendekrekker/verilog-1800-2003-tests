@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-17T00:39:00+00:00
+
+====== sequence instance ======
+Created Wednesday 17 December 2025
+
+ps_or_hierarchical_sequence_identifier [ ( [ [[sequence_list_of_arguments]] ] ) ]
+
+===== Backlinks =====
+[[sequence_method_call]]
+[[6_Behavioral_statements/6.5_Timing_control_statements:event_expression|event_expression]]

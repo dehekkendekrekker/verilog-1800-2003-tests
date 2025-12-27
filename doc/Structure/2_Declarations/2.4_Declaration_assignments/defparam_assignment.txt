@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== defparam assignment ======
+Created Friday 27 December 2025
+
+[[9_General/9.3_Identifiers:hierarchical_parameter_identifier|hierarchical_parameter_identifier]] = [[8_Expressions/8.3_Expressions:constant_mintypmax_expression|constant_mintypmax_expression]]
+
+===== Backlinks =====
+[[2_Declarations/2.1_Declaration_types:defparam_declaration|defparam_declaration]]

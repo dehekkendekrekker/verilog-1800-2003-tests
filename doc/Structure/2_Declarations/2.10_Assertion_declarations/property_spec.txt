@@ -1,0 +1,50 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-22T00:00:00+00:00
+
+====== property_spec ======
+Created Sunday 22 December 2025
+
+IEEE 1800-2023 Section A.2.10
+
+property_spec ::=
+	[ [[6_Behavioral_statements/6.5_Timing_control_statements:clocking_event|clocking_event]] ] [ **disable iff** ( expression_or_dist ) ] [[property_expr]]
+
+===== Permutations =====
+
+==== Permutation 1: property_expr only ====
+property_expr
+
+Example: a |-> b
+
+==== Permutation 2: With clocking_event ====
+clocking_event property_expr
+
+Examples:
+* @(posedge clk) property_expr
+* @(negedge clk) property_expr
+* @(posedge clk iff enable) property_expr
+* @clk property_expr
+
+==== Permutation 3: With disable iff ====
+disable iff ( expression_or_dist ) property_expr
+
+Example: disable iff (reset) a |-> b
+
+==== Permutation 4: With clocking_event and disable iff ====
+clocking_event disable iff ( expression_or_dist ) property_expr
+
+Example: @(posedge clk) disable iff (reset) req |-> gnt
+
+===== SVA-relevant paths =====
+[[property_expr]]
+[[6_Behavioral_statements/6.5_Timing_control_statements:clocking_event|clocking_event]]
+
+===== Backlinks =====
+[[assert_property_statement]]
+[[assume_property_statement]]
+[[cover_property_statement]]
+[[restrict_property_statement]]
+[[expect_property_statement]]
+[[property_declaration]]
+
