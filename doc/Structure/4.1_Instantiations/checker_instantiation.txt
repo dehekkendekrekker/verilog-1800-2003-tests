@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2025-12-16T23:40:24+00:00
 
-====== checker instantiations ======
+====== checker_instantiation ======
 Created Tuesday 16 December 2025
 
 ps_checker_identifier name_of_instance ( [ [[list_of_checker_port_connections]] ] )

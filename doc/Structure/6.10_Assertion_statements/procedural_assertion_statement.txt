@@ -7,7 +7,7 @@ Created Tuesday 16 December 2025
 
 [[2.10_Assertion_declarations:concurrent_assertion_statement|concurrent_assertion_statement]]
 [[immediate_assertion_statement]]
-[[4.1_Instantiations:checker_instantiations|checker_instantiation]]
+[[4.1_Instantiations:checker_instantiation|checker_instantiation]]
 
 ===== Backlinks =====
 [[6.4_Statements:statement_item|statement_item]]

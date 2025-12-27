@@ -12,7 +12,6 @@ Generated instantiation grammar rules.
 ===== Generate Constructs =====
 * [[+generate_region]]
 * [[+generate_block]]
-* [[+generate_block_or_null]]
 * [[+conditional_generate_construct]]
 * [[+if_generate_construct]]
 * [[+case_generate_construct]]

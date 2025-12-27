@@ -11,5 +11,4 @@ Created Tuesday 16 December 2025
 
 ===== Backlinks =====
 [[1.8_Checker_items:checker_or_generate_item_declaration|checker_or_generate_item_declaration]]
-[[checker_or_item_declaration]]
 [[1.11_Package_items:package_or_generate_item_declaration|package_or_generate_item_declaration]]

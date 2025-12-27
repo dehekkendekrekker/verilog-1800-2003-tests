@@ -12,5 +12,5 @@ Created Sunday 22 December 2025
 
 ===== Backlinks =====
 [[loop_generate_construct]]
-[[generate_block_or_null]]
+[[if_generate_construct]]
 [[case_generate_item]]

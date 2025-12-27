@@ -1,7 +1,3 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2025-12-27T15:45:00+00:00
-
 IEEE Computer Society
 
 Developed by the
@@ -7712,8 +7708,8 @@ follows:
 —
 
 Only the following operators are valid on chandle variables:
-* Equality (==), inequality (!=) with another chandle or with null
-* Case equality (===), case inequality (!==) with another chandle or with null (same semantics
+• Equality (==), inequality (!=) with another chandle or with null
+• Case equality (===), case inequality (!==) with another chandle or with null (same semantics
 as == and !=)
 
 —
@@ -7724,8 +7720,8 @@ Chandles can be tested for a Boolean value, which shall be 0 if the chandle is n
 —
 
 Only the following assignments can be made to a chandle:
-* Assignment from another chandle
-* Assignment to null
+• Assignment from another chandle
+• Assignment to null
 
 —
 
@@ -7756,12 +7752,12 @@ Chandles shall not be assigned to variables of any other type.
 —
 
 Chandles shall not be used as follows:
-* In any expression other than as permitted in this subclause
-* As ports
-* In sensitivity lists or event expressions
-* In continuous assignments
-* In untagged unions
-* In packed types
+• In any expression other than as permitted in this subclause
+• As ports
+• In sensitivity lists or event expressions
+• In continuous assignments
+• In untagged unions
+• In packed types
 
 6.15 Class
 A class variable can hold a handle to a class object. Defining classes and creating objects is discussed in
@@ -11957,10 +11953,10 @@ following rules govern queue operators:
 
 Q[a:b] yields a queue with b-a+1 elements.
 
-* If a > b, then Q[a:b] yields the empty queue {}.
-* Q[n:n] yields a queue with one item, the one at position n. Thus, Q[n:n] === {Q[n]}.
-* If n lies outside Q’s range (n < 0 or n > $), then Q[n:n] yields the empty queue {}.
-* If either a or b are 4-state expressions containing x or z values, it yields the empty queue {}.
+• If a > b, then Q[a:b] yields the empty queue {}.
+• Q[n:n] yields a queue with one item, the one at position n. Thus, Q[n:n] === {Q[n]}.
+• If n lies outside Q’s range (n < 0 or n > $), then Q[n:n] yields the empty queue {}.
+• If either a or b are 4-state expressions containing x or z values, it yields the empty queue {}.
 —
 
 Q[a:b] where a < 0 is the same as Q[0:b].
@@ -15382,10 +15378,10 @@ initial procedure, denoted with the keyword initial (see 9.2.1)
 —
 
 always procedure, denoted with the keywords:
-* always (see 9.2.2.1)
-* always_comb (see 9.2.2.2)
-* always_latch (see 9.2.2.3)
-* always_ff (see 9.2.2.4)
+• always (see 9.2.2.1)
+• always_comb (see 9.2.2.2)
+• always_latch (see 9.2.2.3)
+• always_ff (see 9.2.2.4)
 
 —
 
@@ -18247,8 +18243,8 @@ A continuous or procedural assignment
 —
 
 For a parameter with an explicit type declaration:
-* A parameter value assignment in a module, interface, program, or class
-* A parameter value override in the instantiation of a module, interface, or program
+• A parameter value assignment in a module, interface, program, or class
+• A parameter value override in the instantiation of a module, interface, or program
 
 259
 Authorized licensed use limited to: Shovan Roy.
@@ -18264,7 +18260,7 @@ rightsatreserved.
 IEEE Std 1800-2023
 IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Verification Language
 
-* A parameter value override in the instantiation of a class or in the left-hand side of a class scope
+• A parameter value override in the instantiation of a class or in the left-hand side of a class scope
 resolution operator
 —
 
@@ -18285,9 +18281,9 @@ A tagged union expression
 —
 
 For an expression that is used as the right-hand value in an assignment-like context:
-* If a parenthesized expression, then the expression within the parentheses
-* If a mintypmax expression, then the colon-separated expressions
-* If a conditional operator expression, then the second and third operand
+• If a parenthesized expression, then the expression within the parentheses
+• If a mintypmax expression, then the colon-separated expressions
+• If a conditional operator expression, then the second and third operand
 
 —
 
@@ -21860,7 +21856,7 @@ op i, where op is:
 L(i)
 
 i op j, where op is:
-=== !== == ! ===
+=== !== == !=
 
 >
 
@@ -22131,9 +22127,9 @@ independent of the remainder of the expression.
 —
 
 For non-self-determined operands, the following rules apply:
-* If any operand is real, the result is real.
-* If any operand is unsigned, the result is unsigned, regardless of the operator.
-* If all operands are signed, the result will be signed, regardless of operator, except when specified
+• If any operand is real, the result is real.
+• If any operand is unsigned, the result is unsigned, regardless of the operator.
+• If all operands are signed, the result will be signed, regardless of operator, except when specified
 otherwise.
 
 11.8.2 Steps for evaluating an expression
@@ -22153,7 +22149,7 @@ Propagate the type and size of the expression (or self-determined subexpression)
 context-determined operands of the expression. In general, any context-determined operand of an
 operator shall be the same type and size as the result of the operator. However, there are two
 exceptions:
-* If the result type of the operator is real and if it has a context-determined operand that is not real,
+• If the result type of the operator is real and if it has a context-determined operand that is not real,
 that operand shall be treated as if it were self-determined and then converted to real just before
 the operator is applied.
 
@@ -22171,7 +22167,7 @@ rightsatreserved.
 IEEE Std 1800-2023
 IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Verification Language
 
-* The relational and equality operators have operands that are neither fully self-determined nor
+• The relational and equality operators have operands that are neither fully self-determined nor
 fully context-determined. The operands shall affect each other as if they were context-determined
 operands with a result type and size (maximum of the two operand sizes) determined from them.
 However, the actual result type shall always be 1 bit unsigned. The type and size of the operand
@@ -22909,19 +22905,19 @@ Procedural programming statements shall be contained within any of the following
 —
 
 Procedural blocks that automatically activate, introduced with one of the keywords:
-* initial
-* always
-* always_comb
-* always_latch
-* always_ff
-* final
+• initial
+• always
+• always_comb
+• always_latch
+• always_ff
+• final
 See Clause 9 for a description of each type of procedural block.
 
 —
 
 Procedural blocks that activate when called, introduced with one of the keywords:
-* task
-* function
+• task
+• function
 See Clause 13 for a description of tasks and functions.
 
 Procedural programming statements include the following:
@@ -23683,13 +23679,13 @@ ordinary procedural assignment.
 —
 
 Each pattern is matched using the following simple recursive rule:
-* An identifier pattern always succeeds (matches any value), and the identifier is bound to that
+• An identifier pattern always succeeds (matches any value), and the identifier is bound to that
 value (using ordinary procedural assignment).
-* The wildcard pattern “.*” always succeeds.
-* A constant expression pattern succeeds if V is equal to its value.
-* A tagged union pattern succeeds if the value has the same tag and, recursively, if the nested
+• The wildcard pattern “.*” always succeeds.
+• A constant expression pattern succeeds if V is equal to its value.
+• A tagged union pattern succeeds if the value has the same tag and, recursively, if the nested
 pattern matches the member value of the tagged union.
-* A structure pattern succeeds if, recursively, each of the nested member patterns matches the
+• A structure pattern succeeds if, recursively, each of the nested member patterns matches the
 corresponding member values in V. In structure patterns with named members, the textual order
 of members does not matter, and members can be omitted. Omitted members are ignored.
 
@@ -27912,21 +27908,21 @@ second time. The following will occur during simulation:
 
 Upon each deferred assertion failure, the subroutine arguments of the action block are evaluated,
 even though the action block itself is not executed.
-* Upon the first failure of a1, the arguments of $error are examined. Since the second argument
+• Upon the first failure of a1, the arguments of $error are examined. Since the second argument
 contains a function call, that function (error_type(opcode), with opcode=64) is evaluated.
 During this function call, func_assert fails and displays the message “Opcode error.”
-* Upon the first failure of a2, the arguments of error_type are examined. Since its only
+• Upon the first failure of a2, the arguments of error_type are examined. Since its only
 argument is the expression opcode, its value 64 is used and no further evaluation is needed at
 this time.
-* The pending reports with opcode=64 are placed on the deferred assertion report queue.
+• The pending reports with opcode=64 are placed on the deferred assertion report queue.
 
 —
 
 When block b1 is executed again, the pending reports are flushed from the deferred assertion report
 queue.
-* Upon the second failure of a1, function error_type is called with opcode==0, so assertion
+• Upon the second failure of a1, function error_type is called with opcode==0, so assertion
 func_assert passes.
-* Upon the second failure of a2, the value of 0 is used for the expression opcode, and no further
+• Upon the second failure of a2, the value of 0 is used for the expression opcode, and no further
 evaluation is needed at this time.
 
 —
@@ -28195,10 +28191,10 @@ This rule has the following exceptions:
 
 Sampled values of automatic variables (see 16.14.6), local variables (see 16.10), and active free
 checker variables (see 17.7.2) are their current values. However,
-* When a past or a future value of an active free checker variable is referenced by a sampled value
+• When a past or a future value of an active free checker variable is referenced by a sampled value
 function (see 16.9.3 and 16.9.4), this value is sampled in the Postponed region of the
 corresponding past or future clock tick;
-* When a past or a future value of an automatic variable is referenced by a sampled value function,
+• When a past or a future value of an automatic variable is referenced by a sampled value function,
 the current value of the automatic variable is taken instead.
 
 —
@@ -33162,9 +33158,9 @@ same cycle.
 
 Restriction 4: For every recursive instance of property q in the declaration of property p, each actual
 argument expression e of the instance satisfies at least one of the following conditions:
-* e is itself a formal argument of p.
-* No formal argument of p appears in e.
-* e is bound to a local variable formal argument of q.
+• e is itself a formal argument of p.
+• No formal argument of p appears in e.
+• e is bound to a local variable formal argument of q.
 For example:
 property fibonacci1 (local input int a, b, n, int fib_sig);
 (n > 0)
@@ -33453,9 +33449,9 @@ four levels of satisfaction of a property:
 —
 
 Holds strongly
-* No bad states have been seen.
-* All future obligations have been met.
-* The property will hold on any extension of the path.
+• No bad states have been seen.
+• All future obligations have been met.
+• The property will hold on any extension of the path.
 
 —
 
@@ -33475,22 +33471,22 @@ rightsatreserved.
 IEEE Std 1800-2023
 IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Verification Language
 
-* No bad states have been seen.
-* All future obligations have been met.
-* The property may or may not hold on a given extension of the path.
+• No bad states have been seen.
+• All future obligations have been met.
+• The property may or may not hold on a given extension of the path.
 —
 
 Pending
-* No bad states have been seen.
-* Future obligations have not been met.
-* The property may or may not hold on a given extension of the path.
+• No bad states have been seen.
+• Future obligations have not been met.
+• The property may or may not hold on a given extension of the path.
 
 —
 
 Fails
-* A bad state has been seen.
-* Future obligations may or may not have been met.
-* The property will not hold on any extension of the path.
+• A bad state has been seen.
+• Future obligations may or may not have been met.
+• The property will not hold on any extension of the path.
 
 16.12.22 Nondegeneracy
 It is possible to define sequences that can never be matched. For example:
@@ -35358,13 +35354,13 @@ expression_or_distn : property_stmtn
 endcase
 
 is nonvacuous if, and only if:
-* For some index i such that 1 <= i <= n, (expression_or_dist === expression_or_disti), and
-* For each index j such that 1 <= j < i, (expression_or_dist !== expression_or_distj), and
-* The underlying evaluation attempt of property_stmti is nonvacuous
+• For some index i such that 1 <= i <= n, (expression_or_dist === expression_or_disti), and
+• For each index j such that 1 <= j < i, (expression_or_dist !== expression_or_distj), and
+• The underlying evaluation attempt of property_stmti is nonvacuous
 or
-* The default is present, and
-* For each index i such that 1 <= i <= n, (expression_or_dist !== expression_or_disti), and
-* The underlying evaluation attempt of property_stmtd is nonvacuous.
+• The default is present, and
+• For each index i such that 1 <= i <= n, (expression_or_dist !== expression_or_disti), and
+• The underlying evaluation attempt of property_stmtd is nonvacuous.
 ag) An evaluation attempt of a property of the form disable iff (expression_or_dist) property_expr
 is nonvacuous if, and only if, the underlying evaluation attempt of property_expr is nonvacuous and
 expression_or_dist does not hold in any time step of that evaluation attempt.
@@ -38445,7 +38441,7 @@ rand enum {little, big, other} mode;
 -> len > 100;
 
 In this example, the value of mode implies that the value of len shall be constrained to less than 10 (if mode
-== little), greater than 100 (if mode == big), or unconstrained (if mode != little and mode ! ==
+== little), greater than 100 (if mode == big), or unconstrained (if mode != little and mode !=
 big).
 As with all constraints, the left-hand and right-hand sides of implication constraints are interdependent.
 Thus, in the preceding declaration, just as the value of mode constrains the value of len, the value of len
@@ -39149,18 +39145,18 @@ specify the resulting value for the guard:
 Conjunction ( && ): If any one of the subexpressions evaluates to FALSE, then the guard evaluates to
 FALSE. If any one subexpression evaluates to ERROR, then the guard evaluates to ERROR. Otherwise,
 the guard evaluates to TRUE.
-* If the guard evaluates to FALSE, then the constraint is eliminated.
-* If the guard evaluates to TRUE, then a (possibly conditional) constraint is generated.
-* If the guard evaluates to ERROR, then an error is generated and randomize() fails.
+• If the guard evaluates to FALSE, then the constraint is eliminated.
+• If the guard evaluates to TRUE, then a (possibly conditional) constraint is generated.
+• If the guard evaluates to ERROR, then an error is generated and randomize() fails.
 
 —
 
 Disjunction ( || ): If any one of the subexpressions evaluates to TRUE, then the guard evaluates to
 TRUE. If any one subexpression evaluates to ERROR, then the guard evaluates to ERROR. Otherwise,
 the guard evaluates to FALSE.
-* If the guard evaluates to FALSE, then a (possibly conditional) constraint is generated.
-* If the guard evaluates to TRUE, then an unconditional constraint is generated.
-* If the guard evaluates to ERROR, then an error is generated and randomize() fails.
+• If the guard evaluates to FALSE, then a (possibly conditional) constraint is generated.
+• If the guard evaluates to TRUE, then an unconditional constraint is generated.
+• If the guard evaluates to ERROR, then an error is generated and randomize() fails.
 
 —
 
@@ -39664,8 +39660,8 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 —
 
 The constraint solver shall satisfy the following properties:
-* If a call to randomize() only involves soft constraints, the call can never fail.
-* If the soft constraints do not exhibit any contradictions, then the result is the same as if all
+• If a call to randomize() only involves soft constraints, the call can never fail.
+• If the soft constraints do not exhibit any contradictions, then the result is the same as if all
 constraints were declared hard.
 
 18.5.13.2 Disabling soft constraints
@@ -44548,9 +44544,8 @@ user-defined bins, the coverage of a coverpoint is computed as follows:
 bins covered
 C i = -------------------------bins
 where
-| bins        |
-|-------------|
-| binscovered |
+|bins|
+|binscovered|
 
 is the cardinality of the set of bins defined
 is the cardinality of the covered bins—the subset of all (defined) bins that are covered
@@ -45840,16 +45835,16 @@ $high – $low + 1.
 
 $dimensions shall return the following:
 
-* The total number of dimensions in the array (packed and unpacked, static or dynamic)
-* 1 for the string data type or any other nonarray type that is equivalent to a simple bit vector
+• The total number of dimensions in the array (packed and unpacked, static or dynamic)
+• 1 for the string data type or any other nonarray type that is equivalent to a simple bit vector
 type (see 6.11.1)
-* 0 for any other type
+• 0 for any other type
 —
 
 $unpacked_dimensions shall return the following:
 
-* The total number of unpacked dimensions for an array (static or dynamic)
-* 0 for any other type
+• The total number of unpacked dimensions for an array (static or dynamic)
+• 0 for any other type
 The dimensions of an array shall be numbered as follows: the slowest varying dimension (packed or
 unpacked) is dimension 1. Successively faster varying dimensions have sequentially higher dimension
 numbers. Intermediate type definitions are expanded first before numbering the dimensions.
@@ -53567,9 +53562,9 @@ data type.
 —
 
 If the port kind is omitted:
-* For input and inout ports, the port shall default to a net of default net type. The default net
+• For input and inout ports, the port shall default to a net of default net type. The default net
 type can be changed using the `default_nettype compiler directive (see 22.8).
-* For output ports, the default port kind depends on how the data type is specified:
+• For output ports, the default port kind depends on how the data type is specified:
 —
 
 If the data type is omitted or declared with the implicit_data_type syntax, the port kind
@@ -53580,7 +53575,7 @@ shall default to a net of default net type.
 If the data type is declared with the explicit data_type syntax, the port kind shall default to
 variable.
 
-* A ref port is always a variable.
+• A ref port is always a variable.
 
 735
 Authorized licensed use limited to: Shovan Roy.
@@ -58137,9 +58132,9 @@ Only the following operations are directly allowed on virtual interface variable
 —
 
 Assignment ( = ) from the following:
-* Another virtual interface of the same type
-* An interface instance of the same type
-* The special constant null
+• Another virtual interface of the same type
+• An interface instance of the same type
+• The special constant null
 
 801
 Authorized licensed use limited to: Shovan Roy.
@@ -58158,9 +58153,9 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 —
 
 Equality ( == ) and inequality ( != ) with the following:
-* Another virtual interface of the same type
-* An interface instance of the same type
-* The special constant null
+• Another virtual interface of the same type
+• An interface instance of the same type
+• The special constant null
 
 Virtual interfaces shall not be used as ports, interface items, or as members of unions.
 Once a virtual interface has been initialized, all the components of the underlying interface instance are
@@ -72205,11 +72200,11 @@ The following behavior characterizes context mechanics for imported call chains:
 —
 
 The following actions determine an import call chain’s context value:
-* When a SystemVerilog subroutine calls a DPI context import, a context for the import call chain
+• When a SystemVerilog subroutine calls a DPI context import, a context for the import call chain
 is created that is equal to the instantiated scope of the import declaration.
-* When a routine in an import call chain invokes svSetScope with a legal argument, the call
+• When a routine in an import call chain invokes svSetScope with a legal argument, the call
 chain’s context is set to the indicated scope.
-* When a call from an import call chain to an exported SystemVerilog subroutine finishes and
+• When a call from an import call chain to an exported SystemVerilog subroutine finishes and
 returns to the chain, the call chain’s context is set equal to its value when the call to the export
 was made.
 
@@ -72447,10 +72442,10 @@ Enumeration types interpreted as the type associated with that enumeration
 —
 
 Types constructed from the supported types with the help of the following constructs:
-* struct
-* union (packed forms only)
-* Unpacked array
-* typedef
+• struct
+• union (packed forms only)
+• Unpacked array
+• typedef
 
 The following caveats apply for the types permitted in DPI:
 —
@@ -80976,18 +80971,18 @@ Syntax: The exact name of the PLI routine and the order of the arguments passed 
 
 Returns: The definition of the value returned when the PLI routine is called, along with a brief
 description of what the value represents. The return definition contains the following fields:
-* Type: The data type of the C value that is returned. The data type is either a standard ANSI C
+• Type: The data type of the C value that is returned. The data type is either a standard ANSI C
 type or a special type defined within the PLI.
-* Description: A brief description of what the value represents.
+• Description: A brief description of what the value represents.
 
 —
 
 Arguments: The definition of the arguments passed with a call to the PLI routine. The argument
 definition contains the following fields:
-* Type: The data type of the C values that are passed as arguments. The data type is either a
+• Type: The data type of the C values that are passed as arguments. The data type is either a
 standard ANSI C type or a special type defined within the PLI.
-* Name: The name of the argument used in the syntax definition.
-* Description: A brief description of what the value represents.
+• Name: The name of the argument used in the syntax definition.
+• Description: A brief description of what the value represents.
 
 All arguments shall be considered mandatory unless specifically noted in the definition of the PLI
 routine.
@@ -86146,15 +86141,15 @@ Module definition containing the assertion
 —
 
 Assertion type
-* Sequence instance
-* Assert
-* Assume
-* Cover
-* Restrict
-* Property instance
-* Immediate assert
-* Immediate assume
-* Immediate cover
+• Sequence instance
+• Assert
+• Assume
+• Cover
+• Restrict
+• Property instance
+• Immediate assert
+• Immediate assume
+• Immediate cover
 
 —
 
@@ -86582,7 +86577,7 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 —
 
 Usage example: vpi_control(vpiAssertionSysReset, handle)
-* vpiAssertionSysReset discards all attempts in progress for all assertions and restores the entire
+• vpiAssertionSysReset discards all attempts in progress for all assertions and restores the entire
 assertion system to its initial state. Any preexisting vpiAssertionStepSuccess and
 vpiAssertionStepFailure callbacks shall be removed; all other assertion callbacks shall
 remain.
@@ -86590,78 +86585,78 @@ remain.
 —
 
 Usage example: vpi_control(vpiAssertionSysOff, handle)
-* vpiAssertionSysOff disables any further assertions from being started. Assertions already
+• vpiAssertionSysOff disables any further assertions from being started. Assertions already
 executing are not affected. This control has no effect on preexisting assertion callbacks.
 
 —
 
 Usage example: vpi_control(vpiAssertionSysKill, handle)
-* vpiAssertionSysKill discards all attempts in progress and disables any further assertions from
+• vpiAssertionSysKill discards all attempts in progress and disables any further assertions from
 being started. This control has no effect on preexisting assertion callbacks.
 
 —
 
 Usage example: vpi_control(vpiAssertionSysLock, handle)
-* vpiAssertionSysLock locks the assertions from being changed. The status of the assertions can
+• vpiAssertionSysLock locks the assertions from being changed. The status of the assertions can
 not be changed without unlocking it.
 
 —
 
 Usage example: vpi_control(vpiAssertionSysUnlock, handle)
-* vpiAssertionSysUnlock unlocks the assertions. Now, the status of the assertion can be changed.
+• vpiAssertionSysUnlock unlocks the assertions. Now, the status of the assertion can be changed.
 
 —
 
 Usage example: vpi_control(vpiAssertionSysOn, handle)
-* vpiAssertionSysOn restarts the assertion system after it was stopped or suspended (e.g., due to
+• vpiAssertionSysOn restarts the assertion system after it was stopped or suspended (e.g., due to
 vpiAssertionSysOff or vpiAssertionSysKill). Once started, attempts shall resume on all
 assertions. This control has no effect on prior assertion callbacks.
 
 —
 
 Usage example: vpi_control(vpiAssertionSysEnd, handle)
-* vpiAssertionSysEnd discards all attempts in progress and disables any further assertions from
+• vpiAssertionSysEnd discards all attempts in progress and disables any further assertions from
 starting. All assertion callbacks currently installed shall be removed. Once this control is issued,
 no further assertion-related actions shall be permitted.
 
 —
 
 Usage example: vpi_control(vpiAssertionSysDisablePassAction, handle)
-* vpiAssertionSysDisablePassAction disables execution of pass action for vacuous and
+• vpiAssertionSysDisablePassAction disables execution of pass action for vacuous and
 nonvacuous success of assertions. This has no effect on any existing attempts or if the assertion
 pass action is already disabled. By default, all assertion pass actions are enabled.
 
 —
 
 Usage example: vpi_control(vpiAssertionSysEnablePassAction, handle)
-* vpiAssertionSysEnablePassAction enables execution of pass action for vacuous and
+• vpiAssertionSysEnablePassAction enables execution of pass action for vacuous and
 nonvacuous success of assertions. This has no effect on any existing attempts or if the assertion
 pass action is already enabled.
 
 —
 
 Usage example: vpi_control(vpiAssertionSysDisableFailAction, handle)
-* vpiAssertionSysDisableFailAction disables execution of fail action for assertions. This has no
+• vpiAssertionSysDisableFailAction disables execution of fail action for assertions. This has no
 effect on any existing attempts or if the assertion fail action is already disabled. By default, all
 fail actions are enabled.
 
 —
 
 Usage example: vpi_control(vpiAssertionSysEnableFailAction, handle)
-* vpiAssertionSysEnableFailAction enables execution of fail action for assertions. This has no
+• vpiAssertionSysEnableFailAction enables execution of fail action for assertions. This has no
 effect on any existing attempts or if the assertion fail action is already enabled.
 
 —
 
 Usage example: vpi_control(vpiAssertionSysDisableVacuousAction, handle)
-* vpiAssertionSysDisableVacuousAction disables execution of pass action on vacuous success
+• vpiAssertionSysDisableVacuousAction disables execution of pass action on vacuous success
 of assertions. This has no effect on any existing attempts or if the execution of pass action on
 vacuous success is already disabled. By default, all vacuous actions are enabled.
 
 —
 
 Usage example: vpi_control(vpiAssertionSysEnableNonvacuousAction, handle)
-* vpiAssertionSysEnableNonvacuousAction enables execution of pass action on nonvacuous
+• vpiAssertionSysEnableNonvacuousAction enables execution of pass action on nonvacuous
 success of assertions. This has no effect on any existing attempts or if the pass action for
 nonvacuous success is already enabled.
 
@@ -86687,58 +86682,58 @@ For the following operators, the second argument shall be a valid assertion hand
 —
 
 Usage example: vpi_control(vpiAssertionReset, assertionHandle)
-* vpiAssertionReset discards all current attempts in progress for this assertion and resets this
+• vpiAssertionReset discards all current attempts in progress for this assertion and resets this
 assertion to its initial state.
 
 —
 
 Usage example: vpi_control(vpiAssertionLock, assertionHandle)
-* vpiAssertionLock locks the status of the assertion from being changed. The status of the
+• vpiAssertionLock locks the status of the assertion from being changed. The status of the
 assertion cannot be changed without unlocking it.
 
 —
 
 Usage example: vpi_control(vpiAssertionUnlock, assertionHandle)
-* vpiAssertionUnlock unlocks the assertion. Now the status of the assertion can be changed.
+• vpiAssertionUnlock unlocks the assertion. Now the status of the assertion can be changed.
 
 —
 
 Usage example: vpi_control(vpiAssertionDisable, assertionHandle)
-* vpiAssertionDisable disables the starting of any new attempts for this assertion. This has no
+• vpiAssertionDisable disables the starting of any new attempts for this assertion. This has no
 effect on any existing attempts or if the assertion is already disabled. By default, all assertions are
 enabled.
 
 —
 
 Usage example: vpi_control(vpiAssertionEnable, assertionHandle)
-* vpiAssertionEnable enables starting new attempts for this assertion. This has no effect on any
+• vpiAssertionEnable enables starting new attempts for this assertion. This has no effect on any
 existing attempts or if the assertion is already enabled.
 
 —
 
 Usage example: vpi_control(vpiAssertionDisablePassAction, assertionHandle)
-* vpiAssertionDisablePassAction disables execution of pass action for vacuous and nonvacuous
+• vpiAssertionDisablePassAction disables execution of pass action for vacuous and nonvacuous
 success of this assertion. This has no effect on any existing attempts or if the assertion pass action
 is already disabled. By default, all pass actions are enabled.
 
 —
 
 Usage example: vpi_control(vpiAssertionEnablePassAction, assertionHandle)
-* vpiAssertionEnablePassAction enables execution of pass action for vacuous and nonvacuous
+• vpiAssertionEnablePassAction enables execution of pass action for vacuous and nonvacuous
 success of this assertion. This has no effect on any existing attempts or if the assertion pass action
 is already enabled.
 
 —
 
 Usage example: vpi_control(vpiAssertionDisableFailAction, assertionHandle)
-* vpiAssertionDisableFailAction disables execution of fail action for this assertion. This has no
+• vpiAssertionDisableFailAction disables execution of fail action for this assertion. This has no
 effect on any existing attempts or if the assertion fail action is already disabled. By default, all
 fail actions are enabled.
 
 —
 
 Usage example: vpi_control(vpiAssertionEnableFailAction, assertionHandle)
-* vpiAssertionEnableFailAction enables execution of fail action for this assertion. This has no
+• vpiAssertionEnableFailAction enables execution of fail action for this assertion. This has no
 effect on any existing attempts or if the assertion fail action is already enabled.
 
 —
@@ -86746,7 +86741,7 @@ effect on any existing attempts or if the assertion fail action is already enabl
 Usage example: vpi_control( vpiAssertionDisableVacuousAction,
 assertionHandle)
 
-* vpiAssertionDisableVacuousAction disables execution of pass action on vacuous success of
+• vpiAssertionDisableVacuousAction disables execution of pass action on vacuous success of
 this assertion. This has no effect on any existing attempts or if the execution of pass action on
 vacuous success is already disabled. By default, all vacuous actions are enabled.
 —
@@ -86754,7 +86749,7 @@ vacuous success is already disabled. By default, all vacuous actions are enabled
 Usage example: vpi_control(vpiAssertionEnableNonvacuousAction,
 assertionHandle)
 
-* vpiAssertionEnableNonvacuousAction enables execution of pass action on nonvacuous
+• vpiAssertionEnableNonvacuousAction enables execution of pass action on nonvacuous
 success of this assertion. This has no effect on any existing attempts or if the pass action is
 already enabled for nonvacuous success of this assertion.
 
@@ -86779,14 +86774,14 @@ shall be an attempt start time (as a pointer to a correctly initialized s_vpi_ti
 Usage example:
 vpi_control(vpiAssertionKill, assertionHandle, attemptStartTime)
 
-* vpiAssertionKill discards the given attempt, but leaves the assertion enabled and does not reset
+• vpiAssertionKill discards the given attempt, but leaves the assertion enabled and does not reset
 any state used by this assertion (e.g., past() sampling).
 —
 
 Usage example:
 vpi_control(vpiAssertionDisableStep, assertionHandle, attemptStartTime)
 
-* vpiAssertionDisableStep disables step callbacks for this assertion. This has no effect if stepping
+• vpiAssertionDisableStep disables step callbacks for this assertion. This has no effect if stepping
 is not enabled or it is already disabled.
 For the following operator, the second argument shall be a valid assertion handle, the third argument shall be
 an attempt start time (as a pointer to a correctly initialized s_vpi_time structure), and the fourth argument
@@ -86797,12 +86792,12 @@ Usage example:
 vpi_control(vpiAssertionEnableStep, assertionHandle, attemptStartTime,
 vpiAssertionClockSteps)
 
-* vpiAssertionEnableStep enables step callbacks to occur for this assertion attempt. By default,
+• vpiAssertionEnableStep enables step callbacks to occur for this assertion attempt. By default,
 stepping is disabled for all assertions. This call has no effect if stepping is already enabled for
 this assertion and attempt, other than possibly changing the stepping mode for the attempt if the
 attempt has not occurred yet. The stepping mode of any particular attempt cannot be modified
 after the assertion attempt in question has started.
-* The fine-grained step control constant vpiAssertionClockSteps indicates callbacks on a
+• The fine-grained step control constant vpiAssertionClockSteps indicates callbacks on a
 per-assertion/clock-tick basis. The assertion clock is the event expression supplied as the
 clocking expression to the assertion declaration. This step callback shall occur at every clocking
 event, when stepping is enabled, as the assertion “advances” in evaluation.
@@ -87603,18 +87598,18 @@ vpiCoverageSave
 —
 
 VPI properties
-* Coverage type properties
+• Coverage type properties
 vpiAssertCoverage
 vpiFsmStateCoverage
 vpiStatementCoverage
 vpiToggleCoverage
 
-* Coverage status properties
+• Coverage status properties
 vpiCovered
 vpiCoveredMax
 vpiCoveredCount
 
-* Assertion-specific coverage status properties
+• Assertion-specific coverage status properties
 vpiAssertAttemptCovered
 vpiAssertSuccessCovered
 vpiAssertFailureCovered
@@ -87622,7 +87617,7 @@ vpiAssertVacuousSuccessCovered
 vpiAssertDisableCovered
 vpiAssertKillCovered
 
-* FSM-specific methods
+• FSM-specific methods
 vpiFsmStates
 vpiFsmStateExpression
 
@@ -93647,19 +93642,19 @@ Q.
 —
 
 For T = disable iff (b) P, w
-* w
+• w
 
 T iff either
 
 P and no letter of w satisfies b, or
 
-* Some letter of w satisfies b and w 0, i–1 ⊥ω
+• Some letter of w satisfies b and w 0, i–1 ⊥ω
 wi
 b, 0 < i < |w|.
 —
 
 For U = disable iff (b) Q, w
-* w
+• w
 
 P for i the least index such that
 
@@ -93667,7 +93662,7 @@ U iff either
 
 Q and no letter of w satisfies b, or
 
-* Some letter of w satisfies b and w 0, i–1 ⊥ω
+• Some letter of w satisfies b and w 0, i–1 ⊥ω
 wi
 b, 0 < i < |w|.
 —
@@ -93759,7 +93754,7 @@ Q
 d
 T is said to pass on w if w
 T. T is said to be disabled on w if w
-U. T is said to fail on w if T neither
+T. T is said to fail on w if T neither
 passes nor is disabled on w. It can be proved that T cannot both pass and be disabled on w.
 
 Neutral satisfaction of properties is defined as follows:
@@ -93953,11 +93948,11 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 —
 
 Base:
-* w
+• w
 
 non
 
-* w
+• w
 
 non
 
@@ -93965,39 +93960,39 @@ strong(R).
 weak(R).
 
 Induction:
-* w
+• w
 
 non
 
 (P) iff w
 
-* w
+• w
 
 non
 
 R |-> P iff there exists i > 0 such that w 0..i
 
-* w
+• w
 
 non
 
-* w
+• w
 
 non
 
-* w
+• w
 
 non
 
-* w
+• w
 
 non
 
-* w
+• w
 
 non
 
-* w
+• w
 
 non
 non
@@ -94064,7 +94059,7 @@ P2.
 P.
 P.
 
-* w
+• w
 P1 until P2 iff there exists 0 < i < |w| such that the following holds:
 non
 non
@@ -94076,7 +94071,7 @@ j..
 P1 and not P2.
 non
 
-* w
+• w
 P1 s_until P2 iff there exists 0 < i < |w| such that the following holds:
 non
 non
@@ -94085,7 +94080,7 @@ P1 or wi..
 P2 and
 — For all 0 < j < i, wj..
 P1 and not P2.
-* w
+• w
 
 non
 
@@ -94098,7 +94093,7 @@ non
 P and
 
 — For all 0 < j < i, wj..
-* w
+• w
 
 non
 
@@ -94111,7 +94106,7 @@ non
 P and
 
 — For all m < j < i, wj..
-* w
+• w
 
 non
 
@@ -94127,14 +94122,14 @@ non
 P and
 
 — For all 0 < j < i, wj..
-* w
+• w
 
 non
 
 P and
 
 — For all m < j < i, wj..
-* w
+• w
 
 not P.
 
@@ -94168,14 +94163,14 @@ P.
 s_always [m : n]P iff there exists m < i < n such that the following holds:
 
 — wi..
-* w
+• w
 
 P.
 
 not P.
 non
 
-* w
+• w
 disable iff (b) P iff w
 P and one of the following holds:
 1) For every 0 < i < |w|, w i b.
@@ -94188,7 +94183,7 @@ P or
 
 non
 
-* w
+• w
 accept_on (b) P iff w
 P and one of the following holds:
 1) For every 0 < i < |w|, w i b.
@@ -94215,7 +94210,7 @@ non
 
 non
 
-* w
+• w
 reject_on (b) P iff w
 P and one of the following holds:
 1) For every 0 < i < |w|, w i b.
@@ -94608,9 +94603,9 @@ For T = disable iff (b) P, w, L0
 
 T iff either
 
-* w, L0
+• w, L0
 P and no letter of w satisfies b, or
-* Some letter of w satisfies b and w 0, i–1 ⊥ω, L0
+• Some letter of w satisfies b and w 0, i–1 ⊥ω, L0
 wi
 b, 0 < i < |w|.
 —
@@ -94619,9 +94614,9 @@ For U = disable iff (b) Q, w, L0
 
 U iff either
 
-* w, L0
+• w, L0
 Q and no letter of w satisfies b, or
-* Some letter of w satisfies b and w 0, i–1 ⊥ω, L0
+• Some letter of w satisfies b and w 0, i–1 ⊥ω, L0
 wi
 b, 0 < i < |w|.
 —
@@ -94865,11 +94860,11 @@ P2 and for every
 
 ( accept_on (b) P) iff either:
 
-* w, L0
+• w, L0
 
 P and no letter of w satisfies b, or
 
-* For some 0 < i < |w|, w i
+• For some 0 < i < |w|, w i
 
 b and w 0, i–1 T ω
 
@@ -95024,9 +95019,9 @@ shall be positive.
 
 RESTRICTION 4: For every recursive instance of property q in the declaration of property p, each
 actual argument expression e of the instance satisfies at least one of the following conditions:
-* e is itself a formal argument of p.
-* No formal argument of p appears in e.
-* e is bound to a local variable formal argument of q.
+• e is itself a formal argument of p.
+• No formal argument of p appears in e.
+• e is bound to a local variable formal argument of q.
 
 Let p be a named property. For k > 0, the k-fold approximation to p, denoted p[k], is a named property
 without instances of recursive properties defined inductively as follows:
@@ -95520,9 +95515,9 @@ C-compatible representation.
 —
 
 For a stand-alone array passed as an actual to an open array formal
-* If the element type is a 2- or 4-state scalar or packed type, then the representation is in canonical
+• If the element type is a 2- or 4-state scalar or packed type, then the representation is in canonical
 form.
-* Otherwise, the representation is C compatible. Therefore, an element of an array shall have the
+• Otherwise, the representation is C compatible. Therefore, an element of an array shall have the
 same representation as an individual value of the same type. Hence, an array’s elements can be
 accessed from C code via normal C array indexing similarly to doing so for individual values.
 

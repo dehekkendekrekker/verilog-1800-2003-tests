@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2025-12-22T00:00:00+00:00
 
-====== elaboration system task ======
+====== elaboration_severity_system_task ======
 Created Sunday 22 December 2025
 
 **$fatal** [ ( finish_number [ , list_of_arguments ] ) ] ;

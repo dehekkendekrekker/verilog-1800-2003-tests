@@ -19,6 +19,5 @@ Source text grammar rules defining module, program, interface, and checker decla
 ===== Checker Items =====
 * [[+checker_declaration]]
 * [[+checker_or_generate_item]]
-* [[+checker_or_item_declaration]]
 * [[+checker_generate_item]]
 
