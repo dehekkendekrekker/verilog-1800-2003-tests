@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== constant mintypmax expression ======
+Created Friday 27 December 2025
+
+[[constant_expression]]
+| [[constant_expression]] : [[constant_expression]] : [[constant_expression]]
+
+===== Backlinks =====
+[[constant_param_expression]]

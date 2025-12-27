@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== 1.10 Constraints ======
+Created Friday 27 December 2025
+
+IEEE 1800-2023 Section A.1.10
+
+Constraint grammar rules.
+
+===== Constraint Rules =====
+* [[+constraint_declaration]]
+* [[+constraint_block]]
+* [[+constraint_block_item]]
+* [[+solve_before_list]]
+* [[+constraint_primary]]
+* [[+constraint_expression]]
+* [[+uniqueness_constraint]]
+* [[+constraint_set]]
+* [[+expression_or_dist]]
+* [[+dist_list]]
+* [[+dist_item]]
+* [[+dist_weight]]
+* [[+constraint_prototype]]
+* [[+constraint_prototype_qualifier]]
+* [[+extern_constraint_declaration]]

@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== constraint block ======
+Created Friday 27 December 2025
+
+{ { [[constraint_block_item]] } }
+
+===== Backlinks =====
+[[constraint_declaration]]
+[[extern_constraint_declaration]]

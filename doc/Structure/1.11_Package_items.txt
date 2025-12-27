@@ -5,3 +5,20 @@ Creation-Date: 2025-12-16T23:48:13+00:00
 ====== 1.11 Package items ======
 Created Tuesday 16 December 2025
 
+IEEE 1800-2023 Section A.1.11
+
+Package item grammar rules.
+
+===== Package Items =====
+* [[+package_item]]
+* [[+package_or_generate_item_declaration]]
+* [[+anonymous_program]]
+* [[+anonymous_program_item]]
+* [[+package_export_declaration]]
+* [[+dpi_import_export]]
+* [[+dpi_spec_string]]
+* [[+dpi_function_import_property]]
+* [[+dpi_task_import_property]]
+* [[+dpi_function_proto]]
+* [[+dpi_task_proto]]
+

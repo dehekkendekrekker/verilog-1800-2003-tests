@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== variable dimension ======
+Created Friday 27 December 2025
+
+[[unsized_dimension]]
+| [[unpacked_dimension]]
+| associative_dimension
+| queue_dimension
+
+===== Backlinks =====
+[[2.7_Task_declarations:tf_port_item|tf_port_item]]
+[[1.3_Module_parameters_and_ports:ansi_port_declaration|ansi_port_declaration]]
+[[2.10_Assertion_declarations:property_port_item|property_port_item]]
+[[2.10_Assertion_declarations:sequence_port_item|sequence_port_item]]

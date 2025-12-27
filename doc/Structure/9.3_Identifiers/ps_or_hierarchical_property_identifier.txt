@@ -5,7 +5,7 @@ Creation-Date: 2025-12-16T23:29:03+00:00
 ====== ps or hierarchical property identifier ======
 Created Tuesday 16 December 2025
 
-[ package_scope ] property_identifier
+[ [[package_scope]] ] property_identifier
 | hierarchical_property_identifier
 
 ===== Backlinks =====

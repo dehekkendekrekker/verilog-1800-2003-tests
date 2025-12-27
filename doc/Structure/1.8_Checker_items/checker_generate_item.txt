@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== checker generate item ======
+Created Friday 27 December 2025
+
+[[4.2_Generated_instantiation:loop_generate_construct|loop_generate_construct]]
+| [[4.2_Generated_instantiation:conditional_generate_construct|conditional_generate_construct]]
+| [[4.2_Generated_instantiation:generate_region|generate_region]]
+| [[2.11_Elaboration_system_tasks:elaboration_severity_system_task|elaboration_severity_system_task]]
+
+===== Backlinks =====
+[[checker_or_generate_item]]

@@ -5,3 +5,22 @@ Creation-Date: 2025-12-22T00:00:00+00:00
 ====== 8.3 Expressions ======
 Created Sunday 22 December 2025
 
+IEEE 1800-2023 Section A.8.3
+
+Expression grammar rules.
+
+===== Expression Rules =====
+* [[+expression]]
+* [[+constant_expression]]
+* [[+constant_mintypmax_expression]]
+* [[+mintypmax_expression]]
+* [[+constant_param_expression]]
+* [[+param_expression]]
+* [[+constant_range_expression]]
+* [[+part_select_range]]
+* [[+indexed_range]]
+* [[+inc_or_dec_expression]]
+* [[+conditional_expression]]
+* [[+inside_expression]]
+* [[+tagged_union_expression]]
+

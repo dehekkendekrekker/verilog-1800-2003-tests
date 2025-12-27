@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== non port module item ======
+Created Friday 27 December 2025
+
+[[4.2_Generated_instantiation:generate_region|generate_region]]
+| [[module_or_generate_item]]
+| [[specify_block]]
+| { attribute_instance } [[specparam_declaration]]
+| [[program_declaration]]
+| [[module_declaration]]
+| [[interface_declaration]]
+| timeunits_declaration
+
+===== Backlinks =====
+[[module_declaration]]
+[[module_item]]

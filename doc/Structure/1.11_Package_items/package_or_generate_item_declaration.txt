@@ -5,21 +5,22 @@ Creation-Date: 2025-12-16T22:52:39+00:00
 ====== package or generate item declaration ======
 Created Tuesday 16 December 2025
 
-net_declaration
-| data_declaration
-| task_declaration
-| function_declaration
+[[2.2_Declaration_data_types:net_declaration|net_declaration]]
+| [[2.1_Declaration_types:data_declaration|data_declaration]]
+| [[2.7_Task_declarations:task_declaration|task_declaration]]
+| [[2.6_Function_declarations:function_declaration|function_declaration]]
 | [[1.1_Source_text:checker_declaration|checker_declaration]]
-| dpi_import_export
-| extern_constraint_declaration
-| class_declaration
-| interface_class_declaration
-| class_constructor_declaration
-| local_parameter_declaration ;
-| parameter_declaration ;
-| covergroup_declaration
+| [[dpi_import_export]]
+| [[1.10_Constraints:extern_constraint_declaration|extern_constraint_declaration]]
+| [[1.1_Source_text:class_declaration|class_declaration]]
+| [[1.1_Source_text:interface_class_declaration|interface_class_declaration]]
+| [[1.9_Class_items:class_constructor_declaration|class_constructor_declaration]]
+| [[2.1_Declaration_types:local_parameter_declaration|local_parameter_declaration]] ;
+| [[2.1_Declaration_types:parameter_declaration|parameter_declaration]] ;
+| [[2.11_Covergroup_declarations:covergroup_declaration|covergroup_declaration]]
 | [[2.10_Assertion_declarations:assertion_item_declaration|assertion_item_declaration]]
 | ;
 
 ===== Backlinks =====
 [[package_item]]
+[[1.1_Source_text:module_or_generate_item_declaration|module_or_generate_item_declaration]]

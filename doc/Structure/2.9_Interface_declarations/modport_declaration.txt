@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== modport declaration ======
+Created Friday 27 December 2025
+
+**modport** [[modport_item]] { , [[modport_item]] } ;
+
+===== Backlinks =====
+[[1.6_Interface_items:non_port_interface_item|non_port_interface_item]]

@@ -13,5 +13,7 @@ Checker item grammar rules.
 * [[+checker_port_list]]
 * [[+checker_port_item]]
 * [[+checker_port_direction]]
+* [[+checker_or_generate_item]]
 * [[+checker_or_generate_item_declaration]]
+* [[+checker_generate_item]]
 

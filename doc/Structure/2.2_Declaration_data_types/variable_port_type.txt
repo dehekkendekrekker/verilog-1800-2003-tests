@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== variable port type ======
+Created Friday 27 December 2025
+
+[[var_data_type]]
+
+===== Backlinks =====
+[[1.3_Module_parameters_and_ports:variable_port_header|variable_port_header]]
+[[2.1_Declaration_types:input_declaration|input_declaration]]
+[[2.1_Declaration_types:output_declaration|output_declaration]]
+[[2.1_Declaration_types:ref_declaration|ref_declaration]]

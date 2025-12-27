@@ -9,3 +9,5 @@ Created Friday 27 December 2025
 | { attribute_instance } ;
 
 ===== Backlinks =====
+[[2.6_Function_declarations:function_body_declaration|function_body_declaration]]
+[[1.9_Class_items:class_constructor_declaration|class_constructor_declaration]]

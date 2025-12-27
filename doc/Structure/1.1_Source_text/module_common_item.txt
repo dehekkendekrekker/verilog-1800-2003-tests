@@ -5,11 +5,11 @@ Creation-Date: 2025-12-16T21:36:43+00:00
 ====== module common item ======
 Created Tuesday 16 December 2025
 
-module_or_generate_item_declaration
+[[module_or_generate_item_declaration]]
 | interface_instantiation
 | program_instantiation
 | [[6.10_Assertion_statements:assertion_item|assertion_item]]
-| bind_directive
+| [[bind_directive]]
 | continuous_assign
 | net_alias
 | [[6.7_Procedural_blocks_and_assignments:initial_construct|initial_construct]]
@@ -20,4 +20,5 @@ module_or_generate_item_declaration
 | [[2.11_Elaboration_system_tasks:elaboration_severity_system_task|elaboration_severity_system_task]]
 
 ===== Backlinks =====
-[[6.10_Assertion_statements:assertion_item|assertion_item]]
+[[module_or_generate_item]]
+[[1.6_Interface_items:interface_or_generate_item|interface_or_generate_item]]

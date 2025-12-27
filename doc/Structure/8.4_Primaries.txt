@@ -5,3 +5,20 @@ Creation-Date: 2025-12-17T00:45:42+00:00
 ====== 8.4 Primaries ======
 Created Wednesday 17 December 2025
 
+IEEE 1800-2023 Section A.8.4
+
+Primary grammar rules.
+
+===== Primary Rules =====
+* [[+primary]]
+* [[+constant_primary]]
+* [[+primary_literal]]
+* [[+implicit_class_handle]]
+* [[+class_qualifier]]
+* [[+select]]
+* [[+bit_select]]
+* [[+constant_select]]
+* [[+constant_bit_select]]
+* [[+cast]]
+* [[+constant_cast]]
+

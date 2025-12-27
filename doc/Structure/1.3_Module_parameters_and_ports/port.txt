@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== port ======
+Created Friday 27 December 2025
+
+[ [[port_expression]] ]
+| . port_identifier ( [ [[port_expression]] ] )
+
+===== Backlinks =====
+[[list_of_ports]]

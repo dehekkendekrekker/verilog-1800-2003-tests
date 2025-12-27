@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== lifetime ======
+Created Friday 27 December 2025
+
+**static** | **automatic**
+
+===== Backlinks =====
+[[module_nonansi_header]]
+[[module_ansi_header]]
+[[module_declaration]]
+[[interface_nonansi_header]]
+[[interface_ansi_header]]
+[[program_nonansi_header]]
+[[program_ansi_header]]
+[[package_declaration]]

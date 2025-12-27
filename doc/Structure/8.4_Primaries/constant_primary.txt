@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== constant primary ======
+Created Friday 27 December 2025
+
+[[primary_literal]]
+| [[9.3_Identifiers:ps_parameter_identifier|ps_parameter_identifier]] [[constant_select]]
+| specparam_identifier [ [ [[8.3_Expressions:constant_range_expression|constant_range_expression]] ] ]
+| genvar_identifier
+| formal_port_identifier [[constant_select]]
+| [ [[9.3_Identifiers:package_scope|package_scope]] | [[9.3_Identifiers:class_scope|class_scope]] ] enum_identifier
+| [[8.1_Concatenations:empty_unpacked_array_concatenation|empty_unpacked_array_concatenation]]
+| [[8.1_Concatenations:constant_concatenation|constant_concatenation]] [ [ [[8.3_Expressions:constant_range_expression|constant_range_expression]] ] ]
+| [[8.1_Concatenations:constant_multiple_concatenation|constant_multiple_concatenation]] [ [ [[8.3_Expressions:constant_range_expression|constant_range_expression]] ] ]
+| [[8.2_Subroutine_calls:constant_function_call|constant_function_call]] [ [ [[8.3_Expressions:constant_range_expression|constant_range_expression]] ] ]
+| constant_let_expression
+| ( [[8.3_Expressions:constant_mintypmax_expression|constant_mintypmax_expression]] )
+| [[constant_cast]]
+| constant_assignment_pattern_expression
+| [[2.2_Declaration_data_types:type_reference|type_reference]]
+| **null**
+
+===== Backlinks =====
+[[8.3_Expressions:constant_expression|constant_expression]]

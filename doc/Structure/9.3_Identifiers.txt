@@ -5,3 +5,22 @@ Creation-Date: 2025-12-16T23:28:50+00:00
 ====== 9.3 Identifiers ======
 Created Tuesday 16 December 2025
 
+IEEE 1800-2023 Section A.9.3
+
+Identifier grammar rules.
+
+===== Identifier Rules =====
+* [[+identifier]]
+* [[+simple_identifier]]
+* [[+escaped_identifier]]
+* [[+hierarchical_identifier]]
+* [[+package_scope]]
+* [[+class_scope]]
+* [[+ps_identifier]]
+* [[+ps_parameter_identifier]]
+* [[+ps_type_identifier]]
+* [[+ps_or_hierarchical_array_identifier]]
+* [[+ps_or_hierarchical_property_identifier]]
+* [[+ps_or_hierarchical_sequence_identifier]]
+* [[+ps_or_hierarchical_tf_identifier]]
+

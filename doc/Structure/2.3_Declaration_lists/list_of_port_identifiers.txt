@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== list of port identifiers ======
+Created Friday 27 December 2025
+
+port_identifier { [[2.2_Declaration_data_types:unpacked_dimension|unpacked_dimension]] } { , port_identifier { [[2.2_Declaration_data_types:unpacked_dimension|unpacked_dimension]] } }
+
+===== Backlinks =====
+[[2.1_Declaration_types:inout_declaration|inout_declaration]]
+[[2.1_Declaration_types:input_declaration|input_declaration]]
+[[2.1_Declaration_types:output_declaration|output_declaration]]

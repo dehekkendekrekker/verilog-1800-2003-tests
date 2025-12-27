@@ -11,7 +11,7 @@ Created Tuesday 16 December 2025
 | [[6.7_Procedural_blocks_and_assignments:final_construct|final_construct]]
 | [[6.10_Assertion_statements:assertion_item|assertion_item]]
 | continuous_assign
-| [[checker_generate_item]]
+| [[1.8_Checker_items:checker_generate_item|checker_generate_item]]
 
 ===== Backlinks =====
 [[checker_declaration]]

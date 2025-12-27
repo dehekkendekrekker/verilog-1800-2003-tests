@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== 1.6 Interface items ======
+Created Friday 27 December 2025
+
+===== Child pages =====
+[[+interface_or_generate_item]]
+[[+extern_tf_declaration]]
+[[+interface_item]]
+[[+non_port_interface_item]]

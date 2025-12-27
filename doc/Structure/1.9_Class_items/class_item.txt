@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== class item ======
+Created Friday 27 December 2025
+
+{ attribute_instance } [[class_property]]
+| { attribute_instance } [[class_method]]
+| { attribute_instance } [[class_constraint]]
+| { attribute_instance } [[1.1_Source_text:class_declaration|class_declaration]]
+| { attribute_instance } [[1.1_Source_text:interface_class_declaration|interface_class_declaration]]
+| { attribute_instance } covergroup_declaration
+| [[2.1_Declaration_types:local_parameter_declaration|local_parameter_declaration]] ;
+| [[2.1_Declaration_types:parameter_declaration|parameter_declaration]] ;
+| ;
+
+===== Backlinks =====
+[[1.1_Source_text:class_declaration|class_declaration]]

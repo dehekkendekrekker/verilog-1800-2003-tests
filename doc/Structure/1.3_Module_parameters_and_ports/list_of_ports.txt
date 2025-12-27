@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== list of ports ======
+Created Friday 27 December 2025
+
+( [[port]] { , [[port]] } )
+
+===== Backlinks =====
+[[1.1_Source_text:module_nonansi_header|module_nonansi_header]]
+[[1.1_Source_text:interface_nonansi_header|interface_nonansi_header]]
+[[1.1_Source_text:program_nonansi_header|program_nonansi_header]]
