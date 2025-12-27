@@ -7,8 +7,8 @@ Created Tuesday 16 December 2025
 
 { attribute_instance } continuous_assign
 | { attribute_instance } module_or_generate_item_declaration
-| { attribute_instance } [[6.7_Procedural_blocks_and_assignments:initial_construct|initial_construct]]
-| { attribute_instance } [[6.7_Procedural_blocks_and_assignments:final_construct|final_construct]]
+| { attribute_instance } [[6.2_Procedural_blocks_and_assignments:initial_construct|initial_construct]]
+| { attribute_instance } [[6.2_Procedural_blocks_and_assignments:final_construct|final_construct]]
 | { attribute_instance } [[2.10_Assertion_declarations:concurrent_assertion_item|concurrent_assertion_item]]
 | timeunits_declaration
 | program_generate_item

@@ -8,7 +8,7 @@ Created Sunday 22 December 2025
 [[8.4_Primaries:primary|primary]]
 | [[8.6_Operators:unary_operator|unary_operator]] { attribute_instance } [[8.4_Primaries:primary|primary]]
 | [[inc_or_dec_expression]]
-| ( [[6.7_Procedural_blocks_and_assignments:operator_assignment|operator_assignment]] )
+| ( [[6.2_Procedural_blocks_and_assignments:operator_assignment|operator_assignment]] )
 | [[8.3_Expressions:expression|expression]] [[8.6_Operators:binary_operator|binary_operator]] { attribute_instance } [[8.3_Expressions:expression|expression]]
 | [[conditional_expression]]
 | [[inside_expression]]
@@ -30,8 +30,8 @@ Created Sunday 22 December 2025
 [[6.7_Case_statements:assignment_pattern|assignment_pattern]]
 [[6.8_Looping_statements:loop_statement|loop_statement]]
 [[6.8_Looping_statements:for_variable_declaration|for_variable_declaration]]
-[[6.7_Procedural_blocks_and_assignments:operator_assignment|operator_assignment]]
-[[6.7_Procedural_blocks_and_assignments:blocking_assignment|blocking_assignment]]
-[[6.7_Procedural_blocks_and_assignments:nonblocking_assignment|nonblocking_assignment]]
-[[6.7_Procedural_blocks_and_assignments:variable_assignment|variable_assignment]]
+[[6.2_Procedural_blocks_and_assignments:operator_assignment|operator_assignment]]
+[[6.2_Procedural_blocks_and_assignments:blocking_assignment|blocking_assignment]]
+[[6.2_Procedural_blocks_and_assignments:nonblocking_assignment|nonblocking_assignment]]
+[[6.2_Procedural_blocks_and_assignments:variable_assignment|variable_assignment]]
 

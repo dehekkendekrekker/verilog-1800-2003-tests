@@ -23,4 +23,4 @@ Created Tuesday 16 December 2025
 
 ===== Backlinks =====
 [[package_item]]
-[[1.1_Source_text:module_or_generate_item_declaration|module_or_generate_item_declaration]]
+[[1.4_Module_items:module_or_generate_item_declaration|module_or_generate_item_declaration]]

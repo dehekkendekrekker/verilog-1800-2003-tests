@@ -5,19 +5,32 @@ Creation-Date: 2025-12-22T00:00:00+00:00
 ====== 1.1 Source text ======
 Created Sunday 22 December 2025
 
-IEEE 1800-2023 Section A.1.1 - A.1.8
+IEEE 1800-2023 Section A.1.2
 
-Source text grammar rules defining module, program, interface, and checker declarations.
+SystemVerilog source text grammar rules.
 
-===== Module Items =====
-* [[+module_common_item]]
+===== Child pages =====
+[[+source_text]]
+[[+description]]
+[[+module_declaration]]
+[[+module_keyword]]
+[[+module_ansi_header]]
+[[+module_nonansi_header]]
+[[+interface_declaration]]
+[[+interface_ansi_header]]
+[[+interface_nonansi_header]]
+[[+program_declaration]]
+[[+program_ansi_header]]
+[[+program_nonansi_header]]
+[[+checker_declaration]]
+[[+class_declaration]]
+[[+interface_class_declaration]]
+[[+package_declaration]]
+[[+timeunits_declaration]]
+[[+lifetime]]
 
-===== Program Items =====
-* [[+program_item]]
-* [[+non_port_program_item]]
-
-===== Checker Items =====
-* [[+checker_declaration]]
-* [[+checker_or_generate_item]]
-* [[+checker_generate_item]]
+===== Related sections =====
+[[1.4_Module_items]] - Module items (module_common_item, etc.)
+[[1.7_Program_items]] - Program items (program_item, etc.)
+[[1.8_Checker_items]] - Checker items (checker_or_generate_item, etc.)
 

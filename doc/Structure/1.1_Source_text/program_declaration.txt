@@ -6,13 +6,13 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 [[program_nonansi_header]]
-[ timeunits_declaration ] { [[program_item]] }
+[ [[timeunits_declaration]] ] { [[1.7_Program_items:program_item|program_item]] }
 **endprogram** [ : program_identifier ]
 | [[program_ansi_header]]
-[ timeunits_declaration ] { [[non_port_program_item]] }
+[ [[timeunits_declaration]] ] { [[1.7_Program_items:non_port_program_item|non_port_program_item]] }
 **endprogram** [ : program_identifier ]
 | { attribute_instance } **program** program_identifier ( . * ) ;
-[ timeunits_declaration ] { [[program_item]] }
+[ [[timeunits_declaration]] ] { [[1.7_Program_items:program_item|program_item]] }
 **endprogram** [ : program_identifier ]
 | **extern** [[program_nonansi_header]]
 | **extern** [[program_ansi_header]]

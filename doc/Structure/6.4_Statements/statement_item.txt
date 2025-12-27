@@ -5,9 +5,9 @@ Creation-Date: 2025-12-16T21:27:16+00:00
 ====== statement item ======
 Created Tuesday 16 December 2025
 
-[[6.7_Procedural_blocks_and_assignments:blocking_assignment|blocking_assignment]] ;
-| [[6.7_Procedural_blocks_and_assignments:nonblocking_assignment|nonblocking_assignment]] ;
-| [[6.7_Procedural_blocks_and_assignments:procedural_continuous_assignment|procedural_continuous_assignment]] ;
+[[6.2_Procedural_blocks_and_assignments:blocking_assignment|blocking_assignment]] ;
+| [[6.2_Procedural_blocks_and_assignments:nonblocking_assignment|nonblocking_assignment]] ;
+| [[6.2_Procedural_blocks_and_assignments:procedural_continuous_assignment|procedural_continuous_assignment]] ;
 | [[6.7_Case_statements:case_statement|case_statement]]
 | [[6.6_Conditional_statements:conditional_statement|conditional_statement]]
 | [[6.9_Subroutine_call_statements:subroutine_call_statement|subroutine_call_statement]]

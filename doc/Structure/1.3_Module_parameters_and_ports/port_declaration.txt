@@ -12,6 +12,6 @@ Created Friday 27 December 2025
 | { attribute_instance } [[2.1_Declaration_types:interface_port_declaration|interface_port_declaration]]
 
 ===== Backlinks =====
-[[1.1_Source_text:module_item|module_item]]
-[[1.1_Source_text:program_item|program_item]]
+[[1.4_Module_items:module_item|module_item]]
+[[1.7_Program_items:program_item|program_item]]
 [[1.6_Interface_items:interface_item|interface_item]]

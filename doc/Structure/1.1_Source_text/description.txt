@@ -11,8 +11,8 @@ Created Friday 27 December 2025
 | [[program_declaration]]
 | [[package_declaration]]
 | { attribute_instance } [[1.11_Package_items:package_item|package_item]]
-| { attribute_instance } [[bind_directive]]
-| [[config_declaration]]
+| { attribute_instance } [[1.4_Module_items:bind_directive|bind_directive]]
+| [[1.5_Configuration_source_text:config_declaration|config_declaration]]
 
 ===== Backlinks =====
 [[source_text]]

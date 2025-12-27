@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== config rule statement ======
+Created Friday 27 December 2025
+
+IEEE 1800-2023 Section A.1.5
+
+[[default_clause]] [[liblist_clause]] **;**
+| [[inst_clause]] [[liblist_clause]] **;**
+| [[inst_clause]] [[use_clause]] **;**
+| [[cell_clause]] [[liblist_clause]] **;**
+| [[cell_clause]] [[use_clause]] **;**
+
+===== Backlinks =====
+[[config_declaration]]

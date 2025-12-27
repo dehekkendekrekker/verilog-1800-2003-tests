@@ -5,7 +5,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 ====== interface or generate item ======
 Created Friday 27 December 2025
 
-{ attribute_instance } [[1.1_Source_text:module_common_item|module_common_item]]
+{ attribute_instance } [[1.4_Module_items:module_common_item|module_common_item]]
 | { attribute_instance } [[extern_tf_declaration]]
 
 ===== Backlinks =====

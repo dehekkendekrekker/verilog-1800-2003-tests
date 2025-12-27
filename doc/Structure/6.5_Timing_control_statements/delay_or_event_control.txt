@@ -11,5 +11,5 @@ Created Friday 27 December 2025
 
 ===== Backlinks =====
 [[event_trigger]]
-[[6.7_Procedural_blocks_and_assignments:blocking_assignment|blocking_assignment]]
-[[6.7_Procedural_blocks_and_assignments:nonblocking_assignment|nonblocking_assignment]]
+[[6.2_Procedural_blocks_and_assignments:blocking_assignment|blocking_assignment]]
+[[6.2_Procedural_blocks_and_assignments:nonblocking_assignment|nonblocking_assignment]]

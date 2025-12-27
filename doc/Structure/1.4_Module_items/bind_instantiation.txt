@@ -5,9 +5,9 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 ====== bind instantiation ======
 Created Friday 27 December 2025
 
-program_instantiation
-| [[module_instantiation]]
-| interface_instantiation
+[[4.1_Instantiations:program_instantiation|program_instantiation]]
+| [[4.1_Instantiations:module_instantiation|module_instantiation]]
+| [[4.1_Instantiations:interface_instantiation|interface_instantiation]]
 | [[4.1_Instantiations:checker_instantiation|checker_instantiation]]
 
 ===== Backlinks =====

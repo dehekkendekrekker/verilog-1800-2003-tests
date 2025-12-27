@@ -9,4 +9,4 @@ Created Friday 27 December 2025
 
 ===== Backlinks =====
 [[function_statement_or_null]]
-[[6.7_Procedural_blocks_and_assignments:final_construct|final_construct]]
+[[6.2_Procedural_blocks_and_assignments:final_construct|final_construct]]

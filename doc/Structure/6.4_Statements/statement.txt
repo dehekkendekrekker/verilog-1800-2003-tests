@@ -12,5 +12,5 @@ Created Tuesday 16 December 2025
 [[statement_or_null]]
 [[function_statement]]
 [[6.3_Parallel_and_sequential_blocks:action_block|action_block]]
-[[6.7_Procedural_blocks_and_assignments:always_construct|always_construct]]
+[[6.2_Procedural_blocks_and_assignments:always_construct|always_construct]]
 [[6.8_Looping_statements:loop_statement|loop_statement]]

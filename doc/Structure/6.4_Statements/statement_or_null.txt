@@ -9,7 +9,7 @@ Created Tuesday 16 December 2025
 | { attribute_instance } ;
 
 ===== Backlinks =====
-[[6.7_Procedural_blocks_and_assignments:initial_construct|initial_construct]]
+[[6.2_Procedural_blocks_and_assignments:initial_construct|initial_construct]]
 [[6.3_Parallel_and_sequential_blocks:action_block|action_block]]
 [[6.3_Parallel_and_sequential_blocks:seq_block|seq_block]]
 [[6.3_Parallel_and_sequential_blocks:par_block|par_block]]

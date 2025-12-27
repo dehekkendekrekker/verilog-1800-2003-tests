@@ -28,5 +28,5 @@ concurrent_assertion_statement
 
 ===== Backlinks =====
 [[6.10_Assertion_statements:assertion_item|assertion_item]]
-[[1.1_Source_text:non_port_program_item|non_port_program_item]]
+[[1.7_Program_items:non_port_program_item|non_port_program_item]]
 
