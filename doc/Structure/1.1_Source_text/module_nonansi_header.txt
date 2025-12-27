@@ -6,7 +6,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 { attribute_instance } [[module_keyword]] [ [[lifetime]] ] module_identifier
-{ [[1.11_Package_items:package_import_declaration|package_import_declaration]] } [ [[1.3_Module_parameters_and_ports:parameter_port_list|parameter_port_list]] ] [[1.3_Module_parameters_and_ports:list_of_ports|list_of_ports]] ;
+{ [[2.1_Declaration_types:package_import_declaration|package_import_declaration]] } [ [[1.3_Module_parameters_and_ports:parameter_port_list|parameter_port_list]] ] [[1.3_Module_parameters_and_ports:list_of_ports|list_of_ports]] ;
 
 ===== Backlinks =====
 [[module_declaration]]

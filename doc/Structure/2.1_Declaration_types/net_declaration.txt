@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== net declaration ======
+Created Friday 27 December 2025
+
+[[2.2_Declaration_data_types:net_type|net_type]] [ drive_strength | charge_strength ] [ **vectored** | **scalared** ]
+[[2.2_Declaration_data_types:data_type_or_implicit|data_type_or_implicit]] [ delay3 ] list_of_net_decl_assignments ;
+| nettype_identifier [ delay_control ] list_of_net_decl_assignments ;
+| **interconnect** [[2.2_Declaration_data_types:implicit_data_type|implicit_data_type]] [ # delay_value ] net_identifier { [[2.5_Declaration_ranges:unpacked_dimension|unpacked_dimension]] }
+[ , net_identifier { [[2.5_Declaration_ranges:unpacked_dimension|unpacked_dimension]] } ] ;
+
+===== Backlinks =====
+[[1.11_Package_items:package_or_generate_item_declaration|package_or_generate_item_declaration]]
+[[2.2_Declaration_data_types:net_type|net_type]]

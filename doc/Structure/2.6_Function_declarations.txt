@@ -10,5 +10,7 @@ Created Friday 27 December 2025
 [[+function_declaration]]
 [[+function_body_declaration]]
 [[+function_prototype]]
-[[+dpi_import_export]]
-[[+method_prototype]]
+
+===== Related =====
+[[1.11_Package_items:dpi_import_export|dpi_import_export]]
+[[1.9_Class_items:method_prototype|method_prototype]]

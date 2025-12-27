@@ -5,9 +5,10 @@ Creation-Date: 2025-12-22T00:00:00+00:00
 ====== constant expression ======
 Created Sunday 22 December 2025
 
-[[constant_primary]] [ { [[binary_operator]] [[constant_primary]] } ]
-| [[unary_operator]] [[constant_primary]] [ { [[binary_operator]] [[constant_primary]] } ]
-| [[constant_primary]] ? { [[constant_expression]] } : [[constant_expression]]
+[[8.4_Primaries:constant_primary|constant_primary]]
+| [[8.6_Operators:unary_operator|unary_operator]] { attribute_instance } [[8.4_Primaries:constant_primary|constant_primary]]
+| [[constant_expression]] [[8.6_Operators:binary_operator|binary_operator]] { attribute_instance } [[constant_expression]]
+| [[constant_expression]] ? { attribute_instance } [[constant_expression]] : [[constant_expression]]
 
 ===== Backlinks =====
 [[2.2_Declaration_data_types:constant_range|constant_range]]

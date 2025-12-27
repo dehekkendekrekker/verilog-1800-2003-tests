@@ -10,7 +10,7 @@ IEEE 1800-2023 Section A.2.10
 assertion_item_declaration ::=
 	[[property_declaration]]
 	| [[sequence_declaration]]
-	| [[let_declaration]]
+	| [[..:..:let_declaration|let_declaration]]
 
 ===== SVA-relevant paths =====
 
@@ -21,7 +21,7 @@ assertion_item_declaration ::=
 [[sequence_declaration]]
 
 ==== Let declaration ====
-[[let_declaration]] (for reusable expressions)
+[[..:..:let_declaration|let_declaration]] (for reusable expressions)
 
 ===== Backlinks =====
 [[1.8_Checker_items:checker_or_generate_item_declaration|checker_or_generate_item_declaration]]

@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== 8.2 Subroutine calls ======
+Created Friday 27 December 2025
+
+IEEE 1800-2023 Section A.8.2
+
+Subroutine call grammar rules.
+
+===== Subroutine Call Rules =====
+* [[+subroutine_call]]
+* [[+function_subroutine_call]]
+* [[+constant_function_call]]
+* [[+tf_call]]
+* [[+system_tf_call]]
+* [[+method_call]]
+* [[+list_of_arguments]]

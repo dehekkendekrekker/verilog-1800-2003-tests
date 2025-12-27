@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== ps or hierarchical net identifier ======
+Created Friday 27 December 2025
+
+[ [[package_scope]] ] net_identifier
+| hierarchical_net_identifier
+
+===== Backlinks =====
+[[8.5_Expression_left_side_values:net_lvalue|net_lvalue]]

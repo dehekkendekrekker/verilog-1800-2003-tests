@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== net lvalue ======
+Created Friday 27 December 2025
+
+[[9.3_Identifiers:ps_or_hierarchical_net_identifier|ps_or_hierarchical_net_identifier]] [[8.4_Primaries:constant_select|constant_select]]
+| { [[net_lvalue]] { , [[net_lvalue]] } }
+| [ assignment_pattern_expression_type ] [[6.7_Case_statements:assignment_pattern_net_lvalue|assignment_pattern_net_lvalue]]
+
+===== Backlinks =====
+[[6.7_Case_statements:assignment_pattern_net_lvalue|assignment_pattern_net_lvalue]]
