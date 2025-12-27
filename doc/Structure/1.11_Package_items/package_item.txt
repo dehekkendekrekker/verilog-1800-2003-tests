@@ -6,9 +6,9 @@ Creation-Date: 2025-12-16T22:52:12+00:00
 Created Tuesday 16 December 2025
 
 [[package_or_generate_item_declaration]]
-anonymous_program
-package_export_declaration
-timeunits_declaration
+| anonymous_program
+| package_export_declaration
+| timeunits_declaration
 
 ===== Backlinks =====
 (root node in package context - linked from package_declaration)

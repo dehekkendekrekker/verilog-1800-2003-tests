@@ -6,7 +6,7 @@ Creation-Date: 2025-12-17T00:43:23+00:00
 Created Wednesday 17 December 2025
 
 constant_expression
-[[cycle_delay_const_range_expression]]
+| [[cycle_delay_const_range_expression]]
 
 
 ===== Backlinks =====

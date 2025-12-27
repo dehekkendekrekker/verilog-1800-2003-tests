@@ -6,7 +6,7 @@ Creation-Date: 2025-12-16T23:31:48+00:00
 Created Tuesday 16 December 2025
 
 [[property_expr]]
-[[sequence_actual_arg]]
+| [[sequence_actual_arg]]
 
 ===== Backlinks =====
 [[property_list_of_arguments]]

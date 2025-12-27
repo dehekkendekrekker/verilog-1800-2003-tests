@@ -6,7 +6,7 @@ Creation-Date: 2025-12-16T21:15:32+00:00
 Created Tuesday 16 December 2025
 
 [[simple_immediate_assertion_statement]]
-[[deferred_immediate_assertion_statement]]
+| [[deferred_immediate_assertion_statement]]
 
 ===== Backlinks =====
 [[procedural_assertion_statement]]

@@ -6,8 +6,8 @@ Creation-Date: 2025-12-16T21:14:44+00:00
 Created Tuesday 16 December 2025
 
 [[deferred_immediate_assert_statement]]
-[[deferred_immediate_assume_statement]]
-[[deferred_immediate_cover_statement]]
+| [[deferred_immediate_assume_statement]]
+| [[deferred_immediate_cover_statement]]
 
 ===== Backlinks =====
 [[deferred_immediate_assertion_item]]

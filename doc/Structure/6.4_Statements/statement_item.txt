@@ -6,24 +6,24 @@ Creation-Date: 2025-12-16T21:27:16+00:00
 Created Tuesday 16 December 2025
 
 [[6.7_Procedural_blocks_and_assignments:blocking_assignment|blocking_assignment]] ;
-[[6.7_Procedural_blocks_and_assignments:nonblocking_assignment|nonblocking_assignment]] ;
-[[6.7_Procedural_blocks_and_assignments:procedural_continuous_assignment|procedural_continuous_assignment]] ;
-[[6.7_Case_statements:case_statement|case_statement]]
-[[6.6_Conditional_statements:conditional_statement|conditional_statement]]
-[[6.9_Subroutine_call_statements:subroutine_call_statement|subroutine_call_statement]]
-[[6.5_Timing_control_statements:disable_statement|disable_statement]]
-[[6.5_Timing_control_statements:event_trigger|event_trigger]]
-[[6.8_Looping_statements:loop_statement|loop_statement]]
-[[6.5_Timing_control_statements:jump_statement|jump_statement]]
-[[6.3_Parallel_and_sequential_blocks:par_block|par_block]]
-[[6.5_Timing_control_statements:procedural_timing_control_statement|procedural_timing_control_statement]]
-[[6.3_Parallel_and_sequential_blocks:seq_block|seq_block]]
-[[6.5_Timing_control_statements:wait_statement|wait_statement]]
-[[6.10_Assertion_statements:procedural_assertion_statement|procedural_assertion_statement]]
-clocking_drive ;
-randsequence_statement
-[[6.7_Case_statements:randcase_statement|randcase_statement]]
-[[2.10_Assertion_declarations:expect_property_statement|expect_property_statement]]
+| [[6.7_Procedural_blocks_and_assignments:nonblocking_assignment|nonblocking_assignment]] ;
+| [[6.7_Procedural_blocks_and_assignments:procedural_continuous_assignment|procedural_continuous_assignment]] ;
+| [[6.7_Case_statements:case_statement|case_statement]]
+| [[6.6_Conditional_statements:conditional_statement|conditional_statement]]
+| [[6.9_Subroutine_call_statements:subroutine_call_statement|subroutine_call_statement]]
+| [[6.5_Timing_control_statements:disable_statement|disable_statement]]
+| [[6.5_Timing_control_statements:event_trigger|event_trigger]]
+| [[6.8_Looping_statements:loop_statement|loop_statement]]
+| [[6.5_Timing_control_statements:jump_statement|jump_statement]]
+| [[6.3_Parallel_and_sequential_blocks:par_block|par_block]]
+| [[6.5_Timing_control_statements:procedural_timing_control_statement|procedural_timing_control_statement]]
+| [[6.3_Parallel_and_sequential_blocks:seq_block|seq_block]]
+| [[6.5_Timing_control_statements:wait_statement|wait_statement]]
+| [[6.10_Assertion_statements:procedural_assertion_statement|procedural_assertion_statement]]
+| clocking_drive ;
+| randsequence_statement
+| [[6.7_Case_statements:randcase_statement|randcase_statement]]
+| [[2.10_Assertion_declarations:expect_property_statement|expect_property_statement]]
 
 ===== Backlinks =====
 [[statement]]

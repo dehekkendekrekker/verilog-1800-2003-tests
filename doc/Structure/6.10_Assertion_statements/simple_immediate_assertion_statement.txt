@@ -5,10 +5,9 @@ Creation-Date: 2025-12-16T21:08:05+00:00
 ====== simple immediate assertion statement ======
 Created Tuesday 16 December 2025
 
-===== Elements =====
 [[simple_immediate_assert_statement]]
-[[simple_immediate_assume_statement]]
-[[simple_immediate_cover_statement]]
+| [[simple_immediate_assume_statement]]
+| [[simple_immediate_cover_statement]]
 
 ===== Backlinks =====
 [[immediate_assertion_statement]]

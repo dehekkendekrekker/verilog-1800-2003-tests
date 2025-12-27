@@ -5,7 +5,7 @@ Creation-Date: 2025-12-16T21:09:37+00:00
 ====== simple immediate assume statement ======
 Created Tuesday 16 December 2025
 
-assume ( expression ) [[6.3_Parallel_and_sequential_blocks:action_block|action_block]]
+**assume** ( expression ) [[6.3_Parallel_and_sequential_blocks:action_block|action_block]]
 
 
 ===== Backlinks =====

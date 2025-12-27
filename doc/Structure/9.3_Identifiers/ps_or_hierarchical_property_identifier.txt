@@ -6,7 +6,7 @@ Creation-Date: 2025-12-16T23:29:03+00:00
 Created Tuesday 16 December 2025
 
 [ package_scope ] property_identifier
-hierarchical_property_identifier
+| hierarchical_property_identifier
 
 ===== Backlinks =====
 [[2.10_Assertion_declarations:property_instance|property_instance]]

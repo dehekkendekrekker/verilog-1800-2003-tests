@@ -6,7 +6,7 @@ Creation-Date: 2025-12-16T21:24:35+00:00
 Created Tuesday 16 December 2025
 
 [[2.10_Assertion_declarations:concurrent_assertion_item|concurrent_assertion_item]]
-[[deferred_immediate_assertion_item]]
+| [[deferred_immediate_assertion_item]]
 
 
 ===== Backlinks =====

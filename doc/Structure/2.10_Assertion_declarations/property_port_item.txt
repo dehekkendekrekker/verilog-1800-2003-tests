@@ -5,8 +5,8 @@ Creation-Date: 2025-12-16T23:38:41+00:00
 ====== property port item ======
 Created Tuesday 16 December 2025
 
-{ attribute_instance } [ local [ [[property_lvar_port_direction]] ] ] property_formal_type
-formal_port_identifier { variable_dimension } [ = [[property_actual_arg]] ]
+{ attribute_instance } [ **local** [ [[property_lvar_port_direction]] ] ] [[property_formal_type]]
+formal_port_identifier { variable_dimension } [ **=** [[property_actual_arg]] ]
 
 ===== Backlinks =====
 [[property_port_list]]
