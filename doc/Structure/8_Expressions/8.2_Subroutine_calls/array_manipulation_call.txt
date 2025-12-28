@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-28T00:00:00+00:00
+
+====== array manipulation call ======
+Created Saturday 28 December 2025
+
+IEEE 1800-2023 Section A.8.2
+
+[[array_method_name]] { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] }
+[ ( [[list_of_arguments]] ) ]
+[ **with** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) ]
+
+===== Backlinks =====
+[[built_in_method_call]]
+

@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-28T00:00:00+00:00
+
+====== slice size ======
+Created Saturday 28 December 2025
+
+IEEE 1800-2023 Section A.8.1
+
+[[2_Declarations:2.2_Declaration_data_types:simple_type|simple_type]] | [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]]
+
+===== Backlinks =====
+[[streaming_concatenation]]
+

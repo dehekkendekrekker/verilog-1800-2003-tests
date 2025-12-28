@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-28T00:00:00+00:00
+
+====== module path conditional expression ======
+Created Saturday 28 December 2025
+
+IEEE 1800-2023 Section A.8.3
+
+[[module_path_expression]] **?** { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] }
+[[module_path_expression]] **:** [[module_path_expression]]
+
+===== Backlinks =====
+[[module_path_expression]]
+

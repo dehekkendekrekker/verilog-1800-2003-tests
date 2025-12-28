@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-28T00:00:00+00:00
+
+====== limit value ======
+Created Saturday 28 December 2025
+
+IEEE 1800-2023 Section A.2.4
+
+[[8_Expressions:8.3_Expressions:constant_mintypmax_expression|constant_mintypmax_expression]]
+
+===== Backlinks =====
+[[error_limit_value]]
+[[reject_limit_value]]
+

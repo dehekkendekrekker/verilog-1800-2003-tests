@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-28T00:00:00+00:00
+
+====== trans list ======
+Created Saturday 28 December 2025
+
+IEEE 1800-2023 Section A.2.11
+
+( [[trans_set]] ) { , ( [[trans_set]] ) }
+
+===== Backlinks =====
+[[bins_or_options]]
+

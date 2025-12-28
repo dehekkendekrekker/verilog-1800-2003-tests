@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-28T00:00:00+00:00
+
+====== hierarchical btf identifier ======
+Created Saturday 28 December 2025
+
+IEEE 1800-2023 Section A.9.3
+
+[[hierarchical_tf_identifier]]
+| [[hierarchical_block_identifier]]
+| [ [[hierarchical_identifier]] . | [[class_scope]] ] [[method_identifier]]
+
+===== Backlinks =====
+

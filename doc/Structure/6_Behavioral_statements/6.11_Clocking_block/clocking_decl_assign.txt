@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-28T00:00:00+00:00
+
+====== clocking decl assign ======
+Created Saturday 28 December 2025
+
+IEEE 1800-2023 Section A.6.11
+
+[[9_General:9.3_Identifiers:signal_identifier|signal_identifier]] [ = [[8_Expressions:8.3_Expressions:expression|expression]] ]
+
+===== Backlinks =====
+[[list_of_clocking_decl_assign]]
+

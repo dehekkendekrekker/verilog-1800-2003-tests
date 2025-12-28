@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-28T00:00:00+00:00
+
+====== initial or extends specifier ======
+Created Saturday 28 December 2025
+
+IEEE 1800-2023 Section A.2.7
+
+**:** **initial**
+| **:** **extends**
+
+===== Backlinks =====
+[[dynamic_override_specifiers]]
+

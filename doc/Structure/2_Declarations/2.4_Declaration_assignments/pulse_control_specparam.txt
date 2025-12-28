@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-28T00:00:00+00:00
+
+====== pulse control specparam ======
+Created Saturday 28 December 2025
+
+IEEE 1800-2023 Section A.2.4
+
+**PATHPULSE$** = ( [[reject_limit_value]] [ , [[error_limit_value]] ] )
+| **PATHPULSE$** [[7_Specify_section:7.3_Specify_block_terminals:specify_input_terminal_descriptor|specify_input_terminal_descriptor]] **$** [[7_Specify_section:7.3_Specify_block_terminals:specify_output_terminal_descriptor|specify_output_terminal_descriptor]]
+  = ( [[reject_limit_value]] [ , [[error_limit_value]] ] )
+
+===== Backlinks =====
+[[specparam_assignment]]
+

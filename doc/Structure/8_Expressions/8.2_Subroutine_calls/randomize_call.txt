@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-28T00:00:00+00:00
+
+====== randomize call ======
+Created Saturday 28 December 2025
+
+IEEE 1800-2023 Section A.8.2
+
+**randomize** { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] }
+[ ( [ [[variable_identifier_list]] | **null** ] ) ]
+[ **with** [ ( [ [[identifier_list]] ] ) ] [[1_Source_text:1.10_Constraints:constraint_block|constraint_block]] ]
+
+===== Backlinks =====
+[[built_in_method_call]]
+

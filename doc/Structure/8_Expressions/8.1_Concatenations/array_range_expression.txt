@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-28T00:00:00+00:00
+
+====== array range expression ======
+Created Saturday 28 December 2025
+
+IEEE 1800-2023 Section A.8.1
+
+[[8_Expressions:8.3_Expressions:expression|expression]]
+| [[8_Expressions:8.3_Expressions:expression|expression]] **:** [[8_Expressions:8.3_Expressions:expression|expression]]
+| [[8_Expressions:8.3_Expressions:expression|expression]] **+:** [[8_Expressions:8.3_Expressions:expression|expression]]
+| [[8_Expressions:8.3_Expressions:expression|expression]] **-:** [[8_Expressions:8.3_Expressions:expression|expression]]
+
+===== Backlinks =====
+[[stream_expression]]
+
