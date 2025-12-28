@@ -12136,7 +12136,7 @@ int e, pos;
 // method call yielding the
 //
 // same value in variable q
-// ----------------------------- // ------------------------q = { q, 6 };
+ //-----------------------------//  ------------------------q = { q, 6 };
 // q.push_back(6)
 q = { e, q };
 // q.push_front(e)
@@ -90526,7 +90526,7 @@ A.9.3 Identifiers
 array_identifier ::= identifier
 block_identifier ::= identifier
 bin_identifier ::= identifier
-c_identifier54 ::= [ a-zA-Z_ ] { [ a-zA-Z0-9_ ] }
+c_identifier ::= [ a-zA-Z_ ] { [ a-zA-Z0-9_ ] }
 cell_identifier ::= identifier
 checker_identifier ::= identifier
 class_identifier ::= identifier
@@ -95864,7 +95864,7 @@ propagated back to the SystemVerilog sphere.
 —
 
 An output mode string does not arrive at the C interface with a meaningful value. It is represented
-by a const char** variable. Upon return to SystemVerilog, the DPI C application shall have written a valid and initialized const char* address into the const char** variable. SystemVerilog
+by a const char **variable. Upon return to SystemVerilog, the DPI C application shall have written a valid and initialized const char* address into the const char** variable. SystemVerilog
 shall not free memory accessed through this address.
 
 —
@@ -98342,9 +98342,9 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 /* object is exported by the application */
 #define EETERN PLI_EXTERN PLI_DLLESPEC
 #endif
-/********************************** TYPEDEFS **********************************/
+/******************************** **TYPEDEFS** ********************************/
 typedef PLI_UINT32 *vpiHandle;
-/******************************** OBJECT TYPES ********************************/
+/****************************** **OBJECT TYPES** ******************************/
 #define vpiAlways
 #define vpiAssignStmt
 #define vpiAssignment
@@ -98575,7 +98575,7 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 /* wait statement */
 /* while statement */
 
-/********************** object types added with 1364-2001 *********************/
+/******************** **object types added with 1364-2001** *******************/
 #define vpiAttribute
 #define vpiBitSelect
 #define vpiCallback
@@ -98627,7 +98627,7 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 /* Bit of a vector continuous assignment */
 /* multidimensional named event */
 
-/********************** object types added with 1364-2005 *********************/
+/******************** **object types added with 1364-2005** *******************/
 #define vpiIndexedPartSelect 130
 #define vpiGenScopeArray
 133
@@ -98641,8 +98641,8 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 /* A generated scope */
 /* Object used to instantiate gen scopes */
 
-/*********************************** METHODS **********************************/
-/**************** methods used to traverse 1 to 1 relationships ***************/
+/********************************* **METHODS** ********************************/
+/************** **methods used to traverse 1 to 1 relationships** *************/
 #define vpiCondition
 #define vpiDelay
 #define vpiElseStmt
@@ -98717,7 +98717,7 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 /* timing check notifier */
 /* timing check reference term */
 
-/************* methods used to traverse 1 to many relationships ***************/
+/*********** **methods used to traverse 1 to many relationships** *************/
 #define vpiArgument
 #define vpiBit
 #define vpiDriver
@@ -98760,7 +98760,7 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 /* variables in module */
 /* usage */
 
-/******** methods which can traverse 1 to 1, or 1 to many relationships *******/
+/****** **methods which can traverse 1 to 1, or 1 to many relationships** *****/
 #define vpiExpr
 #define vpiPrimitive
 #define vpiStmt
@@ -98773,7 +98773,7 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 /* primitive (gate, switch, UDP) */
 /* statement in process or task */
 
-/************************ methods added with 1364-2001 ************************/
+/********************** **methods added with 1364-2001** **********************/
 #define vpiActiveTimeFormat
 #define vpiInTerm
 #define vpiInstanceArray
@@ -98804,7 +98804,7 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 /* simulated net after collapsing */
 /* task/function */
 
-/************************ methods added with 1364-2005 ************************/
+/********************** **methods added with 1364-2005** **********************/
 #define vpiBaseExpr
 #define vpiWidthExpr
 
@@ -98814,15 +98814,15 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 /* Indexed part-select's base expression */
 /* Indexed part-select's width expression */
 
-/************************ methods added with 1800-2009 ************************/
+/********************** **methods added with 1800-2009** **********************/
 #define vpiAutomatics
 
 136
 
 /* Automatic variables of a frame */
 
-/********************************* PROPERTIES *********************************/
-/************************** generic object properties *************************/
+/******************************* **PROPERTIES** *******************************/
+/************************ **generic object properties** ***********************/
 #define vpiUndefined
 #define vpiType
 #define vpiName
@@ -98847,7 +98847,7 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 /* File name in which the object is used*/
 /* line number where the object is used */
 
-/***************************** module properties ******************************/
+/*************************** **module properties** ****************************/
 #define vpiTopModule
 #define vpiCellInstance
 #define vpiDefName
@@ -98931,7 +98931,7 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 /* min:typ:max delay mode */
 /* Default decay time for a module */
 
-/*************************** port and net properties **************************/
+/************************* **port and net properties** ************************/
 #define vpiScalar
 #define vpiVector
 #define vpiExplicitName
@@ -99068,7 +99068,7 @@ rightsatreserved.
 IEEE Std 1800-2023
 IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Verification Language
 
-/************************ gate and terminal properties ************************/
+/********************** **gate and terminal properties** **********************/
 #define vpiTermIndex
 #define vpiStrength0
 #define vpiStrength1
@@ -99168,7 +99168,7 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 /* sequential UDP */
 /* combinational UDP */
 
-/**************** path, path terminal, timing check properties ****************/
+/************** **path, path terminal, timing check properties** **************/
 #define vpiPolarity
 #define vpiDataPolarity
 #define vpiPositive
@@ -99291,7 +99291,7 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 /* $removal -- added for 1364-2001 */
 /* $timeskew -- added for 1364-2001 */
 
-/**************************** expression properties ***************************/
+/************************** **expression properties** *************************/
 #define vpiOpType
 #define vpiMinusOp
 #define vpiPlusOp
@@ -99497,7 +99497,7 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 /* ignore Z's */
 /* assign part of decl (Boolean) */
 
-/************************** task/function properties **************************/
+/************************ **task/function properties** ************************/
 #define vpiFuncType
 #define vpiIntFunc
 #define vpiRealFunc
@@ -99519,7 +99519,7 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 /* returns an arbitrary size */
 /* returns sized signed value */
 
-/** alias 1364-1995 system function subtypes to 1364-2001 function subtypes ***/
+/ **alias 1364-1995 system function subtypes to 1364-2001 function subtypes** */
 #define vpiSysFuncType
 #define vpiSysFuncInt
 #define vpiSysFuncReal
@@ -99539,7 +99539,7 @@ vpiSizedFunc
 /*user-defined system task/func(Boolean)*/
 /* object still scheduled (Boolean) */
 
-/*********************** properties added with 1364-2001 **********************/
+/********************* **properties added with 1364-2001** ********************/
 #define vpiActive
 #define vpiAutomatic
 #define vpiCell
@@ -99615,7 +99615,7 @@ rightsatreserved.
 IEEE Std 1800-2023
 IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Verification Language
 
-/*********************** properties added with 1364-2005 **********************/
+/********************* **properties added with 1364-2005** ********************/
 #define vpiIndexedPartSelectType 72 /* Indexed part-select type */
 #define vpiPosIndexed
 1 /* +: */
@@ -99625,7 +99625,7 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 73 /* TRUE for a one-dimensional reg array */
 #define vpiIsProtected
 74 /* TRUE for protected design information */
-/*************** vpi_control() constants (added with 1364-2001) ***************/
+/************* **vpi_control() constants (added with 1364-2001)** *************/
 #define vpiStop
 #define vpiFinish
 #define vpiReset
@@ -99641,13 +99641,13 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 /* execute simulator's $reset */
 /* set simulator's interactive scope */
 
-/**************************** I/O related defines *****************************/
+/************************** **I/O related defines** ***************************/
 #define VPI_MCD_STDOUT
 
 0x00000001
 
-/*************************** STRUCTURE DEFINITIONS ****************************/
-/******************************* time structure *******************************/
+/************************* **STRUCTURE DEFINITIONS** **************************/
+/***************************** **time structure** *****************************/
 #ifndef VPI_TIME /* added in 1800-2023 */
 #define VPI_TIME
 typedef struct t_vpi_time
@@ -99670,7 +99670,7 @@ vpiSuppressTime] */
 #define vpiSuppressTime
 3
 #endif
-/****************************** delay structures ******************************/
+/**************************** **delay structures** ****************************/
 typedef struct t_vpi_delay
 {
 struct t_vpi_time *da;
@@ -99690,7 +99690,7 @@ vpiSuppressTime] */
 /* true for append */
 /* true for pulsere values */
 
-/***************************** value structures *******************************/
+/*************************** **value structures** *****************************/
 /* vector value */
 #ifndef VPI_VECVAL
 #define VPI_VECVAL
@@ -99932,7 +99932,7 @@ rightsatreserved.
 IEEE Std 1800-2023
 IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Verification Language
 
-/*********************** system task/function structure ***********************/
+/********************* **system task/function structure** *********************/
 typedef struct t_vpi_systf_data
 {
 PLI_INT32 type;
@@ -99954,7 +99954,7 @@ PLI_BYTE8 *user_data;
 2
 
 /* the subtypes are defined under the vpiFuncType property */
-/**************** SystemVerilog execution information structure ***************/
+/************** **SystemVerilog execution information structure** *************/
 typedef struct t_vpi_vlog_info
 {
 PLI_INT32 argc;
@@ -99962,7 +99962,7 @@ PLI_BYTE8 **argv;
 PLI_BYTE8 *product;
 PLI_BYTE8 *version;
 } s_vpi_vlog_info, *p_vpi_vlog_info;
-/*********************** PLI error information structure **********************/
+/********************* **PLI error information structure** ********************/
 typedef struct t_vpi_error_info
 {
 PLI_INT32 state;
@@ -99997,7 +99997,7 @@ PLI_INT32 line;
 4
 5
 
-/**************************** callback structures *****************************/
+/************************** **callback structures** ***************************/
 /* normal callback structure */
 typedef struct t_cb_data
 {
@@ -100041,8 +100041,8 @@ PLI_BYTE8
 *user_data;
 } s_cb_data, *p_cb_data;
 
-/****************************** CALLBACK REASONS ******************************/
-/***************************** Simulation related *****************************/
+/**************************** **CALLBACK REASONS** ****************************/
+/*************************** **Simulation related** ***************************/
 #define cbValueChange
 #define cbStmt
 #define cbForce
@@ -100053,7 +100053,7 @@ PLI_BYTE8
 3
 4
 
-/******************************** Time related ********************************/
+/****************************** **Time related** ******************************/
 #define cbAtStartOfSimTime
 #define cbReadWriteSynch
 #define cbReadOnlySynch
@@ -100066,7 +100066,7 @@ PLI_BYTE8
 8
 9
 
-/******************************* Action related *******************************/
+/***************************** **Action related** *****************************/
 #define cbEndOfCompile
 10
 #define cbStartOfSimulation
@@ -100096,7 +100096,7 @@ PLI_BYTE8
 #define cbInteractiveScopeChange 23
 #define cbUnresolvedSystf
 24
-/**************************** Added with 1364-2001 ****************************/
+/************************** **Added with 1364-2001** **************************/
 #define cbAssign
 #define cbDeassign
 #define cbDisable
@@ -100109,12 +100109,12 @@ PLI_BYTE8
 28
 29
 
-/**************************** Added with 1364-2005 ****************************/
+/************************** **Added with 1364-2005** **************************/
 #define cbNBASynch
 30
 #define cbAtEndOfSimTime
 31
-/**************************** FUNCTION DECLARATIONS ***************************/
+/************************** **FUNCTION DECLARATIONS** *************************/
 /* Include compatibility mode macro definitions. */
 #include "vpi_compatibility.h"
 /* callback related */
@@ -100342,7 +100342,7 @@ PROTO_PARAMS((PLI_INT32 operation,
 XXTERN vpiHandle vpi_handle_by_multi_index PROTO_PARAMS((vpiHandle obj,
 PLI_INT32 num_index,
 PLI_INT32 *index_array));
-/****************************** GLOBAL VARIABLES ******************************/
+/**************************** **GLOBAL VARIABLES** ****************************/
 PLI_VEXTERN PLI_DLLESPEC void (*vlog_startup_routines[])( void );
 /* array of function pointers, last pointer should be null */
 #undef PLI_EXTERN
@@ -100635,7 +100635,7 @@ M.2 Source code
 #ifdef __cplusplus
 extern "C" {
 #endif
-/****************************** OBJECT TYPES ******************************/
+/**************************** **OBJECT TYPES** ****************************/
 #define vpiPackage
 600
 #define vpiInterface
@@ -100961,8 +100961,8 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 903
 904
 
-/******************************** METHODS *********************************/
-/************* methods used to traverse 1 to 1 relationships **************/
+/****************************** **METHODS** *******************************/
+/*********** **methods used to traverse 1 to 1 relationships** ************/
 #define vpiActual
 700
 #define vpiTypedefAlias
@@ -101015,7 +101015,7 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 722
 746
 
-/************ methods used to traverse 1 to many relationships ************/
+/********** **methods used to traverse 1 to many relationships** **********/
 #define vpiTypedef
 725
 #define vpiImport
@@ -101067,15 +101067,15 @@ vpiConcurrentAssertion
 742
 743
 
-/************* methods used to traverse 1 to many relationships ***************/
+/*********** **methods used to traverse 1 to many relationships** *************/
 #define vpiAssertion
 744
-/*********** methods used to traverse both 1-1 and 1-many relations ***********/
+/********* **methods used to traverse both 1-1 and 1-many relations** *********/
 #define vpiInstance
 745
 
 /**************************************************************************/
-/************************ generic object properties ***********************/
+/********************** **generic object properties** *********************/
 /**************************************************************************/
 #define vpiTop
 
@@ -101331,7 +101331,7 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 668
 669
 
-/******************************** Operators *******************************/
+/****************************** **Operators** *****************************/
 #define vpiImplyOp
 50 /* -> implication operator */
 #define vpiNonOverlapImplyOp
@@ -101441,16 +101441,16 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 81 /* type operator */
 #define vpiAssignmentOp
 82 /* Normal assignment */
-/*********************** task/function properties ***********************/
+/********************* **task/function properties** *********************/
 #define vpiOtherFunc
 6 /* returns other types; for property vpiFuncType */
 /* vpiValid and vpiValidUnknown were deprecated in 1800-2009 */
-/*********************** value for vpiValid *****************************/
+/********************* **value for vpiValid** ***************************/
 #define vpiValidUnknown
 2 /* Validity of variable is unknown */
-/************************** STRUCTURE DEFINITIONS *************************/
-/***************************** structure *****************************/
-/**************************** CALLBACK REASONS ****************************/
+/************************ **STRUCTURE DEFINITIONS** ***********************/
+/*************************** **structure** ***************************/
+/************************** **CALLBACK REASONS** **************************/
 #define cbStartOfThread
 600 /* callback on thread creation */
 #define cbEndOfThread
@@ -101470,10 +101470,10 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 automatic memory management */
 #define cbEndOfObject
 702 /* callback on transient object deletion */
-/************************* FUNCTION DECLARATIONS **************************/
+/*********************** **FUNCTION DECLARATIONS** ************************/
 
 /**************************************************************************/
-/*************************** Coverage VPI *********************************/
+/************************* **Coverage VPI** *******************************/
 /**************************************************************************/
 /* coverage control */
 #define vpiCoverageStart
@@ -101553,7 +101553,7 @@ IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Ve
 759
 
 /***************************************************************************/
-/***************************** Assertion VPI *******************************/
+/*************************** **Assertion VPI** *****************************/
 /***************************************************************************/
 /* assertion callback types */
 #define cbAssertionStart
