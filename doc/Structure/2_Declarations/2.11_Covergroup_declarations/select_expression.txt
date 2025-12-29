@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-29T00:00:00+00:00
+
+====== select expression ======
+Created Sunday 29 December 2025
+
+IEEE 1800-2023 Section A.2.11
+
+[[select_condition]]
+| **!** [[select_condition]]
+| [[select_expression]] **&&** [[select_expression]]
+| [[select_expression]] **||** [[select_expression]]
+| **(** [[select_expression]] **)**
+| [[select_expression]] **with** **(** [[with_covergroup_expression]] **)** [ **matches** [[integer_covergroup_expression]] ]
+| [[9_General:9.3_Identifiers:cross_identifier|cross_identifier]]
+| [[cross_set_expression]] [ **matches** [[integer_covergroup_expression]] ]
+
+===== Backlinks =====
+[[bins_selection]]
+

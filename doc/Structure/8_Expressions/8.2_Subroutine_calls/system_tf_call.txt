@@ -5,9 +5,9 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 ====== system tf call ======
 Created Friday 27 December 2025
 
-system_tf_identifier [ ( [[list_of_arguments]] ) ]
-| system_tf_identifier ( [[2_Declarations:2.2_Declaration_data_types:data_type|data_type]] [ , [[8_Expressions:8.3_Expressions:expression|expression]] ] )
-| system_tf_identifier ( [[8_Expressions:8.3_Expressions:expression|expression]] { , [ [[8_Expressions:8.3_Expressions:expression|expression]] ] } [ , [ [[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]] ] ] )
+[[9_General:9.3_Identifiers:system_tf_identifier|system_tf_identifier]] [ ( [[list_of_arguments]] ) ]
+| [[9_General:9.3_Identifiers:system_tf_identifier|system_tf_identifier]] ( [[2_Declarations:2.2_Declaration_data_types:data_type|data_type]] [ , [[8_Expressions:8.3_Expressions:expression|expression]] ] )
+| [[9_General:9.3_Identifiers:system_tf_identifier|system_tf_identifier]] ( [[8_Expressions:8.3_Expressions:expression|expression]] { , [ [[8_Expressions:8.3_Expressions:expression|expression]] ] } [ , [ [[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]] ] ] )
 
 ===== Backlinks =====
 [[subroutine_call]]

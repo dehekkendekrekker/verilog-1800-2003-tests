@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-29T00:00:00+00:00
+
+====== c identifier ======
+Created Sunday 29 December 2025
+
+IEEE 1800-2023 Section A.9.3
+
+[ **a-zA-Z_** ] { [ **a-zA-Z0-9_** ] }
+
+===== Backlinks =====
+[[1_Source_text:1.11_Package_items:dpi_import_export|dpi_import_export]]
+

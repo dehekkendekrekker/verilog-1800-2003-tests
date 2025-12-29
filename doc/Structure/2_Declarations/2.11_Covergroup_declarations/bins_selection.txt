@@ -7,7 +7,7 @@ Created Saturday 28 December 2025
 
 IEEE 1800-2023 Section A.2.11
 
-[[bins_keyword]] [[9_General:9.3_Identifiers:bin_identifier|bin_identifier]] = [[select_expression]] [ **iff** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) ]
+[[bins_keyword]] [[9_General:9.3_Identifiers:bin_identifier|bin_identifier]] **=** [[select_expression]] [ **iff** **(** [[8_Expressions:8.3_Expressions:expression|expression]] **)** ]
 
 ===== Backlinks =====
 [[bins_selection_or_option]]

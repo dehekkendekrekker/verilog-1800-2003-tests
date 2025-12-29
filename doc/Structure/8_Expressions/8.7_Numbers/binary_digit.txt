@@ -10,4 +10,5 @@ IEEE 1800-2023 Section A.8.7
 [[x_digit]] | [[z_digit]] | **0** | **1**
 
 ===== Backlinks =====
+[[binary_value]]
 

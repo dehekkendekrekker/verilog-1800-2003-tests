@@ -5,7 +5,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 ====== octal number ======
 Created Friday 27 December 2025
 
-[ size ] octal_base octal_value
+[ [[size]] ] [[octal_base]] [[octal_value]]
 
 ===== Backlinks =====
 [[integral_number]]

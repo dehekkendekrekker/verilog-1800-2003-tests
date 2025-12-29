@@ -5,10 +5,10 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 ====== dpi import export ======
 Created Friday 27 December 2025
 
-**import** [[dpi_spec_string]] [ [[dpi_function_import_property]] ] [ c_identifier = ] [[dpi_function_proto]] ;
-| **import** [[dpi_spec_string]] [ [[dpi_task_import_property]] ] [ c_identifier = ] [[dpi_task_proto]] ;
-| **export** [[dpi_spec_string]] [ c_identifier = ] **function** function_identifier ;
-| **export** [[dpi_spec_string]] [ c_identifier = ] **task** task_identifier ;
+**import** [[dpi_spec_string]] [ [[dpi_function_import_property]] ] [ [[9_General:9.3_Identifiers:c_identifier|c_identifier]] **=** ] [[dpi_function_proto]] **;**
+| **import** [[dpi_spec_string]] [ [[dpi_task_import_property]] ] [ [[9_General:9.3_Identifiers:c_identifier|c_identifier]] **=** ] [[dpi_task_proto]] **;**
+| **export** [[dpi_spec_string]] [ [[9_General:9.3_Identifiers:c_identifier|c_identifier]] **=** ] **function** [[9_General:9.3_Identifiers:function_identifier|function_identifier]] **;**
+| **export** [[dpi_spec_string]] [ [[9_General:9.3_Identifiers:c_identifier|c_identifier]] **=** ] **task** [[9_General:9.3_Identifiers:task_identifier|task_identifier]] **;**
 
 ===== Backlinks =====
 [[package_or_generate_item_declaration]]

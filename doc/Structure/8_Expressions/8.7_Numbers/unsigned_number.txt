@@ -12,4 +12,5 @@ IEEE 1800-2023 Section A.8.7
 ===== Backlinks =====
 [[time_literal]]
 [[decimal_number]]
+[[size]]
 [[2_Declarations:2.2_Declaration_data_types:delay_value|delay_value]]
