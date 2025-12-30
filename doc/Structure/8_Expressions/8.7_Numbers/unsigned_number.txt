@@ -10,7 +10,8 @@ IEEE 1800-2023 Section A.8.7
 [[decimal_digit]] { _ | [[decimal_digit]] }
 
 ===== Backlinks =====
-[[time_literal]]
 [[decimal_number]]
-[[size]]
 [[2_Declarations:2.2_Declaration_data_types:delay_value|delay_value]]
+[[fixed_point_number]]
+[[size]]
+[[time_literal]]

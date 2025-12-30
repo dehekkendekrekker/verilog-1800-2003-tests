@@ -9,3 +9,4 @@ Created Friday 27 December 2025
 
 ===== Backlinks =====
 [[property_qualifier]]
+[[2_Declarations:2.2_Declaration_data_types:struct_union_member|struct_union_member]]

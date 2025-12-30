@@ -8,5 +8,5 @@ Created Friday 27 December 2025
 = | += | -= | *= | /= | %= | &= | |= | ^= | <<= | >>= | <<<= | >>>=
 
 ===== Backlinks =====
+[[4_Instantiations:4.2_Generated_instantiation:genvar_iteration|genvar_iteration]]
 [[operator_assignment]]
-

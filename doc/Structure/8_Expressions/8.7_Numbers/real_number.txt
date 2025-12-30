@@ -9,4 +9,5 @@ fixed_point_number
 | unsigned_number [ . unsigned_number ] exp [ sign ] unsigned_number
 
 ===== Backlinks =====
+[[2_Declarations:2.2_Declaration_data_types:delay_value|delay_value]]
 [[number]]

@@ -10,4 +10,7 @@ Created Friday 27 December 2025
 ===== Backlinks =====
 [[class_qualifier]]
 [[1_Source_text:1.10_Constraints:constraint_primary|constraint_primary]]
+[[8_Expressions:8.2_Subroutine_calls:method_call_root|method_call_root]]
+[[8_Expressions:8.5_Expression_left_side_values:nonrange_variable_lvalue|nonrange_variable_lvalue]]
+[[9_General:9.3_Identifiers:ps_or_hierarchical_array_identifier|ps_or_hierarchical_array_identifier]]
 [[8_Expressions:8.5_Expression_left_side_values:variable_lvalue|variable_lvalue]]

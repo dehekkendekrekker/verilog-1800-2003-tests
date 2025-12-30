@@ -10,4 +10,21 @@ IEEE 1800-2023 Section A.9.1
 **(**** [[attr_spec]] { **,** [[attr_spec]] } ***)**
 
 ===== Backlinks =====
-(Used throughout the grammar to annotate declarations and statements)
+[[8_Expressions:8.2_Subroutine_calls:array_manipulation_call|array_manipulation_call]]
+[[2_Declarations:2.11_Covergroup_declarations:bins_selection_or_option|bins_selection_or_option]]
+[[2_Declarations:2.8_Block_item_declarations:block_item_declaration|block_item_declaration]]
+[[8_Expressions:8.3_Expressions:expression|expression]]
+[[1_Source_text:1.2_SystemVerilog_source_text:module_declaration|module_declaration]]
+[[8_Expressions:8.3_Expressions:module_path_conditional_expression|module_path_conditional_expression]]
+[[8_Expressions:8.3_Expressions:module_path_expression|module_path_expression]]
+[[8_Expressions:8.3_Expressions:module_path_unary_expression|module_path_unary_expression]]
+[[4_Instantiations:4.1_Instantiations:named_port_connection|named_port_connection]]
+[[4_Instantiations:4.1_Instantiations:ordered_port_connection|ordered_port_connection]]
+[[8_Expressions:8.2_Subroutine_calls:randomize_call|randomize_call]]
+[[2_Declarations:2.2_Declaration_data_types:struct_union_member|struct_union_member]]
+[[5_UDP_declaration_and_instantiation:5.1_UDP_declaration:udp_ansi_declaration|udp_ansi_declaration]]
+[[5_UDP_declaration_and_instantiation:5.1_UDP_declaration:udp_declaration|udp_declaration]]
+[[5_UDP_declaration_and_instantiation:5.2_UDP_ports:udp_input_declaration|udp_input_declaration]]
+[[5_UDP_declaration_and_instantiation:5.1_UDP_declaration:udp_nonansi_declaration|udp_nonansi_declaration]]
+[[5_UDP_declaration_and_instantiation:5.2_UDP_ports:udp_output_declaration|udp_output_declaration]]
+[[5_UDP_declaration_and_instantiation:5.2_UDP_ports:udp_reg_declaration|udp_reg_declaration]]

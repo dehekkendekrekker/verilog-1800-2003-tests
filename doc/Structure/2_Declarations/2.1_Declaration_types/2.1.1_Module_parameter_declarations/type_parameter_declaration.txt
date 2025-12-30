@@ -8,9 +8,6 @@ Created Friday 27 December 2025
 **type** [ [[2_Declarations:2.1_Declaration_types:2.1.3_Type_declarations:forward_type|forward_type]] ] [[2_Declarations:2.3_Declaration_lists:list_of_type_assignments|list_of_type_assignments]]
 
 ===== Backlinks =====
-[[1_Source_text:1.3_Module_parameters_and_ports:parameter_port_declaration|parameter_port_declaration]]
 [[local_parameter_declaration]]
 [[parameter_declaration]]
-[[2_Declarations:2.3_Declaration_lists:list_of_type_assignments|list_of_type_assignments]]
-[[2_Declarations:2.4_Declaration_assignments:type_assignment|type_assignment]]
-[[2_Declarations:2.1_Declaration_types:2.1.3_Type_declarations:forward_type|forward_type]]
+[[1_Source_text:1.3_Module_parameters_and_ports:parameter_port_declaration|parameter_port_declaration]]

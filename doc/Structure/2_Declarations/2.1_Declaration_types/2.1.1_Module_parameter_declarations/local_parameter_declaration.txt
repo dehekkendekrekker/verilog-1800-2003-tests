@@ -9,10 +9,9 @@ Created Friday 27 December 2025
 | **localparam** [[type_parameter_declaration]]
 
 ===== Backlinks =====
-[[1_Source_text:1.3_Module_parameters_and_ports:parameter_port_declaration|parameter_port_declaration]]
-[[1_Source_text:1.5_Configuration_source_text:config_declaration|config_declaration]]
+[[2_Declarations:2.8_Block_item_declarations:block_item_declaration|block_item_declaration]]
 [[1_Source_text:1.9_Class_items:class_item|class_item]]
+[[1_Source_text:1.5_Configuration_source_text:config_declaration|config_declaration]]
 [[1_Source_text:1.9_Class_items:interface_class_item|interface_class_item]]
 [[1_Source_text:1.11_Package_items:package_or_generate_item_declaration|package_or_generate_item_declaration]]
-[[2_Declarations:2.8_Block_item_declarations:block_item_declaration|block_item_declaration]]
-[[2_Declarations:2.3_Declaration_lists:list_of_param_assignments|list_of_param_assignments]]
+[[1_Source_text:1.3_Module_parameters_and_ports:parameter_port_declaration|parameter_port_declaration]]

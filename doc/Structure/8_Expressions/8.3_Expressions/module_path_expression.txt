@@ -12,6 +12,8 @@ module_path_conditional_expression
 | module_path_expression [[8_Expressions:8.6_Operators:binary_module_path_operator|binary_module_path_operator]] { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } module_path_expression
 
 ===== Backlinks =====
+[[8_Expressions:8.1_Concatenations:module_path_concatenation|module_path_concatenation]]
+[[module_path_conditional_expression]]
+[[module_path_mintypmax_expression]]
+[[8_Expressions:8.4_Primaries:module_path_primary|module_path_primary]]
 [[7_Specify_section:7.2_Specify_path_declarations:state_dependent_path_declaration|state_dependent_path_declaration]]
-[[7_Specify_section:7.4_Specify_path_delays:path_delay_expression|path_delay_expression]]
-

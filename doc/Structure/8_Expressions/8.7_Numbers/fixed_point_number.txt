@@ -11,4 +11,3 @@ IEEE 1800-2023 Section A.8.7
 
 ===== Backlinks =====
 [[time_literal]]
-[[real_number]]

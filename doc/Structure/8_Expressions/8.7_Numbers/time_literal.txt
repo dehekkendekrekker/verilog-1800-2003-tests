@@ -11,5 +11,6 @@ IEEE 1800-2023 Section A.8.7
 | [[fixed_point_number]] [[time_unit]]
 
 ===== Backlinks =====
-[[1_Source_text:1.2_SystemVerilog_source_text:timeunits_declaration|timeunits_declaration]]
 [[2_Declarations:2.2_Declaration_data_types:delay_value|delay_value]]
+[[8_Expressions:8.4_Primaries:primary_literal|primary_literal]]
+[[1_Source_text:1.2_SystemVerilog_source_text:timeunits_declaration|timeunits_declaration]]

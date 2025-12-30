@@ -10,5 +10,7 @@ IEEE 1800-2023 Section A.9.3
 [[identifier]]
 
 ===== Backlinks =====
-[[5_UDP_declaration_and_instantiation:5.4_UDP_instantiation:udp_instantiation]]
-
+[[5_UDP_declaration_and_instantiation:5.1_UDP_declaration:udp_ansi_declaration|udp_ansi_declaration]]
+[[5_UDP_declaration_and_instantiation:5.1_UDP_declaration:udp_declaration|udp_declaration]]
+[[5_UDP_declaration_and_instantiation:5.4_UDP_instantiation:udp_instantiation|udp_instantiation]]
+[[5_UDP_declaration_and_instantiation:5.1_UDP_declaration:udp_nonansi_declaration|udp_nonansi_declaration]]

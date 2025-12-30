@@ -10,4 +10,5 @@ Created Friday 27 December 2025
 | **end** hierarchical_btf_identifier
 
 ===== Backlinks =====
+[[block_event_expression]]
 [[coverage_event]]

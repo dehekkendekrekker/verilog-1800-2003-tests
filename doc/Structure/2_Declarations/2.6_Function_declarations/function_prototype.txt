@@ -9,4 +9,5 @@ Created Friday 27 December 2025
 [ ( [ [[2_Declarations:2.7_Task_declarations:tf_port_list|tf_port_list]] ] ) ]
 
 ===== Backlinks =====
+[[1_Source_text:1.11_Package_items:dpi_function_proto|dpi_function_proto]]
 [[1_Source_text:1.9_Class_items:method_prototype|method_prototype]]

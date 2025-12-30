@@ -10,4 +10,7 @@ IEEE 1800-2023 Section A.8.7
 **z** | **Z** | **?**
 
 ===== Backlinks =====
-
+[[binary_digit]]
+[[decimal_number]]
+[[hex_digit]]
+[[octal_digit]]

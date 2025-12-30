@@ -10,11 +10,9 @@ IEEE 1800-2023 Section A.2.11
 [[8_Expressions:8.3_Expressions:expression|expression]]
 
 ===== Backlinks =====
-[[bins_or_options]]
 [[covergroup_value_range]]
-[[repeat_range]]
-[[with_covergroup_expression]]
-[[set_covergroup_expression]]
-[[integer_covergroup_expression]]
 [[cross_set_expression]]
-
+[[integer_covergroup_expression]]
+[[repeat_range]]
+[[set_covergroup_expression]]
+[[with_covergroup_expression]]

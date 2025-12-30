@@ -23,4 +23,5 @@ Created Friday 27 December 2025
 | **null**
 
 ===== Backlinks =====
+[[2_Declarations:2.2_Declaration_data_types:casting_type|casting_type]]
 [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]]

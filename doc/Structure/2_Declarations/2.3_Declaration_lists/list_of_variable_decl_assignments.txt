@@ -8,4 +8,5 @@ Created Wednesday 17 December 2025
 variable_decl_assignment { , variable_decl_assignment }
 
 ===== Backlinks =====
-(mentioned in assertion_variable_declaration but not linked)
+[[2_Declarations:2.1_Declaration_types:2.1.3_Type_declarations:data_declaration|data_declaration]]
+[[2_Declarations:2.2_Declaration_data_types:struct_union_member|struct_union_member]]

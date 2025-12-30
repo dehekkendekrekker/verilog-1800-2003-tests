@@ -11,5 +11,3 @@ IEEE 1800-2023 Section A.6.5
 
 ===== Backlinks =====
 [[6_Behavioral_statements:6.11_Clocking_block:clocking_skew|clocking_skew]]
-[[6_Behavioral_statements:6.5_Timing_control_statements:event_expression|event_expression]]
-

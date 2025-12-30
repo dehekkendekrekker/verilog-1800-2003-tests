@@ -12,5 +12,4 @@ IEEE 1800-2023 Section A.2.4
   = ( [[reject_limit_value]] [ , [[error_limit_value]] ] )
 
 ===== Backlinks =====
-[[specparam_assignment]]
-
+(no backlinks)

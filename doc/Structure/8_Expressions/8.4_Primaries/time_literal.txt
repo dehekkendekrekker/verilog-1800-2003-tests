@@ -9,4 +9,4 @@ unsigned_number [[time_unit]]
 | fixed_point_number [[time_unit]]
 
 ===== Backlinks =====
-[[primary_literal]]
+(no backlinks)

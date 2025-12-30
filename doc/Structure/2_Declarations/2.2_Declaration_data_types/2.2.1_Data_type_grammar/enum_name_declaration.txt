@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-28T00:00:00+00:00
+
+====== enum name declaration ======
+Created Saturday 28 December 2025
+
+IEEE 1800-2023 Section A.2.2.1
+
+[[9_General:9.3_Identifiers:enum_identifier|enum_identifier]] [ **[** [[8_Expressions:8.7_Numbers:integral_number|integral_number]] [ **:** [[8_Expressions:8.7_Numbers:integral_number|integral_number]] ] **]** ] [ **=** [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] ]
+
+===== Backlinks =====
+[[data_type]]

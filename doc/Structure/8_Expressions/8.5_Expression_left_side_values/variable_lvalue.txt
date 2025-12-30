@@ -12,7 +12,4 @@ Created Friday 27 December 2025
 
 ===== Backlinks =====
 [[8_Expressions:8.3_Expressions:inc_or_dec_expression|inc_or_dec_expression]]
-[[6_Behavioral_statements:6.2_Procedural_blocks_and_assignments:blocking_assignment|blocking_assignment]]
-[[6_Behavioral_statements:6.2_Procedural_blocks_and_assignments:nonblocking_assignment|nonblocking_assignment]]
-[[6_Behavioral_statements:6.2_Procedural_blocks_and_assignments:operator_assignment|operator_assignment]]
-[[6_Behavioral_statements:6.7_Case_statements:assignment_pattern_variable_lvalue|assignment_pattern_variable_lvalue]]
+[[variable_lvalue]]

@@ -10,5 +10,4 @@ IEEE 1800-2023 Section A.2.7
 [ [[initial_or_extends_specifier]] ] [ [[final_specifier]] ]
 
 ===== Backlinks =====
-[[task_prototype]]
-
+(no backlinks)

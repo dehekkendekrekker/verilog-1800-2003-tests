@@ -11,7 +11,7 @@ IEEE 1800-2023 Section A.7.3
 
 ===== Backlinks =====
 [[list_of_path_inputs]]
-[[7_Specify_section:7.2_Specify_path_declarations:parallel_path_description]]
-[[7_Specify_section:7.2_Specify_path_declarations:parallel_edge_sensitive_path_description]]
-[[7_Specify_section:7.5_System_timing_checks:7.5.3_System_timing_check_event_definitions:specify_terminal_descriptor]]
-
+[[7_Specify_section:7.2_Specify_path_declarations:parallel_edge_sensitive_path_description|parallel_edge_sensitive_path_description]]
+[[7_Specify_section:7.2_Specify_path_declarations:parallel_path_description|parallel_path_description]]
+[[2_Declarations:2.4_Declaration_assignments:pulse_control_specparam|pulse_control_specparam]]
+[[7_Specify_section:7.5_System_timing_checks:7.5.3_System_timing_check_event_definitions:specify_terminal_descriptor|specify_terminal_descriptor]]

@@ -11,4 +11,7 @@ Created Friday 27 December 2025
 | [[hex_number]]
 
 ===== Backlinks =====
+[[6_Behavioral_statements:6.11_Clocking_block:cycle_delay|cycle_delay]]
+[[2_Declarations:2.2_Declaration_data_types:enum_name_declaration|enum_name_declaration]]
 [[number]]
+[[6_Behavioral_statements:6.12_Randsequence:rs_weight_specification|rs_weight_specification]]

@@ -10,5 +10,5 @@ IEEE 1800-2023 Section A.8.1
 **{** [[8_Expressions:8.3_Expressions:module_path_expression|module_path_expression]] { , [[8_Expressions:8.3_Expressions:module_path_expression|module_path_expression]] } **}**
 
 ===== Backlinks =====
+[[module_path_multiple_concatenation]]
 [[8_Expressions:8.4_Primaries:module_path_primary|module_path_primary]]
-

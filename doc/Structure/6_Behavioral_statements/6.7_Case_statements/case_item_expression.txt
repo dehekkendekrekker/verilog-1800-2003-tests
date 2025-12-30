@@ -9,4 +9,4 @@ Created Friday 27 December 2025
 
 ===== Backlinks =====
 [[case_item]]
-
+[[6_Behavioral_statements:6.12_Randsequence:rs_case_item|rs_case_item]]

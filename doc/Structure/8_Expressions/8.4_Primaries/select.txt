@@ -8,5 +8,7 @@ Created Friday 27 December 2025
 [ { . member_identifier [[bit_select]] } . member_identifier ] [[bit_select]] [ [ [[8_Expressions:8.3_Expressions:part_select_range|part_select_range]] ] ]
 
 ===== Backlinks =====
-[[primary]]
+[[6_Behavioral_statements:6.11_Clocking_block:clockvar_expression|clockvar_expression]]
 [[1_Source_text:1.10_Constraints:constraint_primary|constraint_primary]]
+[[primary]]
+[[8_Expressions:8.5_Expression_left_side_values:variable_lvalue|variable_lvalue]]

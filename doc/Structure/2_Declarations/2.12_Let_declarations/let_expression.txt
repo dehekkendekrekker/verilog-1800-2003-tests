@@ -10,6 +10,4 @@ IEEE 1800-2023 Section A.2.12
 [ [[9_General:9.3_Identifiers:package_scope|package_scope]] ] [[let_identifier]] [ **(** [ [[let_list_of_arguments]] ] **)** ]
 
 ===== Backlinks =====
-[[8_Expressions:8.4_Primaries:primary|primary]]
 [[8_Expressions:8.4_Primaries:constant_let_expression|constant_let_expression]]
-

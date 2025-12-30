@@ -9,5 +9,3 @@ Created Friday 27 December 2025
 
 ===== Backlinks =====
 [[1_Source_text:1.3_Module_parameters_and_ports:port_declaration|port_declaration]]
-[[2_Declarations:2.2_Declaration_data_types:net_port_type|net_port_type]]
-[[2_Declarations:2.3_Declaration_lists:list_of_port_identifiers|list_of_port_identifiers]]

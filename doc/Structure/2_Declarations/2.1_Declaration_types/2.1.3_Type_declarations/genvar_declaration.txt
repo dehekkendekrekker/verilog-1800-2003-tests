@@ -8,6 +8,5 @@ Created Friday 27 December 2025
 **genvar** [[2_Declarations:2.3_Declaration_lists:list_of_genvar_identifiers|list_of_genvar_identifiers]] ;
 
 ===== Backlinks =====
-[[1_Source_text:1.4_Module_items:module_or_generate_item_declaration|module_or_generate_item_declaration]]
 [[1_Source_text:1.8_Checker_items:checker_or_generate_item_declaration|checker_or_generate_item_declaration]]
-[[2_Declarations:2.3_Declaration_lists:list_of_genvar_identifiers|list_of_genvar_identifiers]]
+[[1_Source_text:1.4_Module_items:module_or_generate_item_declaration|module_or_generate_item_declaration]]

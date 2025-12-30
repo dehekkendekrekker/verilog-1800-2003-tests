@@ -11,7 +11,6 @@ Created Friday 27 December 2025
 **endclass** [ : class_identifier ]
 
 ===== Backlinks =====
-[[1_Source_text:1.9_Class_items:class_item|class_item]]
-[[1_Source_text:1.9_Class_items:interface_class_item|interface_class_item]]
-[[1_Source_text:1.11_Package_items:package_or_generate_item_declaration|package_or_generate_item_declaration]]
 [[1_Source_text:1.11_Package_items:anonymous_program_item|anonymous_program_item]]
+[[1_Source_text:1.9_Class_items:class_item|class_item]]
+[[1_Source_text:1.11_Package_items:package_or_generate_item_declaration|package_or_generate_item_declaration]]

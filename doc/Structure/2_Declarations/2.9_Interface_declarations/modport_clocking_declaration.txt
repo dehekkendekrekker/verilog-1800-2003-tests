@@ -10,5 +10,4 @@ IEEE 1800-2023 Section A.2.9
 **clocking** [[9_General:9.3_Identifiers:clocking_identifier|clocking_identifier]]
 
 ===== Backlinks =====
-[[modport_item]]
-
+(no backlinks)

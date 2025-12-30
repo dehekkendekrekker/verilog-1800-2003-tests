@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== strength0 ======
+Created Friday 27 December 2025
+
+IEEE 1800-2023 Section A.2.2.2
+
+**supply0** | **strong0** | **pull0** | **weak0**
+
+===== Backlinks =====
+[[drive_strength]]
+[[3_Primitive_instances:3.2_Primitive_strengths:pulldown_strength|pulldown_strength]]
+[[3_Primitive_instances:3.2_Primitive_strengths:pullup_strength|pullup_strength]]

@@ -10,4 +10,5 @@ Created Friday 27 December 2025
 | $
 
 ===== Backlinks =====
-[[2_Declarations:2.4_Declaration_assignments:param_assignment|param_assignment]]
+[[4_Instantiations:4.1_Instantiations:named_parameter_assignment|named_parameter_assignment]]
+[[4_Instantiations:4.1_Instantiations:ordered_parameter_assignment|ordered_parameter_assignment]]

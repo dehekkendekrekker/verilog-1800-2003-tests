@@ -9,4 +9,3 @@ Created Friday 27 December 2025
 
 ===== Backlinks =====
 [[1_Source_text:1.10_Constraints:constraint_expression|constraint_expression]]
-[[6_Behavioral_statements:6.8_Looping_statements:loop_statement|loop_statement]]

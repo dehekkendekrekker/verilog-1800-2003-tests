@@ -18,5 +18,4 @@ IEEE 1800-2023 Section A.3.1
 | **pullup** [ [[3_Primitive_instances:3.2_Primitive_strengths:pullup_strength|pullup_strength]] ] [[pull_gate_instance]] { , [[pull_gate_instance]] } ;
 
 ===== Backlinks =====
-[[1_Source_text:1.4_Module_items:module_or_generate_item]]
-
+(no backlinks)

@@ -12,5 +12,3 @@ IEEE 1800-2023 Section A.5.3
 ===== Backlinks =====
 [[combinational_entry]]
 [[seq_input_list]]
-[[edge_input_list]]
-

@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-28T00:00:00+00:00
+
+====== type identifier or class type ======
+Created Saturday 28 December 2025
+
+IEEE 1800-2023 Section A.2.2.1
+
+type_identifier
+| class_type
+
+===== Backlinks =====
+(no backlinks)

@@ -10,3 +10,5 @@ Created Friday 27 December 2025
 
 ===== Backlinks =====
 [[8_Expressions:8.4_Primaries:constant_primary|constant_primary]]
+[[7_Specify_section:7.3_Specify_block_terminals:specify_input_terminal_descriptor|specify_input_terminal_descriptor]]
+[[7_Specify_section:7.3_Specify_block_terminals:specify_output_terminal_descriptor|specify_output_terminal_descriptor]]

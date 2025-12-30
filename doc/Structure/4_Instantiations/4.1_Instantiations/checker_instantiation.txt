@@ -8,5 +8,6 @@ Created Tuesday 16 December 2025
 ps_checker_identifier name_of_instance ( [ [[list_of_checker_port_connections]] ] )
 
 ===== Backlinks =====
+[[1_Source_text:1.4_Module_items:bind_instantiation|bind_instantiation]]
 [[2_Declarations:2.10_Assertion_declarations:concurrent_assertion_item|concurrent_assertion_item]]
 [[6_Behavioral_statements:6.10_Assertion_statements:procedural_assertion_statement|procedural_assertion_statement]]

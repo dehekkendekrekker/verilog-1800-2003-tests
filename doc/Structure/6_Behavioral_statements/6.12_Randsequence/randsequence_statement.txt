@@ -12,5 +12,4 @@ IEEE 1800-2023 Section A.6.12
 **endsequence**
 
 ===== Backlinks =====
-[[6_Behavioral_statements:6.4_Statements:statement_item|statement_item]]
-
+(no backlinks)

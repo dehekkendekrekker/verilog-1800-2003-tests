@@ -9,5 +9,6 @@ Created Friday 27 December 2025
 | **type_option** . member_identifier = [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]]
 
 ===== Backlinks =====
-[[coverage_spec_or_option]]
 [[bins_or_options]]
+[[bins_selection_or_option]]
+[[coverage_spec_or_option]]

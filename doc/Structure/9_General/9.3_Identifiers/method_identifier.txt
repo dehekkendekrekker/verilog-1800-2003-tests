@@ -10,4 +10,5 @@ IEEE 1800-2023 Section A.9.3
 [[identifier]]
 
 ===== Backlinks =====
-
+[[8_Expressions:8.2_Subroutine_calls:array_method_name|array_method_name]]
+[[hierarchical_btf_identifier]]

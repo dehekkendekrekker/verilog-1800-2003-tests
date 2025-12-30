@@ -11,4 +11,5 @@ constant_expression
 
 ===== Backlinks =====
 [[consecutive_repetition]]
+[[goto_repetition]]
 [[nonconsecutive_repetition]]

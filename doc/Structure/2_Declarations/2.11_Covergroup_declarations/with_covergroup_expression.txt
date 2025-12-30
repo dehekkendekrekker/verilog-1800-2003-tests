@@ -10,6 +10,4 @@ IEEE 1800-2023 Section A.2.11
 [[covergroup_expression]]
 
 ===== Backlinks =====
-[[bins_or_options]]
 [[select_expression]]
-

@@ -12,5 +12,6 @@ Created Friday 27 December 2025
 **endfunction** [ : **new** ]
 
 ===== Backlinks =====
+[[1_Source_text:1.11_Package_items:anonymous_program_item|anonymous_program_item]]
 [[class_method]]
 [[1_Source_text:1.11_Package_items:package_or_generate_item_declaration|package_or_generate_item_declaration]]

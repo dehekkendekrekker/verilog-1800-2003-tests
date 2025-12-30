@@ -10,5 +10,4 @@ IEEE 1800-2023 Section A.8.2
 [[array_manipulation_call]] | [[randomize_call]]
 
 ===== Backlinks =====
-[[method_call_body]]
-
+(no backlinks)

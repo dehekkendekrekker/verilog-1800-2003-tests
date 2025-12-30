@@ -226,7 +226,8 @@ Property with explicit clock.
 
 
 ===== Backlinks =====
+[[assert_property_statement]]
 [[property_actual_arg]]
-[[property_spec]]
 [[property_case_item]]
-
+[[property_expr]]
+[[property_spec]]

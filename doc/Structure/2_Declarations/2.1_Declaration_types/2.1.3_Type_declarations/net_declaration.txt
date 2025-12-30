@@ -13,8 +13,3 @@ Created Friday 27 December 2025
 
 ===== Backlinks =====
 [[1_Source_text:1.11_Package_items:package_or_generate_item_declaration|package_or_generate_item_declaration]]
-[[2_Declarations:2.2_Declaration_data_types:net_type|net_type]]
-[[2_Declarations:2.2_Declaration_data_types:drive_strength|drive_strength]]
-[[2_Declarations:2.2_Declaration_data_types:charge_strength|charge_strength]]
-[[2_Declarations:2.2_Declaration_data_types:delay3|delay3]]
-[[2_Declarations:2.3_Declaration_lists:list_of_net_decl_assignments|list_of_net_decl_assignments]]

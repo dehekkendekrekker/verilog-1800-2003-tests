@@ -9,3 +9,5 @@ Created Friday 27 December 2025
 
 ===== Backlinks =====
 [[constant_primary]]
+[[8_Expressions:8.5_Expression_left_side_values:net_lvalue|net_lvalue]]
+[[1_Source_text:1.3_Module_parameters_and_ports:port_reference|port_reference]]

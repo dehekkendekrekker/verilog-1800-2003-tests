@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-27T00:00:00+00:00
+
+====== delay value ======
+Created Friday 27 December 2025
+
+IEEE 1800-2023 Section A.2.2.3
+
+[[8_Expressions:8.7_Numbers:unsigned_number|unsigned_number]]
+| [[8_Expressions:8.7_Numbers:real_number|real_number]]
+| [[9_General:9.3_Identifiers:ps_identifier|ps_identifier]]
+| [[8_Expressions:8.7_Numbers:time_literal|time_literal]]
+| **1step**
+
+===== Backlinks =====
+[[delay2]]
+[[delay3]]
+[[2_Declarations:2.1_Declaration_types:2.1.3_Type_declarations:net_declaration|net_declaration]]

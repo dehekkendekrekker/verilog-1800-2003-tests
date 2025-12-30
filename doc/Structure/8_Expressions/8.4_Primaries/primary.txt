@@ -23,4 +23,5 @@ Created Wednesday 17 December 2025
 
 ===== Backlinks =====
 [[8_Expressions:8.3_Expressions:expression|expression]]
+[[8_Expressions:8.2_Subroutine_calls:method_call_root|method_call_root]]
 [[8_Expressions:8.3_Expressions:tagged_union_expression|tagged_union_expression]]

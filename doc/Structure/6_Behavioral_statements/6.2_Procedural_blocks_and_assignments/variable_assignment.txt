@@ -8,5 +8,5 @@ Created Friday 27 December 2025
 variable_lvalue = [[8_Expressions:8.3_Expressions:expression|expression]]
 
 ===== Backlinks =====
+[[6_Behavioral_statements:6.1_Continuous_assignment:list_of_variable_assignments|list_of_variable_assignments]]
 [[procedural_continuous_assignment]]
-

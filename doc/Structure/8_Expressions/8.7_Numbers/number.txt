@@ -9,4 +9,5 @@ Created Friday 27 December 2025
 | [[real_number]]
 
 ===== Backlinks =====
+[[8_Expressions:8.4_Primaries:module_path_primary|module_path_primary]]
 [[8_Expressions:8.4_Primaries:primary_literal|primary_literal]]

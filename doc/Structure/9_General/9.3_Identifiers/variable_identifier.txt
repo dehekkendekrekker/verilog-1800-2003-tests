@@ -10,6 +10,11 @@ IEEE 1800-2023 Section A.9.3
 [[identifier]]
 
 ===== Backlinks =====
-[[5_UDP_declaration_and_instantiation:5.2_UDP_ports:udp_reg_declaration]]
-[[7_Specify_section:7.5_System_timing_checks:7.5.2_System_timing_check_command_arguments:notifier]]
-
+[[2_Declarations:2.11_Covergroup_declarations:bins_expression|bins_expression]]
+[[class_variable_identifier]]
+[[covergroup_variable_identifier]]
+[[2_Declarations:2.11_Covergroup_declarations:cross_item|cross_item]]
+[[dynamic_array_variable_identifier]]
+[[7_Specify_section:7.5_System_timing_checks:7.5.2_System_timing_check_command_arguments:notifier|notifier]]
+[[5_UDP_declaration_and_instantiation:5.2_UDP_ports:udp_reg_declaration|udp_reg_declaration]]
+[[8_Expressions:8.2_Subroutine_calls:variable_identifier_list|variable_identifier_list]]

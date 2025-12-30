@@ -10,5 +10,4 @@ IEEE 1800-2023 Section A.2.11
 ( [[trans_set]] ) { , ( [[trans_set]] ) }
 
 ===== Backlinks =====
-[[bins_or_options]]
-
+(no backlinks)

@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-22T00:00:00+00:00
+
+====== integer atom type ======
+Created Sunday 22 December 2025
+
+**byte**
+| **shortint**
+| **int**
+| **longint**
+| **integer**
+| **time**
+
+===== Backlinks =====
+[[6_Behavioral_statements:6.7_Case_statements:assignment_pattern_expression_type|assignment_pattern_expression_type]]
+[[data_type]]
+[[enum_base_type]]
+[[integer_type]]

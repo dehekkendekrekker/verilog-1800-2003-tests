@@ -10,6 +10,7 @@ Created Friday 27 December 2025
 | @ ( [[event_expression]] )
 
 ===== Backlinks =====
+[[2_Declarations:2.11_Covergroup_declarations:coverage_event|coverage_event]]
 [[event_control]]
-[[6_Behavioral_statements:6.11_Clocking_block:clocking_declaration|clocking_declaration]]
 [[2_Declarations:2.10_Assertion_declarations:property_spec|property_spec]]
+[[8_Expressions:8.2_Subroutine_calls:system_tf_call|system_tf_call]]

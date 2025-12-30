@@ -175,8 +175,8 @@ Different clocks in sequence.
 [[sequence_match_item]]
 
 ===== Backlinks =====
-[[property_expr]]
 [[cover_sequence_statement]]
-[[sequence_declaration]]
+[[property_expr]]
 [[sequence_actual_arg]]
-
+[[sequence_declaration]]
+[[sequence_expr]]

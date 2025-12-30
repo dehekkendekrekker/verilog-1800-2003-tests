@@ -13,11 +13,12 @@ IEEE 1800-2023 Section A.1.2
 | **timeprecision** [[8_Expressions:8.7_Numbers:time_literal|time_literal]] **;** **timeunit** [[8_Expressions:8.7_Numbers:time_literal|time_literal]] **;**
 
 ===== Backlinks =====
-[[module_declaration]]
 [[interface_declaration]]
-[[program_declaration]]
-[[package_declaration]]
-[[1_Source_text:1.4_Module_items:non_port_module_item|non_port_module_item]]
+[[module_declaration]]
 [[1_Source_text:1.6_Interface_items:non_port_interface_item|non_port_interface_item]]
+[[1_Source_text:1.4_Module_items:non_port_module_item|non_port_module_item]]
 [[1_Source_text:1.7_Program_items:non_port_program_item|non_port_program_item]]
+[[package_declaration]]
 [[1_Source_text:1.11_Package_items:package_item|package_item]]
+[[program_declaration]]
+[[source_text]]

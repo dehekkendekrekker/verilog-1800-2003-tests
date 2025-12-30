@@ -10,5 +10,4 @@ IEEE 1800-2023 Section A.8.1
 [[2_Declarations:2.2_Declaration_data_types:simple_type|simple_type]] | [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]]
 
 ===== Backlinks =====
-[[streaming_concatenation]]
-
+(no backlinks)

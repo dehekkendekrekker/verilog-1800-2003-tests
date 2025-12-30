@@ -10,5 +10,4 @@ IEEE 1800-2023 Section A.2.11
 [[cross_item]] , [[cross_item]] { , [[cross_item]] }
 
 ===== Backlinks =====
-[[cover_cross]]
-
+(no backlinks)

@@ -10,6 +10,5 @@ IEEE 1800-2023 Section A.4.1.1
 [[name_of_instance]] **(** [ [[list_of_port_connections]] ] **)**
 
 ===== Backlinks =====
-[[module_instantiation]]
 [[interface_instantiation]]
 [[program_instantiation]]

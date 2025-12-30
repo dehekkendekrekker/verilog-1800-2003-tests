@@ -10,5 +10,4 @@ IEEE 1800-2023 Section A.6.11
 [[clocking_decl_assign]] { , [[clocking_decl_assign]] }
 
 ===== Backlinks =====
-[[clocking_item]]
-
+(no backlinks)

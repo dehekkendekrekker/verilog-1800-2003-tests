@@ -9,5 +9,4 @@ variable_lvalue [[assignment_operator]] [[8_Expressions:8.3_Expressions:expressi
 
 ===== Backlinks =====
 [[blocking_assignment]]
-[[6_Behavioral_statements:6.8_Looping_statements:for_step_assignment|for_step_assignment]]
-
+[[8_Expressions:8.3_Expressions:expression|expression]]

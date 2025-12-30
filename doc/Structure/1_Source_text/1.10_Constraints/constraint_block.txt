@@ -10,3 +10,4 @@ Created Friday 27 December 2025
 ===== Backlinks =====
 [[constraint_declaration]]
 [[extern_constraint_declaration]]
+[[8_Expressions:8.2_Subroutine_calls:randomize_call|randomize_call]]

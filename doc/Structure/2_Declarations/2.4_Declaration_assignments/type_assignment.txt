@@ -8,5 +8,4 @@ Created Friday 27 December 2025
 type_identifier [ = [[2_Declarations:2.2_Declaration_data_types:data_type_or_incomplete_class_scoped_type|data_type_or_incomplete_class_scoped_type]] ]
 
 ===== Backlinks =====
-[[2_Declarations:2.1_Declaration_types:2.1.1_Module_parameter_declarations:type_parameter_declaration|type_parameter_declaration]]
 [[2_Declarations:2.3_Declaration_lists:list_of_type_assignments|list_of_type_assignments]]

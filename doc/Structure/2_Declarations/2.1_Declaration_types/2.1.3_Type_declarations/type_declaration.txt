@@ -12,4 +12,3 @@ Created Friday 27 December 2025
 ===== Backlinks =====
 [[data_declaration]]
 [[1_Source_text:1.9_Class_items:interface_class_item|interface_class_item]]
-[[2_Declarations:2.2_Declaration_data_types:data_type_or_incomplete_class_scoped_type|data_type_or_incomplete_class_scoped_type]]

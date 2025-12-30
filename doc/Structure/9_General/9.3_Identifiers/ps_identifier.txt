@@ -8,4 +8,5 @@ Created Friday 27 December 2025
 [ [[package_scope]] ] [[identifier]]
 
 ===== Backlinks =====
-(General package-scoped identifier)
+[[2_Declarations:2.2_Declaration_data_types:delay_value|delay_value]]
+[[6_Behavioral_statements:6.12_Randsequence:rs_weight_specification|rs_weight_specification]]

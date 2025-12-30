@@ -10,4 +10,5 @@ IEEE 1800-2023 Section A.9.3
 [ [[package_scope]] ] [[class_identifier]]
 
 ===== Backlinks =====
-
+[[2_Declarations:2.2_Declaration_data_types:class_type|class_type]]
+[[2_Declarations:2.2_Declaration_data_types:interface_class_type|interface_class_type]]

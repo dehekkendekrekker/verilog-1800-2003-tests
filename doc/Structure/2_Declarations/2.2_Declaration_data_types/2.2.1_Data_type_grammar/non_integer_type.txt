@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-22T00:00:00+00:00
+
+====== non integer type ======
+Created Sunday 22 December 2025
+
+**shortreal**
+| **real**
+| **realtime**
+
+===== Backlinks =====
+[[data_type]]
+[[simple_type]]

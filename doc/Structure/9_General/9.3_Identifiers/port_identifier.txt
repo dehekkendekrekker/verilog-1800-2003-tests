@@ -10,7 +10,7 @@ IEEE 1800-2023 Section A.9.3
 [[identifier]]
 
 ===== Backlinks =====
-[[5_UDP_declaration_and_instantiation:5.2_UDP_ports:udp_output_declaration]]
-[[7_Specify_section:7.3_Specify_block_terminals:input_identifier]]
-[[7_Specify_section:7.3_Specify_block_terminals:output_identifier]]
-
+[[7_Specify_section:7.3_Specify_block_terminals:input_identifier|input_identifier]]
+[[2_Declarations:2.3_Declaration_lists:list_of_udp_port_identifiers|list_of_udp_port_identifiers]]
+[[7_Specify_section:7.3_Specify_block_terminals:output_identifier|output_identifier]]
+[[5_UDP_declaration_and_instantiation:5.2_UDP_ports:udp_output_declaration|udp_output_declaration]]

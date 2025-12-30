@@ -10,6 +10,6 @@ IEEE 1800-2023 Section A.9.3
 [[identifier]]
 
 ===== Backlinks =====
-[[7_Specify_section:7.3_Specify_block_terminals:input_identifier]]
-[[7_Specify_section:7.3_Specify_block_terminals:output_identifier]]
-
+[[2_Declarations:2.2_Declaration_data_types:data_type|data_type]]
+[[7_Specify_section:7.3_Specify_block_terminals:input_identifier|input_identifier]]
+[[7_Specify_section:7.3_Specify_block_terminals:output_identifier|output_identifier]]

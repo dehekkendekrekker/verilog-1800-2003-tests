@@ -10,5 +10,6 @@ IEEE 1800-2023 Section A.1.4
 [[severity_system_task]]
 
 ===== Backlinks =====
-[[module_common_item]]
 [[1_Source_text:1.8_Checker_items:checker_generate_item|checker_generate_item]]
+[[module_common_item]]
+[[1_Source_text:1.7_Program_items:program_generate_item|program_generate_item]]

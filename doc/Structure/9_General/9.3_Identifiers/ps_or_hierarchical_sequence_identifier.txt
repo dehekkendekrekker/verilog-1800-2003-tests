@@ -9,4 +9,4 @@ Created Wednesday 17 December 2025
 | hierarchical_sequence_identifier
 
 ===== Backlinks =====
-[[2_Declarations:2.10_Assertion_declarations:sequence_instance|sequence_instance]]
+(no backlinks)

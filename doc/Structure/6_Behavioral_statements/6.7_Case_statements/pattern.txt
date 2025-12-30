@@ -16,4 +16,4 @@ Created Friday 27 December 2025
 ===== Backlinks =====
 [[case_pattern_item]]
 [[6_Behavioral_statements:6.6_Conditional_statements:cond_pattern|cond_pattern]]
-
+[[pattern]]

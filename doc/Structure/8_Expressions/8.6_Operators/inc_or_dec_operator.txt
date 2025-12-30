@@ -8,4 +8,5 @@ Created Friday 27 December 2025
 ++ | --
 
 ===== Backlinks =====
+[[4_Instantiations:4.2_Generated_instantiation:genvar_iteration|genvar_iteration]]
 [[8_Expressions:8.3_Expressions:inc_or_dec_expression|inc_or_dec_expression]]

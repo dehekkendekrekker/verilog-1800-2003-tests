@@ -10,7 +10,8 @@ IEEE 1800-2023 Section A.4.1.1
 **#** **(** [ [[list_of_parameter_value_assignments]] ] **)**
 
 ===== Backlinks =====
-[[module_instantiation]]
+[[2_Declarations:2.2_Declaration_data_types:class_type|class_type]]
+[[2_Declarations:2.2_Declaration_data_types:data_type|data_type]]
+[[2_Declarations:2.2_Declaration_data_types:interface_class_type|interface_class_type]]
 [[interface_instantiation]]
 [[program_instantiation]]
-[[checker_instantiation]]

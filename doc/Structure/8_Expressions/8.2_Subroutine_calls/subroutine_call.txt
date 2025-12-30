@@ -12,4 +12,3 @@ Created Friday 27 December 2025
 
 ===== Backlinks =====
 [[function_subroutine_call]]
-[[9_General:9.3_Identifiers:ps_or_hierarchical_tf_identifier|ps_or_hierarchical_tf_identifier]]
