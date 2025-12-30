@@ -8,8 +8,8 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.7.4
 
 path_delay_value ::=
-	[[list_of_path_delay_expressions]]
-| ( [[list_of_path_delay_expressions]] )
+	[[7_Specify_section:7.4_Specify_path_delays:list_of_path_delay_expressions|list_of_path_delay_expressions]]
+| ( [[7_Specify_section:7.4_Specify_path_delays:list_of_path_delay_expressions|list_of_path_delay_expressions]] )
 
 ===== Backlinks =====
 [[7_Specify_section:7.2_Specify_path_declarations:edge_sensitive_path_declaration|edge_sensitive_path_declaration]]

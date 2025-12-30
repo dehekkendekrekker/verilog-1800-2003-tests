@@ -6,7 +6,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 extern_constraint_declaration ::=
-	[ **static** ] **constraint** [ [[2_Declarations:2.7_Task_declarations:dynamic_override_specifiers|dynamic_override_specifiers]] ] [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:class_scope|class_scope]] [[9_General:9.3_Identifiers:constraint_identifier|constraint_identifier]] [[constraint_block]]
+	[ **static** ] **constraint** [ [[2_Declarations:2.7_Task_declarations:dynamic_override_specifiers|dynamic_override_specifiers]] ] [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:class_scope|class_scope]] [[9_General:9.3_Identifiers:constraint_identifier|constraint_identifier]] [[1_Source_text:1.10_Constraints:constraint_block|constraint_block]]
 
 ===== Backlinks =====
 [[1_Source_text:1.11_Package_items:package_or_generate_item_declaration|package_or_generate_item_declaration]]

@@ -9,4 +9,4 @@ stream_operator ::=
 	>> | <<
 
 ===== Backlinks =====
-[[streaming_concatenation]]
+[[8_Expressions:8.1_Concatenations:streaming_concatenation|streaming_concatenation]]

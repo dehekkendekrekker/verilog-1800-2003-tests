@@ -6,11 +6,11 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 covergroup_declaration ::=
-	**covergroup** [[9_General:9.3_Identifiers:covergroup_identifier|covergroup_identifier]] [ ( [ [[2_Declarations:2.7_Task_declarations:tf_port_list|tf_port_list]] ] ) ] [ [[coverage_event]] ] ;
-{ [[coverage_spec_or_option]] }
+	**covergroup** [[9_General:9.3_Identifiers:covergroup_identifier|covergroup_identifier]] [ ( [ [[2_Declarations:2.7_Task_declarations:tf_port_list|tf_port_list]] ] ) ] [ [[2_Declarations:2.11_Covergroup_declarations:coverage_event|coverage_event]] ] ;
+{ [[2_Declarations:2.11_Covergroup_declarations:coverage_spec_or_option|coverage_spec_or_option]] }
 **endgroup** [ : [[9_General:9.3_Identifiers:covergroup_identifier|covergroup_identifier]] ]
 | **covergroup** **extends** [[9_General:9.3_Identifiers:covergroup_identifier|covergroup_identifier]] ;
-{ [[coverage_spec_or_option]] }
+{ [[2_Declarations:2.11_Covergroup_declarations:coverage_spec_or_option|coverage_spec_or_option]] }
 **endgroup** [ : [[9_General:9.3_Identifiers:covergroup_identifier|covergroup_identifier]] ]
 
 ===== Backlinks =====

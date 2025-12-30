@@ -8,9 +8,9 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.6.11
 
 default_skew ::=
-	**input** [[clocking_skew]]
-| **output** [[clocking_skew]]
-| **input** [[clocking_skew]] **output** [[clocking_skew]]
+	**input** [[6_Behavioral_statements:6.11_Clocking_block:clocking_skew|clocking_skew]]
+| **output** [[6_Behavioral_statements:6.11_Clocking_block:clocking_skew|clocking_skew]]
+| **input** [[6_Behavioral_statements:6.11_Clocking_block:clocking_skew|clocking_skew]] **output** [[6_Behavioral_statements:6.11_Clocking_block:clocking_skew|clocking_skew]]
 
 ===== Backlinks =====
-[[clocking_item]]
+[[6_Behavioral_statements:6.11_Clocking_block:clocking_item|clocking_item]]

@@ -11,4 +11,4 @@ simple_immediate_assert_statement ::=
 
 ===== Backlinks =====
 [[2_Declarations:2.10_Assertion_declarations:assert_property_statement|assert_property_statement]]
-[[simple_immediate_assertion_statement]]
+[[6_Behavioral_statements:6.10_Assertion_statements:simple_immediate_assertion_statement|simple_immediate_assertion_statement]]

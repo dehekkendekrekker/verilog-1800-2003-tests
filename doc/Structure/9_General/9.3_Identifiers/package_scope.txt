@@ -6,7 +6,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 package_scope ::=
-	[[package_identifier]] ::
+	[[9_General:9.3_Identifiers:package_identifier|package_identifier]] ::
 | **$unit** ::
 
 ===== Backlinks =====
@@ -17,14 +17,14 @@ package_scope ::=
 [[2_Declarations:2.1_Declaration_types:2.1.3_Type_declarations:nettype_declaration|nettype_declaration]]
 [[8_Expressions:8.5_Expression_left_side_values:nonrange_variable_lvalue|nonrange_variable_lvalue]]
 [[8_Expressions:8.4_Primaries:primary|primary]]
-[[ps_checker_identifier]]
-[[ps_class_identifier]]
-[[ps_covergroup_identifier]]
-[[ps_or_hierarchical_array_identifier]]
-[[ps_or_hierarchical_net_identifier]]
-[[ps_or_hierarchical_property_identifier]]
-[[ps_or_hierarchical_sequence_identifier]]
-[[ps_or_hierarchical_tf_identifier]]
-[[ps_parameter_identifier]]
-[[ps_type_identifier]]
+[[9_General:9.3_Identifiers:ps_checker_identifier|ps_checker_identifier]]
+[[9_General:9.3_Identifiers:ps_class_identifier|ps_class_identifier]]
+[[9_General:9.3_Identifiers:ps_covergroup_identifier|ps_covergroup_identifier]]
+[[9_General:9.3_Identifiers:ps_or_hierarchical_array_identifier|ps_or_hierarchical_array_identifier]]
+[[9_General:9.3_Identifiers:ps_or_hierarchical_net_identifier|ps_or_hierarchical_net_identifier]]
+[[9_General:9.3_Identifiers:ps_or_hierarchical_property_identifier|ps_or_hierarchical_property_identifier]]
+[[9_General:9.3_Identifiers:ps_or_hierarchical_sequence_identifier|ps_or_hierarchical_sequence_identifier]]
+[[9_General:9.3_Identifiers:ps_or_hierarchical_tf_identifier|ps_or_hierarchical_tf_identifier]]
+[[9_General:9.3_Identifiers:ps_parameter_identifier|ps_parameter_identifier]]
+[[9_General:9.3_Identifiers:ps_type_identifier|ps_type_identifier]]
 [[8_Expressions:8.5_Expression_left_side_values:variable_lvalue|variable_lvalue]]

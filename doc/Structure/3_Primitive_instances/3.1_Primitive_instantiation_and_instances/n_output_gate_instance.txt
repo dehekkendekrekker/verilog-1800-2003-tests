@@ -11,4 +11,4 @@ n_output_gate_instance ::=
 	[ [[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:name_of_instance|name_of_instance]] ] ( [[3_Primitive_instances:3.3_Primitive_terminals:output_terminal|output_terminal]] { , [[3_Primitive_instances:3.3_Primitive_terminals:output_terminal|output_terminal]] } , [[3_Primitive_instances:3.3_Primitive_terminals:input_terminal|input_terminal]] )
 
 ===== Backlinks =====
-[[gate_instantiation]]
+[[3_Primitive_instances:3.1_Primitive_instantiation_and_instances:gate_instantiation|gate_instantiation]]

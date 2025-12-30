@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.9.3
 
 port_identifier ::=
-	[[identifier]]
+	[[9_General:9.3_Identifiers:identifier|identifier]]
 
 ===== Backlinks =====
 [[1_Source_text:1.3_Module_parameters_and_ports:ansi_port_declaration|ansi_port_declaration]]

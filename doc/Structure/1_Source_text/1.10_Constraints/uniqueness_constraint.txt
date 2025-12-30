@@ -9,4 +9,4 @@ uniqueness_constraint ::=
 	**unique** { [[6_Behavioral_statements:6.7_Case_statements:range_list|range_list]] }
 
 ===== Backlinks =====
-[[constraint_expression]]
+[[1_Source_text:1.10_Constraints:constraint_expression|constraint_expression]]

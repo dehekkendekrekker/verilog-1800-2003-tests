@@ -9,4 +9,4 @@ checker_port_direction ::=
 	**input** | **output**
 
 ===== Backlinks =====
-[[checker_port_item]]
+[[1_Source_text:1.8_Checker_items:checker_port_item|checker_port_item]]

@@ -11,4 +11,4 @@ fullskew_timing_check ::=
 	**$fullskew** ( [[7_Specify_section:7.5_System_timing_checks:7.5.2_System_timing_check_command_arguments:reference_event|reference_event]] , [[7_Specify_section:7.5_System_timing_checks:7.5.2_System_timing_check_command_arguments:data_event|data_event]] , [[7_Specify_section:7.5_System_timing_checks:7.5.2_System_timing_check_command_arguments:timing_check_limit|timing_check_limit]] , [[7_Specify_section:7.5_System_timing_checks:7.5.2_System_timing_check_command_arguments:timing_check_limit|timing_check_limit]] [ , [ [[7_Specify_section:7.5_System_timing_checks:7.5.2_System_timing_check_command_arguments:notifier|notifier]] ] [ , [ [[7_Specify_section:7.5_System_timing_checks:7.5.2_System_timing_check_command_arguments:event_based_flag|event_based_flag]] ] [ , [ [[7_Specify_section:7.5_System_timing_checks:7.5.2_System_timing_check_command_arguments:remain_active_flag|remain_active_flag]] ] ] ] ] ) ;
 
 ===== Backlinks =====
-[[system_timing_check]]
+[[7_Specify_section:7.5_System_timing_checks:7.5.1_System_timing_check_commands:system_timing_check|system_timing_check]]

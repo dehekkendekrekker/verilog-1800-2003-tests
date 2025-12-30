@@ -11,4 +11,4 @@ array_method_name ::=
 	[[9_General:9.3_Identifiers:method_identifier|method_identifier]] | **unique** | **and** | **or** | **xor**
 
 ===== Backlinks =====
-[[array_manipulation_call]]
+[[8_Expressions:8.2_Subroutine_calls:array_manipulation_call|array_manipulation_call]]

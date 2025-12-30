@@ -13,5 +13,5 @@ cycle_delay ::=
 | **##** ( [[8_Expressions:8.3_Expressions:expression|expression]] )
 
 ===== Backlinks =====
-[[clocking_drive]]
+[[6_Behavioral_statements:6.11_Clocking_block:clocking_drive|clocking_drive]]
 [[6_Behavioral_statements:6.5_Timing_control_statements:procedural_timing_control|procedural_timing_control]]

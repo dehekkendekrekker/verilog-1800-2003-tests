@@ -6,9 +6,9 @@ Creation-Date: 2025-12-17T00:39:23+00:00
 Created Wednesday 17 December 2025
 
 sequence_list_of_arguments ::=
-	[ [[sequence_actual_arg]] ] { , [ [[sequence_actual_arg]] ] } { , . identifier ( [ [[sequence_actual_arg]] ] ) }
-| . identifier ( [ [[sequence_actual_arg]] ] ) { , . identifier ( [ [[sequence_actual_arg]] ] ) } 
+	[ [[2_Declarations:2.10_Assertion_declarations:sequence_actual_arg|sequence_actual_arg]] ] { , [ [[2_Declarations:2.10_Assertion_declarations:sequence_actual_arg|sequence_actual_arg]] ] } { , . identifier ( [ [[2_Declarations:2.10_Assertion_declarations:sequence_actual_arg|sequence_actual_arg]] ] ) }
+| . identifier ( [ [[2_Declarations:2.10_Assertion_declarations:sequence_actual_arg|sequence_actual_arg]] ] ) { , . identifier ( [ [[2_Declarations:2.10_Assertion_declarations:sequence_actual_arg|sequence_actual_arg]] ] ) } 
 
 
 ===== Backlinks =====
-[[sequence_instance]]
+[[2_Declarations:2.10_Assertion_declarations:sequence_instance|sequence_instance]]

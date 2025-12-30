@@ -11,5 +11,5 @@ bind_target_instance ::=
 	[[9_General:9.3_Identifiers:hierarchical_identifier|hierarchical_identifier]] [[8_Expressions:8.4_Primaries:constant_bit_select|constant_bit_select]]
 
 ===== Backlinks =====
-[[bind_directive]]
-[[bind_target_instance_list]]
+[[1_Source_text:1.4_Module_items:bind_directive|bind_directive]]
+[[1_Source_text:1.4_Module_items:bind_target_instance_list|bind_target_instance_list]]

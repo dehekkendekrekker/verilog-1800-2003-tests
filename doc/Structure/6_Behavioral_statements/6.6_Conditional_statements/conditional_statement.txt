@@ -6,8 +6,8 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 conditional_statement ::=
-	[ [[unique_priority]] ] **if** ( [[cond_predicate]] ) [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]]
-{ **else if** ( [[cond_predicate]] ) [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]] }
+	[ [[6_Behavioral_statements:6.6_Conditional_statements:unique_priority|unique_priority]] ] **if** ( [[6_Behavioral_statements:6.6_Conditional_statements:cond_predicate|cond_predicate]] ) [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]]
+{ **else if** ( [[6_Behavioral_statements:6.6_Conditional_statements:cond_predicate|cond_predicate]] ) [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]] }
 [ **else** [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]] ]
 
 ===== Backlinks =====

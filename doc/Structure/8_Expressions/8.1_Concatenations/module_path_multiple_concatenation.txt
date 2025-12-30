@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.8.1
 
 module_path_multiple_concatenation ::=
-	**{** [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] [[module_path_concatenation]] **}**
+	**{** [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] [[8_Expressions:8.1_Concatenations:module_path_concatenation|module_path_concatenation]] **}**
 
 ===== Backlinks =====
 [[8_Expressions:8.4_Primaries:module_path_primary|module_path_primary]]

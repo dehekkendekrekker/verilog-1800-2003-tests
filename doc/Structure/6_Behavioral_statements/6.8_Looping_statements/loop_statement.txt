@@ -9,9 +9,9 @@ loop_statement ::=
 	**forever** [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]]
 | **repeat** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]]
 | **while** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]]
-| **for** ( [ [[for_initialization]] ] ; [ [[8_Expressions:8.3_Expressions:expression|expression]] ] ; [ [[for_step]] ] ) [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]]
+| **for** ( [ [[6_Behavioral_statements:6.8_Looping_statements:for_initialization|for_initialization]] ] ; [ [[8_Expressions:8.3_Expressions:expression|expression]] ] ; [ [[6_Behavioral_statements:6.8_Looping_statements:for_step|for_step]] ] ) [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]]
 | **do** [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]] **while** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) ;
-| **foreach** ( [[9_General:9.3_Identifiers:ps_or_hierarchical_array_identifier|ps_or_hierarchical_array_identifier]] [ [[loop_variables]] ] ) [[6_Behavioral_statements:6.4_Statements:statement|statement]]
+| **foreach** ( [[9_General:9.3_Identifiers:ps_or_hierarchical_array_identifier|ps_or_hierarchical_array_identifier]] [ [[6_Behavioral_statements:6.8_Looping_statements:loop_variables|loop_variables]] ] ) [[6_Behavioral_statements:6.4_Statements:statement|statement]]
 
 ===== Backlinks =====
 [[6_Behavioral_statements:6.4_Statements:statement_item|statement_item]]

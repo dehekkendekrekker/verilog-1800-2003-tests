@@ -8,18 +8,18 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.7.5.1
 
 system_timing_check ::=
-	[[setup_timing_check|$setup_timing_check]]
-| [[hold_timing_check|$hold_timing_check]]
-| [[setuphold_timing_check|$setuphold_timing_check]]
-| [[recovery_timing_check|$recovery_timing_check]]
-| [[removal_timing_check|$removal_timing_check]]
-| [[recrem_timing_check|$recrem_timing_check]]
-| [[skew_timing_check|$skew_timing_check]]
-| [[timeskew_timing_check|$timeskew_timing_check]]
-| [[fullskew_timing_check|$fullskew_timing_check]]
-| [[period_timing_check|$period_timing_check]]
-| [[width_timing_check|$width_timing_check]]
-| [[nochange_timing_check|$nochange_timing_check]]
+	[[7_Specify_section:7.5_System_timing_checks:7.5.1_System_timing_check_commands:setup_timing_check|$setup_timing_check]]
+| [[7_Specify_section:7.5_System_timing_checks:7.5.1_System_timing_check_commands:hold_timing_check|$hold_timing_check]]
+| [[7_Specify_section:7.5_System_timing_checks:7.5.1_System_timing_check_commands:setuphold_timing_check|$setuphold_timing_check]]
+| [[7_Specify_section:7.5_System_timing_checks:7.5.1_System_timing_check_commands:recovery_timing_check|$recovery_timing_check]]
+| [[7_Specify_section:7.5_System_timing_checks:7.5.1_System_timing_check_commands:removal_timing_check|$removal_timing_check]]
+| [[7_Specify_section:7.5_System_timing_checks:7.5.1_System_timing_check_commands:recrem_timing_check|$recrem_timing_check]]
+| [[7_Specify_section:7.5_System_timing_checks:7.5.1_System_timing_check_commands:skew_timing_check|$skew_timing_check]]
+| [[7_Specify_section:7.5_System_timing_checks:7.5.1_System_timing_check_commands:timeskew_timing_check|$timeskew_timing_check]]
+| [[7_Specify_section:7.5_System_timing_checks:7.5.1_System_timing_check_commands:fullskew_timing_check|$fullskew_timing_check]]
+| [[7_Specify_section:7.5_System_timing_checks:7.5.1_System_timing_check_commands:period_timing_check|$period_timing_check]]
+| [[7_Specify_section:7.5_System_timing_checks:7.5.1_System_timing_check_commands:width_timing_check|$width_timing_check]]
+| [[7_Specify_section:7.5_System_timing_checks:7.5.1_System_timing_check_commands:nochange_timing_check|$nochange_timing_check]]
 
 ===== Backlinks =====
 [[7_Specify_section:7.1_Specify_block_declaration:specify_item|specify_item]]

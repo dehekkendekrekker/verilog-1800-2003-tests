@@ -8,12 +8,12 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.2.11
 
 covergroup_value_range ::=
-	[[covergroup_expression]]
-| **[** [[covergroup_expression]] **:** [[covergroup_expression]] **]**
-| **[** **$** **:** [[covergroup_expression]] **]**
-| **[** [[covergroup_expression]] **:** **$** **]**
-| **[** [[covergroup_expression]] **+/-** [[covergroup_expression]] **]**
-| **[** [[covergroup_expression]] **+%-** [[covergroup_expression]] **]**
+	[[2_Declarations:2.11_Covergroup_declarations:covergroup_expression|covergroup_expression]]
+| **[** [[2_Declarations:2.11_Covergroup_declarations:covergroup_expression|covergroup_expression]] **:** [[2_Declarations:2.11_Covergroup_declarations:covergroup_expression|covergroup_expression]] **]**
+| **[** **$** **:** [[2_Declarations:2.11_Covergroup_declarations:covergroup_expression|covergroup_expression]] **]**
+| **[** [[2_Declarations:2.11_Covergroup_declarations:covergroup_expression|covergroup_expression]] **:** **$** **]**
+| **[** [[2_Declarations:2.11_Covergroup_declarations:covergroup_expression|covergroup_expression]] **+/-** [[2_Declarations:2.11_Covergroup_declarations:covergroup_expression|covergroup_expression]] **]**
+| **[** [[2_Declarations:2.11_Covergroup_declarations:covergroup_expression|covergroup_expression]] **+%-** [[2_Declarations:2.11_Covergroup_declarations:covergroup_expression|covergroup_expression]] **]**
 
 ===== Backlinks =====
-[[covergroup_range_list]]
+[[2_Declarations:2.11_Covergroup_declarations:covergroup_range_list|covergroup_range_list]]

@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.7.2
 
 full_path_description ::=
-	( [[7_Specify_section:7.3_Specify_block_terminals:list_of_path_inputs|list_of_path_inputs]] [ [[polarity_operator]] ] *> [[7_Specify_section:7.3_Specify_block_terminals:list_of_path_outputs|list_of_path_outputs]] )
+	( [[7_Specify_section:7.3_Specify_block_terminals:list_of_path_inputs|list_of_path_inputs]] [ [[7_Specify_section:7.2_Specify_path_declarations:polarity_operator|polarity_operator]] ] *> [[7_Specify_section:7.3_Specify_block_terminals:list_of_path_outputs|list_of_path_outputs]] )
 
 ===== Backlinks =====
-[[simple_path_declaration]]
+[[7_Specify_section:7.2_Specify_path_declarations:simple_path_declaration|simple_path_declaration]]

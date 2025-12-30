@@ -8,7 +8,7 @@ Created Sunday 29 December 2025
 IEEE 1800-2023 Section A.8.7
 
 hex_value ::=
-	[[hex_digit]] { **_** | [[hex_digit]] }
+	[[8_Expressions:8.7_Numbers:hex_digit|hex_digit]] { **_** | [[8_Expressions:8.7_Numbers:hex_digit|hex_digit]] }
 
 ===== Backlinks =====
-[[hex_number]]
+[[8_Expressions:8.7_Numbers:hex_number|hex_number]]

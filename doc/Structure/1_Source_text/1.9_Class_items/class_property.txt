@@ -6,8 +6,8 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 class_property ::=
-	{ [[property_qualifier]] } [[2_Declarations:2.1_Declaration_types:2.1.3_Type_declarations:data_declaration|data_declaration]]
-| **const** { [[class_item_qualifier]] } [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type|data_type]] [[9_General:9.3_Identifiers:const_identifier|const_identifier]] [ = [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] ] ;
+	{ [[1_Source_text:1.9_Class_items:property_qualifier|property_qualifier]] } [[2_Declarations:2.1_Declaration_types:2.1.3_Type_declarations:data_declaration|data_declaration]]
+| **const** { [[1_Source_text:1.9_Class_items:class_item_qualifier|class_item_qualifier]] } [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type|data_type]] [[9_General:9.3_Identifiers:const_identifier|const_identifier]] [ = [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] ] ;
 
 ===== Backlinks =====
-[[class_item]]
+[[1_Source_text:1.9_Class_items:class_item|class_item]]

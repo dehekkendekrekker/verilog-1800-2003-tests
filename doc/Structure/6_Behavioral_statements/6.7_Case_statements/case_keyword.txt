@@ -9,4 +9,4 @@ case_keyword ::=
 	**case** | **casez** | **casex**
 
 ===== Backlinks =====
-[[case_statement]]
+[[6_Behavioral_statements:6.7_Case_statements:case_statement|case_statement]]

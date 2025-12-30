@@ -9,4 +9,4 @@ range_expression ::=
 	[[8_Expressions:8.3_Expressions:expression|expression]] | [[8_Expressions:8.3_Expressions:part_select_range|part_select_range]]
 
 ===== Backlinks =====
-[[primary]]
+[[8_Expressions:8.4_Primaries:primary|primary]]

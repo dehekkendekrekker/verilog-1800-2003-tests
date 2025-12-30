@@ -8,11 +8,11 @@ Created Friday 27 December 2025
 IEEE 1800-2023 Section A.1.5
 
 config_rule_statement ::=
-	[[default_clause]] [[liblist_clause]] **;**
-| [[inst_clause]] [[liblist_clause]] **;**
-| [[inst_clause]] [[use_clause]] **;**
-| [[cell_clause]] [[liblist_clause]] **;**
-| [[cell_clause]] [[use_clause]] **;**
+	[[1_Source_text:1.5_Configuration_source_text:default_clause|default_clause]] [[1_Source_text:1.5_Configuration_source_text:liblist_clause|liblist_clause]] **;**
+| [[1_Source_text:1.5_Configuration_source_text:inst_clause|inst_clause]] [[1_Source_text:1.5_Configuration_source_text:liblist_clause|liblist_clause]] **;**
+| [[1_Source_text:1.5_Configuration_source_text:inst_clause|inst_clause]] [[1_Source_text:1.5_Configuration_source_text:use_clause|use_clause]] **;**
+| [[1_Source_text:1.5_Configuration_source_text:cell_clause|cell_clause]] [[1_Source_text:1.5_Configuration_source_text:liblist_clause|liblist_clause]] **;**
+| [[1_Source_text:1.5_Configuration_source_text:cell_clause|cell_clause]] [[1_Source_text:1.5_Configuration_source_text:use_clause|use_clause]] **;**
 
 ===== Backlinks =====
-[[config_declaration]]
+[[1_Source_text:1.5_Configuration_source_text:config_declaration|config_declaration]]

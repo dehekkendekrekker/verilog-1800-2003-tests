@@ -6,7 +6,7 @@ Creation-Date: 2025-12-16T21:23:56+00:00
 Created Tuesday 16 December 2025
 
 deferred_immediate_assertion_item ::=
-	 [ [[9_General:9.3_Identifiers:block_identifier|block_identifier]] : ] [[deferred_immediate_assertion_statement]]
+	 [ [[9_General:9.3_Identifiers:block_identifier|block_identifier]] : ] [[6_Behavioral_statements:6.10_Assertion_statements:deferred_immediate_assertion_statement|deferred_immediate_assertion_statement]]
 
 ===== Backlinks =====
-[[assertion_item]]
+[[6_Behavioral_statements:6.10_Assertion_statements:assertion_item|assertion_item]]

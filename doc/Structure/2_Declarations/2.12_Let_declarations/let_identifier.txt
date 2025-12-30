@@ -11,5 +11,5 @@ let_identifier ::=
 	identifier
 
 ===== Backlinks =====
-[[let_declaration]]
-[[let_expression]]
+[[2_Declarations:2.12_Let_declarations:let_declaration|let_declaration]]
+[[2_Declarations:2.12_Let_declarations:let_expression|let_expression]]

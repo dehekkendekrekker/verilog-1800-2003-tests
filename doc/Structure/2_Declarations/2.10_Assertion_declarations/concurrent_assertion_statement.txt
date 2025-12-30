@@ -8,29 +8,29 @@ Created Tuesday 16 December 2025
 IEEE 1800-2023 Section A.2.10
 
 concurrent_assertion_statement ::=
-	[[assert_property_statement]]
-	| [[assume_property_statement]]
-	| [[cover_property_statement]]
-	| [[cover_sequence_statement]]
-	| [[restrict_property_statement]]
+	[[2_Declarations:2.10_Assertion_declarations:assert_property_statement|assert_property_statement]]
+	| [[2_Declarations:2.10_Assertion_declarations:assume_property_statement|assume_property_statement]]
+	| [[2_Declarations:2.10_Assertion_declarations:cover_property_statement|cover_property_statement]]
+	| [[2_Declarations:2.10_Assertion_declarations:cover_sequence_statement|cover_sequence_statement]]
+	| [[2_Declarations:2.10_Assertion_declarations:restrict_property_statement|restrict_property_statement]]
 
 ===== SVA-relevant paths =====
 
-==== [[assert_property_statement]] ====
-[[assert_property_statement]]
+==== [[2_Declarations:2.10_Assertion_declarations:assert_property_statement|assert_property_statement]] ====
+[[2_Declarations:2.10_Assertion_declarations:assert_property_statement|assert_property_statement]]
 
-==== [[assume_property_statement]] ====
-[[assume_property_statement]]
+==== [[2_Declarations:2.10_Assertion_declarations:assume_property_statement|assume_property_statement]] ====
+[[2_Declarations:2.10_Assertion_declarations:assume_property_statement|assume_property_statement]]
 
-==== [[cover_property_statement]] ====
-[[cover_property_statement]]
+==== [[2_Declarations:2.10_Assertion_declarations:cover_property_statement|cover_property_statement]] ====
+[[2_Declarations:2.10_Assertion_declarations:cover_property_statement|cover_property_statement]]
 
-==== [[cover_sequence_statement]] ====
-[[cover_sequence_statement]]
+==== [[2_Declarations:2.10_Assertion_declarations:cover_sequence_statement|cover_sequence_statement]] ====
+[[2_Declarations:2.10_Assertion_declarations:cover_sequence_statement|cover_sequence_statement]]
 
-==== [[restrict_property_statement]] ====
-[[restrict_property_statement]]
+==== [[2_Declarations:2.10_Assertion_declarations:restrict_property_statement|restrict_property_statement]] ====
+[[2_Declarations:2.10_Assertion_declarations:restrict_property_statement|restrict_property_statement]]
 
 ===== Backlinks =====
-[[concurrent_assertion_item]]
+[[2_Declarations:2.10_Assertion_declarations:concurrent_assertion_item|concurrent_assertion_item]]
 [[6_Behavioral_statements:6.10_Assertion_statements:procedural_assertion_statement|procedural_assertion_statement]]

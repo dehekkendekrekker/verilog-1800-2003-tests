@@ -27,4 +27,4 @@ statement_item ::=
 | [[2_Declarations:2.10_Assertion_declarations:expect_property_statement|expect_property_statement]]
 
 ===== Backlinks =====
-[[statement]]
+[[6_Behavioral_statements:6.4_Statements:statement|statement]]

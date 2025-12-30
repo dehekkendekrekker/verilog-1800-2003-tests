@@ -11,4 +11,4 @@ liblist_clause ::=
 	**liblist** { [[9_General:9.3_Identifiers:library_identifier|library_identifier]] }
 
 ===== Backlinks =====
-[[config_rule_statement]]
+[[1_Source_text:1.5_Configuration_source_text:config_rule_statement|config_rule_statement]]

@@ -6,10 +6,10 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 ansi_port_declaration ::=
-	[ [[net_port_header]] | [[interface_port_header]] ] [[9_General:9.3_Identifiers:port_identifier|port_identifier]] { [[2_Declarations:2.5_Declaration_ranges:unpacked_dimension|unpacked_dimension]] }
+	[ [[1_Source_text:1.3_Module_parameters_and_ports:net_port_header|net_port_header]] | [[1_Source_text:1.3_Module_parameters_and_ports:interface_port_header|interface_port_header]] ] [[9_General:9.3_Identifiers:port_identifier|port_identifier]] { [[2_Declarations:2.5_Declaration_ranges:unpacked_dimension|unpacked_dimension]] }
 [ = [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] ]
-| [ [[variable_port_header]] ] [[9_General:9.3_Identifiers:port_identifier|port_identifier]] { [[2_Declarations:2.5_Declaration_ranges:variable_dimension|variable_dimension]] } [ = [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] ]
-| [ [[port_direction]] ] . [[9_General:9.3_Identifiers:port_identifier|port_identifier]] ( [ [[8_Expressions:8.3_Expressions:expression|expression]] ] )
+| [ [[1_Source_text:1.3_Module_parameters_and_ports:variable_port_header|variable_port_header]] ] [[9_General:9.3_Identifiers:port_identifier|port_identifier]] { [[2_Declarations:2.5_Declaration_ranges:variable_dimension|variable_dimension]] } [ = [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] ]
+| [ [[1_Source_text:1.3_Module_parameters_and_ports:port_direction|port_direction]] ] . [[9_General:9.3_Identifiers:port_identifier|port_identifier]] ( [ [[8_Expressions:8.3_Expressions:expression|expression]] ] )
 
 ===== Backlinks =====
-[[list_of_port_declarations]]
+[[1_Source_text:1.3_Module_parameters_and_ports:list_of_port_declarations|list_of_port_declarations]]

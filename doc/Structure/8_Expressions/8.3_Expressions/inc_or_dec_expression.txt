@@ -11,6 +11,6 @@ inc_or_dec_expression ::=
 
 ===== Backlinks =====
 [[6_Behavioral_statements:6.2_Procedural_blocks_and_assignments:blocking_assignment|blocking_assignment]]
-[[expression]]
+[[8_Expressions:8.3_Expressions:expression|expression]]
 [[6_Behavioral_statements:6.8_Looping_statements:for_step_assignment|for_step_assignment]]
 [[2_Declarations:2.10_Assertion_declarations:sequence_match_item|sequence_match_item]]

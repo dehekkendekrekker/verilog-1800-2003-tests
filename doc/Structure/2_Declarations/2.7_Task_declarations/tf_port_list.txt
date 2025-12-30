@@ -6,7 +6,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 tf_port_list ::=
-	[[tf_port_item]] { , [[tf_port_item]] }
+	[[2_Declarations:2.7_Task_declarations:tf_port_item|tf_port_item]] { , [[2_Declarations:2.7_Task_declarations:tf_port_item|tf_port_item]] }
 
 ===== Backlinks =====
 [[2_Declarations:2.11_Covergroup_declarations:coverage_event|coverage_event]]
@@ -14,5 +14,5 @@ tf_port_list ::=
 [[2_Declarations:2.6_Function_declarations:function_body_declaration|function_body_declaration]]
 [[2_Declarations:2.6_Function_declarations:function_prototype|function_prototype]]
 [[6_Behavioral_statements:6.12_Randsequence:rs_production|rs_production]]
-[[task_body_declaration]]
-[[task_prototype]]
+[[2_Declarations:2.7_Task_declarations:task_body_declaration|task_body_declaration]]
+[[2_Declarations:2.7_Task_declarations:task_prototype|task_prototype]]

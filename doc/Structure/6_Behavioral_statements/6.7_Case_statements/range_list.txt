@@ -6,9 +6,9 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 range_list ::=
-	[[value_range]] { , [[value_range]] }
+	[[6_Behavioral_statements:6.7_Case_statements:value_range|value_range]] { , [[6_Behavioral_statements:6.7_Case_statements:value_range|value_range]] }
 
 ===== Backlinks =====
-[[case_inside_item]]
+[[6_Behavioral_statements:6.7_Case_statements:case_inside_item|case_inside_item]]
 [[8_Expressions:8.3_Expressions:inside_expression|inside_expression]]
 [[1_Source_text:1.10_Constraints:uniqueness_constraint|uniqueness_constraint]]

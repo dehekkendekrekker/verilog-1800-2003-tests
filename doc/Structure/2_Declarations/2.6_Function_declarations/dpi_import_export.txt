@@ -6,10 +6,10 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 dpi_import_export ::=
-	**import** [[dpi_spec_string]] [ [[dpi_function_import_property]] ] [ [[9_General:9.3_Identifiers:c_identifier|c_identifier]] **=** ] [[dpi_function_proto]] **;**
-| **import** [[dpi_spec_string]] [ [[dpi_task_import_property]] ] [ [[9_General:9.3_Identifiers:c_identifier|c_identifier]] **=** ] [[dpi_task_proto]] **;**
-| **export** [[dpi_spec_string]] [ [[9_General:9.3_Identifiers:c_identifier|c_identifier]] **=** ] **function** [[9_General:9.3_Identifiers:function_identifier|function_identifier]] **;**
-| **export** [[dpi_spec_string]] [ [[9_General:9.3_Identifiers:c_identifier|c_identifier]] **=** ] **task** [[9_General:9.3_Identifiers:task_identifier|task_identifier]] **;**
+	**import** [[2_Declarations:2.6_Function_declarations:dpi_spec_string|dpi_spec_string]] [ [[2_Declarations:2.6_Function_declarations:dpi_function_import_property|dpi_function_import_property]] ] [ [[9_General:9.3_Identifiers:c_identifier|c_identifier]] **=** ] [[2_Declarations:2.6_Function_declarations:dpi_function_proto|dpi_function_proto]] **;**
+| **import** [[2_Declarations:2.6_Function_declarations:dpi_spec_string|dpi_spec_string]] [ [[2_Declarations:2.6_Function_declarations:dpi_task_import_property|dpi_task_import_property]] ] [ [[9_General:9.3_Identifiers:c_identifier|c_identifier]] **=** ] [[2_Declarations:2.6_Function_declarations:dpi_task_proto|dpi_task_proto]] **;**
+| **export** [[2_Declarations:2.6_Function_declarations:dpi_spec_string|dpi_spec_string]] [ [[9_General:9.3_Identifiers:c_identifier|c_identifier]] **=** ] **function** [[9_General:9.3_Identifiers:function_identifier|function_identifier]] **;**
+| **export** [[2_Declarations:2.6_Function_declarations:dpi_spec_string|dpi_spec_string]] [ [[9_General:9.3_Identifiers:c_identifier|c_identifier]] **=** ] **task** [[9_General:9.3_Identifiers:task_identifier|task_identifier]] **;**
 
 ===== Backlinks =====
 [[1_Source_text:1.11_Package_items:package_or_generate_item_declaration|package_or_generate_item_declaration]]

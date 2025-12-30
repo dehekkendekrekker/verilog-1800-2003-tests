@@ -12,4 +12,4 @@ showcancelled_declaration ::=
 | **noshowcancelled** [[7_Specify_section:7.3_Specify_block_terminals:list_of_path_outputs|list_of_path_outputs]] ;
 
 ===== Backlinks =====
-[[specify_item]]
+[[7_Specify_section:7.1_Specify_block_declaration:specify_item|specify_item]]

@@ -6,7 +6,7 @@ Creation-Date: 2025-12-22T00:00:00+00:00
 Created Sunday 22 December 2025
 
 generate_region ::=
-	**generate** { [[generate_item]] } **endgenerate**
+	**generate** { [[4_Instantiations:4.2_Generated_instantiation:generate_item|generate_item]] } **endgenerate**
 
 ===== Backlinks =====
 [[1_Source_text:1.8_Checker_items:checker_generate_item|checker_generate_item]]

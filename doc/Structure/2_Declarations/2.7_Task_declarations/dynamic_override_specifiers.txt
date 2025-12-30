@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.2.7
 
 dynamic_override_specifiers ::=
-	[ [[initial_or_extends_specifier]] ] [ [[final_specifier]] ]
+	[ [[2_Declarations:2.7_Task_declarations:initial_or_extends_specifier|initial_or_extends_specifier]] ] [ [[2_Declarations:2.7_Task_declarations:final_specifier|final_specifier]] ]
 
 ===== Backlinks =====
 [[1_Source_text:1.10_Constraints:constraint_declaration|constraint_declaration]]
@@ -16,5 +16,5 @@ dynamic_override_specifiers ::=
 [[1_Source_text:1.10_Constraints:extern_constraint_declaration|extern_constraint_declaration]]
 [[2_Declarations:2.6_Function_declarations:function_declaration|function_declaration]]
 [[2_Declarations:2.6_Function_declarations:function_prototype|function_prototype]]
-[[task_declaration]]
-[[task_prototype]]
+[[2_Declarations:2.7_Task_declarations:task_declaration|task_declaration]]
+[[2_Declarations:2.7_Task_declarations:task_prototype|task_prototype]]

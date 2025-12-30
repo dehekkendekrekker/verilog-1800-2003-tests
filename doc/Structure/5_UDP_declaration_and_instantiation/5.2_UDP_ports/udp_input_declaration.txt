@@ -11,5 +11,5 @@ udp_input_declaration ::=
 	{ [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } **input** [[2_Declarations:2.3_Declaration_lists:list_of_udp_port_identifiers|list_of_udp_port_identifiers]]
 
 ===== Backlinks =====
-[[udp_declaration_port_list]]
-[[udp_port_declaration]]
+[[5_UDP_declaration_and_instantiation:5.2_UDP_ports:udp_declaration_port_list|udp_declaration_port_list]]
+[[5_UDP_declaration_and_instantiation:5.2_UDP_ports:udp_port_declaration|udp_port_declaration]]

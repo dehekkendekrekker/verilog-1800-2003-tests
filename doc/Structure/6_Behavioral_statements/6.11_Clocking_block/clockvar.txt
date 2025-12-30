@@ -11,4 +11,4 @@ clockvar ::=
 	[[9_General:9.3_Identifiers:hierarchical_identifier|hierarchical_identifier]]
 
 ===== Backlinks =====
-[[clockvar_expression]]
+[[6_Behavioral_statements:6.11_Clocking_block:clockvar_expression|clockvar_expression]]

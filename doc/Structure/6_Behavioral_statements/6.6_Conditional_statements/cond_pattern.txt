@@ -9,4 +9,4 @@ cond_pattern ::=
 	[[8_Expressions:8.3_Expressions:expression|expression]] **matches** [[6_Behavioral_statements:6.7_Case_statements:6.7.1_Patterns:pattern|pattern]]
 
 ===== Backlinks =====
-[[expression_or_cond_pattern]]
+[[6_Behavioral_statements:6.6_Conditional_statements:expression_or_cond_pattern|expression_or_cond_pattern]]

@@ -12,4 +12,4 @@ let_formal_type ::=
 | **untyped**
 
 ===== Backlinks =====
-[[let_port_item]]
+[[2_Declarations:2.12_Let_declarations:let_port_item|let_port_item]]

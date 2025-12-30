@@ -6,7 +6,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 class_constructor_prototype ::=
-	**function** **new** [ **(** [ [[class_constructor_arg_list]] ] **)** ] **;**
+	**function** **new** [ **(** [ [[1_Source_text:1.9_Class_items:class_constructor_arg_list|class_constructor_arg_list]] ] **)** ] **;**
 
 ===== Backlinks =====
-[[class_method]]
+[[1_Source_text:1.9_Class_items:class_method|class_method]]

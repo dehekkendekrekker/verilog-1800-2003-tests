@@ -8,7 +8,7 @@ Created Friday 27 December 2025
 IEEE 1800-2023 Section A.2.2.3
 
 delay3 ::=
-	**#** [[delay_value]]
+	**#** [[2_Declarations:2.2_Declaration_data_types:2.2.3_Delays:delay_value|delay_value]]
 | **#** **(** [[8_Expressions:8.3_Expressions:mintypmax_expression|mintypmax_expression]] [ **,** [[8_Expressions:8.3_Expressions:mintypmax_expression|mintypmax_expression]] [ **,** [[8_Expressions:8.3_Expressions:mintypmax_expression|mintypmax_expression]] ] ] **)**
 
 ===== Backlinks =====

@@ -10,5 +10,5 @@ assertion_variable_declaration ::=
 
 
 ===== Backlinks =====
-[[property_declaration]]
-[[sequence_declaration]]
+[[2_Declarations:2.10_Assertion_declarations:property_declaration|property_declaration]]
+[[2_Declarations:2.10_Assertion_declarations:sequence_declaration|sequence_declaration]]

@@ -8,8 +8,8 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.5.3
 
 next_state ::=
-	[[output_symbol]]
+	[[5_UDP_declaration_and_instantiation:5.3_UDP_body:output_symbol|output_symbol]]
 | -
 
 ===== Backlinks =====
-[[sequential_entry]]
+[[5_UDP_declaration_and_instantiation:5.3_UDP_body:sequential_entry|sequential_entry]]

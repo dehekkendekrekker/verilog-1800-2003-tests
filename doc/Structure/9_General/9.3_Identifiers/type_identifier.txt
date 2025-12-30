@@ -8,13 +8,13 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.9.3
 
 type_identifier ::=
-	[[identifier]]
+	[[9_General:9.3_Identifiers:identifier|identifier]]
 
 ===== Backlinks =====
 [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type|data_type]]
 [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:enum_base_type|enum_base_type]]
 [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:incomplete_class_scoped_type|incomplete_class_scoped_type]]
-[[ps_type_identifier]]
+[[9_General:9.3_Identifiers:ps_type_identifier|ps_type_identifier]]
 [[2_Declarations:2.4_Declaration_assignments:type_assignment|type_assignment]]
 [[2_Declarations:2.1_Declaration_types:2.1.3_Type_declarations:type_declaration|type_declaration]]
 [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:type_identifier_or_class_type|type_identifier_or_class_type]]

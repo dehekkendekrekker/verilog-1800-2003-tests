@@ -9,5 +9,5 @@ bit_select ::=
 	{ [ [[8_Expressions:8.3_Expressions:expression|expression]] ] }
 
 ===== Backlinks =====
-[[nonrange_select]]
-[[select]]
+[[8_Expressions:8.4_Primaries:nonrange_select|nonrange_select]]
+[[8_Expressions:8.4_Primaries:select|select]]

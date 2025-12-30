@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.2.11
 
 trans_set ::=
-	[[trans_range_list]] { **=>** [[trans_range_list]] }
+	[[2_Declarations:2.11_Covergroup_declarations:trans_range_list|trans_range_list]] { **=>** [[2_Declarations:2.11_Covergroup_declarations:trans_range_list|trans_range_list]] }
 
 ===== Backlinks =====
-[[trans_list]]
+[[2_Declarations:2.11_Covergroup_declarations:trans_list|trans_list]]

@@ -6,7 +6,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 randcase_statement ::=
-	**randcase** [[randcase_item]] { [[randcase_item]] } **endcase**
+	**randcase** [[6_Behavioral_statements:6.7_Case_statements:randcase_item|randcase_item]] { [[6_Behavioral_statements:6.7_Case_statements:randcase_item|randcase_item]] } **endcase**
 
 ===== Backlinks =====
 [[6_Behavioral_statements:6.4_Statements:statement_item|statement_item]]

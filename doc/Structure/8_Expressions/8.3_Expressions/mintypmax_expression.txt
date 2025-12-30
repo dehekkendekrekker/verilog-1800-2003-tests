@@ -6,15 +6,15 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 mintypmax_expression ::=
-	[[expression]]
-| [[expression]] : [[expression]] : [[expression]]
+	[[8_Expressions:8.3_Expressions:expression|expression]]
+| [[8_Expressions:8.3_Expressions:expression|expression]] : [[8_Expressions:8.3_Expressions:expression|expression]] : [[8_Expressions:8.3_Expressions:expression|expression]]
 
 ===== Backlinks =====
 [[2_Declarations:2.2_Declaration_data_types:2.2.3_Delays:delay2|delay2]]
 [[2_Declarations:2.2_Declaration_data_types:2.2.3_Delays:delay3|delay3]]
 [[6_Behavioral_statements:6.5_Timing_control_statements:delay_control|delay_control]]
 [[7_Specify_section:7.5_System_timing_checks:7.5.2_System_timing_check_command_arguments:end_edge_offset|end_edge_offset]]
-[[param_expression]]
+[[8_Expressions:8.3_Expressions:param_expression|param_expression]]
 [[8_Expressions:8.4_Primaries:primary|primary]]
 [[7_Specify_section:7.5_System_timing_checks:7.5.2_System_timing_check_command_arguments:start_edge_offset|start_edge_offset]]
 [[7_Specify_section:7.5_System_timing_checks:7.5.2_System_timing_check_command_arguments:timecheck_condition|timecheck_condition]]

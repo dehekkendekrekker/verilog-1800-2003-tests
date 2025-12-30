@@ -12,6 +12,6 @@ delay_control ::=
 ===== Backlinks =====
 [[6_Behavioral_statements:6.11_Clocking_block:clocking_skew|clocking_skew]]
 [[6_Behavioral_statements:6.1_Continuous_assignment:continuous_assign|continuous_assign]]
-[[delay_or_event_control]]
+[[6_Behavioral_statements:6.5_Timing_control_statements:delay_or_event_control|delay_or_event_control]]
 [[2_Declarations:2.1_Declaration_types:2.1.3_Type_declarations:net_declaration|net_declaration]]
-[[procedural_timing_control]]
+[[6_Behavioral_statements:6.5_Timing_control_statements:procedural_timing_control|procedural_timing_control]]

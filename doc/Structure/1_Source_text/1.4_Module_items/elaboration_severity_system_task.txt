@@ -8,9 +8,9 @@ Created Friday 27 December 2025
 IEEE 1800-2023 Section A.1.4
 
 elaboration_severity_system_task ::=
-	[[severity_system_task]]
+	[[1_Source_text:1.4_Module_items:severity_system_task|severity_system_task]]
 
 ===== Backlinks =====
 [[1_Source_text:1.8_Checker_items:checker_generate_item|checker_generate_item]]
-[[module_common_item]]
+[[1_Source_text:1.4_Module_items:module_common_item|module_common_item]]
 [[1_Source_text:1.7_Program_items:program_generate_item|program_generate_item]]

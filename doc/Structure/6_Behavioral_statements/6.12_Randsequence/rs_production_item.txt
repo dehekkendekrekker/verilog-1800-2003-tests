@@ -11,8 +11,8 @@ rs_production_item ::=
 	[[9_General:9.3_Identifiers:rs_production_identifier|rs_production_identifier]] [ ( [[8_Expressions:8.2_Subroutine_calls:list_of_arguments|list_of_arguments]] ) ]
 
 ===== Backlinks =====
-[[rs_case_item]]
-[[rs_if_else]]
-[[rs_prod]]
-[[rs_production_list]]
-[[rs_repeat]]
+[[6_Behavioral_statements:6.12_Randsequence:rs_case_item|rs_case_item]]
+[[6_Behavioral_statements:6.12_Randsequence:rs_if_else|rs_if_else]]
+[[6_Behavioral_statements:6.12_Randsequence:rs_prod|rs_prod]]
+[[6_Behavioral_statements:6.12_Randsequence:rs_production_list|rs_production_list]]
+[[6_Behavioral_statements:6.12_Randsequence:rs_repeat|rs_repeat]]

@@ -12,4 +12,4 @@ bind_instantiation ::=
 | [[4_Instantiations:4.1_Instantiations:4.1.4_Checker_instantiation:checker_instantiation|checker_instantiation]]
 
 ===== Backlinks =====
-[[bind_directive]]
+[[1_Source_text:1.4_Module_items:bind_directive|bind_directive]]

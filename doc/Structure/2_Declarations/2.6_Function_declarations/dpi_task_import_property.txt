@@ -9,4 +9,4 @@ dpi_task_import_property ::=
 	**context**
 
 ===== Backlinks =====
-[[dpi_import_export]]
+[[2_Declarations:2.6_Function_declarations:dpi_import_export|dpi_import_export]]

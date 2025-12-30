@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.6.12
 
 rs_case ::=
-	**case** ( [[6_Behavioral_statements:6.7_Case_statements:case_expression|case_expression]] ) [[rs_case_item]] { [[rs_case_item]] } **endcase**
+	**case** ( [[6_Behavioral_statements:6.7_Case_statements:case_expression|case_expression]] ) [[6_Behavioral_statements:6.12_Randsequence:rs_case_item|rs_case_item]] { [[6_Behavioral_statements:6.12_Randsequence:rs_case_item|rs_case_item]] } **endcase**
 
 ===== Backlinks =====
-[[rs_prod]]
+[[6_Behavioral_statements:6.12_Randsequence:rs_prod|rs_prod]]

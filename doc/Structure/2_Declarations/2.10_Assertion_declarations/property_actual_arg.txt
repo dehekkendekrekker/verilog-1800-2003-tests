@@ -6,12 +6,12 @@ Creation-Date: 2025-12-16T23:31:48+00:00
 Created Tuesday 16 December 2025
 
 property_actual_arg ::=
-	[[property_expr]]
-| [[sequence_actual_arg]]
+	[[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+| [[2_Declarations:2.10_Assertion_declarations:sequence_actual_arg|sequence_actual_arg]]
 
 ===== Backlinks =====
 [[1_Source_text:1.8_Checker_items:checker_port_item|checker_port_item]]
 [[4_Instantiations:4.1_Instantiations:4.1.4_Checker_instantiation:named_checker_port_connection|named_checker_port_connection]]
 [[4_Instantiations:4.1_Instantiations:4.1.4_Checker_instantiation:ordered_checker_port_connection|ordered_checker_port_connection]]
-[[property_list_of_arguments]]
-[[property_port_item]]
+[[2_Declarations:2.10_Assertion_declarations:property_list_of_arguments|property_list_of_arguments]]
+[[2_Declarations:2.10_Assertion_declarations:property_port_item|property_port_item]]

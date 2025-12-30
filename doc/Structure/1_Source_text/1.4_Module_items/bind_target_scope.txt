@@ -12,4 +12,4 @@ bind_target_scope ::=
 | [[9_General:9.3_Identifiers:interface_identifier|interface_identifier]]
 
 ===== Backlinks =====
-[[bind_directive]]
+[[1_Source_text:1.4_Module_items:bind_directive|bind_directive]]

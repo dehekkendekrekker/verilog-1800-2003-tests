@@ -8,22 +8,22 @@ Created Tuesday 16 December 2025
 IEEE 1800-2023 Section A.2.10
 
 concurrent_assertion_item ::=
-	[ [[9_General:9.3_Identifiers:block_identifier|block_identifier]] : ] [[concurrent_assertion_statement]]
+	[ [[9_General:9.3_Identifiers:block_identifier|block_identifier]] : ] [[2_Declarations:2.10_Assertion_declarations:concurrent_assertion_statement|concurrent_assertion_statement]]
 	| [[4_Instantiations:4.1_Instantiations:4.1.4_Checker_instantiation:checker_instantiation|checker_instantiation]]
 
 ===== Syntax permutations =====
 
 ==== Permutation 1: Labeled assertion ====
-label : [[concurrent_assertion_statement]]
+label : [[2_Declarations:2.10_Assertion_declarations:concurrent_assertion_statement|concurrent_assertion_statement]]
 
 ==== Permutation 2: Unlabeled assertion ====
-[[concurrent_assertion_statement]]
+[[2_Declarations:2.10_Assertion_declarations:concurrent_assertion_statement|concurrent_assertion_statement]]
 
 ==== Permutation 3: Checker instantiation ====
 [[4_Instantiations:4.1_Instantiations:4.1.4_Checker_instantiation:checker_instantiation|checker_instantiation]]
 
 ===== SVA-relevant paths =====
-[[concurrent_assertion_statement]]
+[[2_Declarations:2.10_Assertion_declarations:concurrent_assertion_statement|concurrent_assertion_statement]]
 [[4_Instantiations:4.1_Instantiations:4.1.4_Checker_instantiation:checker_instantiation|checker_instantiation]]
 
 ===== Backlinks =====

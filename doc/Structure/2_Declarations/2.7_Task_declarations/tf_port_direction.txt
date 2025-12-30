@@ -10,5 +10,5 @@ tf_port_direction ::=
 | [ **const** ] **ref** [ **static** ]
 
 ===== Backlinks =====
-[[tf_port_declaration]]
-[[tf_port_item]]
+[[2_Declarations:2.7_Task_declarations:tf_port_declaration|tf_port_declaration]]
+[[2_Declarations:2.7_Task_declarations:tf_port_item|tf_port_item]]

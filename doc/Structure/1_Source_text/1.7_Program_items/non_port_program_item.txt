@@ -12,8 +12,8 @@ non_port_program_item ::=
 | { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [[6_Behavioral_statements:6.2_Procedural_blocks_and_assignments:final_construct|final_construct]]
 | { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [[2_Declarations:2.10_Assertion_declarations:concurrent_assertion_item|concurrent_assertion_item]]
 | [[1_Source_text:1.2_SystemVerilog_source_text:timeunits_declaration|timeunits_declaration]]
-| [[program_generate_item]]
+| [[1_Source_text:1.7_Program_items:program_generate_item|program_generate_item]]
 
 ===== Backlinks =====
 [[1_Source_text:1.2_SystemVerilog_source_text:program_declaration|program_declaration]]
-[[program_item]]
+[[1_Source_text:1.7_Program_items:program_item|program_item]]

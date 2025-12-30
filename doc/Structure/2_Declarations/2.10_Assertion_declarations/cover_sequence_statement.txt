@@ -8,25 +8,25 @@ Created Tuesday 16 December 2025
 IEEE 1800-2023 Section A.2.10, 16.14
 
 cover_sequence_statement ::=
-	**cover sequence** ( [ [[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]] ] [ disable iff ( [[1_Source_text:1.10_Constraints:expression_or_dist|expression_or_dist]] ) ] [[sequence_expr]] ) [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]]
+	**cover sequence** ( [ [[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]] ] [ disable iff ( [[1_Source_text:1.10_Constraints:expression_or_dist|expression_or_dist]] ) ] [[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]] ) [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]]
 
 ===== Permutations =====
 
-==== Permutation 1: [[sequence_expr]] only ====
-cover sequence ( [[sequence_expr]] ) [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]]
+==== Permutation 1: [[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]] only ====
+cover sequence ( [[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]] ) [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]]
 
 ==== Permutation 2: With [[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]] ====
-cover sequence ( @(posedge clk) [[sequence_expr]] ) [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]]
+cover sequence ( @(posedge clk) [[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]] ) [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]]
 
 ==== Permutation 3: With disable iff ====
-cover sequence ( disable iff (reset) [[sequence_expr]] ) [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]]
+cover sequence ( disable iff (reset) [[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]] ) [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]]
 
 ==== Permutation 4: With [[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]] and disable iff ====
-cover sequence ( @(posedge clk) disable iff (reset) [[sequence_expr]] ) [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]]
+cover sequence ( @(posedge clk) disable iff (reset) [[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]] ) [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]]
 
 ===== [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]] permutations =====
 * With pass statement
 * Empty (null statement)
 
 ===== Backlinks =====
-[[concurrent_assertion_statement]]
+[[2_Declarations:2.10_Assertion_declarations:concurrent_assertion_statement|concurrent_assertion_statement]]

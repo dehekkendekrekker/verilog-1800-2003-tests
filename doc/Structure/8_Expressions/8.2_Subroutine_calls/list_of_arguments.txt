@@ -10,12 +10,12 @@ list_of_arguments ::=
 | . [[9_General:9.3_Identifiers:identifier|identifier]] ( [ [[8_Expressions:8.3_Expressions:expression|expression]] ] ) { , . [[9_General:9.3_Identifiers:identifier|identifier]] ( [ [[8_Expressions:8.3_Expressions:expression|expression]] ] ) }
 
 ===== Backlinks =====
-[[array_manipulation_call]]
+[[8_Expressions:8.2_Subroutine_calls:array_manipulation_call|array_manipulation_call]]
 [[1_Source_text:1.9_Class_items:class_constructor_declaration|class_constructor_declaration]]
 [[1_Source_text:1.2_SystemVerilog_source_text:class_declaration|class_declaration]]
 [[2_Declarations:2.4_Declaration_assignments:class_new|class_new]]
-[[method_call_body]]
+[[8_Expressions:8.2_Subroutine_calls:method_call_body|method_call_body]]
 [[6_Behavioral_statements:6.12_Randsequence:rs_production_item|rs_production_item]]
 [[1_Source_text:1.4_Module_items:severity_system_task|severity_system_task]]
-[[system_tf_call]]
-[[tf_call]]
+[[8_Expressions:8.2_Subroutine_calls:system_tf_call|system_tf_call]]
+[[8_Expressions:8.2_Subroutine_calls:tf_call|tf_call]]

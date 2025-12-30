@@ -9,5 +9,5 @@ constraint_primary ::=
 	[ [[8_Expressions:8.4_Primaries:implicit_class_handle|implicit_class_handle]] **.** | [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:class_scope|class_scope]] ] [[9_General:9.3_Identifiers:hierarchical_identifier|hierarchical_identifier]] [[8_Expressions:8.4_Primaries:select|select]] [ **(** **)** ]
 
 ===== Backlinks =====
-[[constraint_expression]]
-[[solve_before_list]]
+[[1_Source_text:1.10_Constraints:constraint_expression|constraint_expression]]
+[[1_Source_text:1.10_Constraints:solve_before_list|solve_before_list]]

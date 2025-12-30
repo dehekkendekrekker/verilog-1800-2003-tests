@@ -11,4 +11,4 @@ triple_quoted_string_item ::=
 	any_ASCII_character except **\\**
 
 ===== Backlinks =====
-[[triple_quoted_string]]
+[[8_Expressions:8.8_Strings:triple_quoted_string|triple_quoted_string]]

@@ -8,8 +8,8 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.2.12
 
 let_list_of_arguments ::=
-	[ [[let_actual_arg]] ] { **,** [ [[let_actual_arg]] ] } { **,** **.** identifier **(** [ [[let_actual_arg]] ] **)** }
-| **.** identifier **(** [ [[let_actual_arg]] ] **)** { **,** **.** identifier **(** [ [[let_actual_arg]] ] **)** }
+	[ [[2_Declarations:2.12_Let_declarations:let_actual_arg|let_actual_arg]] ] { **,** [ [[2_Declarations:2.12_Let_declarations:let_actual_arg|let_actual_arg]] ] } { **,** **.** identifier **(** [ [[2_Declarations:2.12_Let_declarations:let_actual_arg|let_actual_arg]] ] **)** }
+| **.** identifier **(** [ [[2_Declarations:2.12_Let_declarations:let_actual_arg|let_actual_arg]] ] **)** { **,** **.** identifier **(** [ [[2_Declarations:2.12_Let_declarations:let_actual_arg|let_actual_arg]] ] **)** }
 
 ===== Backlinks =====
-[[let_expression]]
+[[2_Declarations:2.12_Let_declarations:let_expression|let_expression]]

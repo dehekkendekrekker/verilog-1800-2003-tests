@@ -10,10 +10,10 @@ IEEE 1800-2023 Section A.7.5.3
 scalar_timing_check_condition ::=
 	[[8_Expressions:8.3_Expressions:expression|expression]]
 | ~ [[8_Expressions:8.3_Expressions:expression|expression]]
-| [[8_Expressions:8.3_Expressions:expression|expression]] == [[scalar_constant]]
-| [[8_Expressions:8.3_Expressions:expression|expression]] === [[scalar_constant]]
-| [[8_Expressions:8.3_Expressions:expression|expression]] != [[scalar_constant]]
-| [[8_Expressions:8.3_Expressions:expression|expression]] !== [[scalar_constant]]
+| [[8_Expressions:8.3_Expressions:expression|expression]] == [[7_Specify_section:7.5_System_timing_checks:7.5.3_System_timing_check_event_definitions:scalar_constant|scalar_constant]]
+| [[8_Expressions:8.3_Expressions:expression|expression]] === [[7_Specify_section:7.5_System_timing_checks:7.5.3_System_timing_check_event_definitions:scalar_constant|scalar_constant]]
+| [[8_Expressions:8.3_Expressions:expression|expression]] != [[7_Specify_section:7.5_System_timing_checks:7.5.3_System_timing_check_event_definitions:scalar_constant|scalar_constant]]
+| [[8_Expressions:8.3_Expressions:expression|expression]] !== [[7_Specify_section:7.5_System_timing_checks:7.5.3_System_timing_check_event_definitions:scalar_constant|scalar_constant]]
 
 ===== Backlinks =====
-[[timing_check_condition]]
+[[7_Specify_section:7.5_System_timing_checks:7.5.3_System_timing_check_event_definitions:timing_check_condition|timing_check_condition]]

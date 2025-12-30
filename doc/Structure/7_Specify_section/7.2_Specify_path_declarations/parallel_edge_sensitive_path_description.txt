@@ -8,8 +8,8 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.7.2
 
 parallel_edge_sensitive_path_description ::=
-	( [ [[edge_identifier]] ] [[7_Specify_section:7.3_Specify_block_terminals:specify_input_terminal_descriptor|specify_input_terminal_descriptor]] [ [[polarity_operator]] ] => ( [[7_Specify_section:7.3_Specify_block_terminals:specify_output_terminal_descriptor|specify_output_terminal_descriptor]] [ [[polarity_operator]] ] : [[data_source_expression]] ) )
-| ( [ [[edge_identifier]] ] [[7_Specify_section:7.3_Specify_block_terminals:specify_input_terminal_descriptor|specify_input_terminal_descriptor]] [ [[polarity_operator]] ] => [[7_Specify_section:7.3_Specify_block_terminals:specify_output_terminal_descriptor|specify_output_terminal_descriptor]] )
+	( [ [[7_Specify_section:7.2_Specify_path_declarations:edge_identifier|edge_identifier]] ] [[7_Specify_section:7.3_Specify_block_terminals:specify_input_terminal_descriptor|specify_input_terminal_descriptor]] [ [[7_Specify_section:7.2_Specify_path_declarations:polarity_operator|polarity_operator]] ] => ( [[7_Specify_section:7.3_Specify_block_terminals:specify_output_terminal_descriptor|specify_output_terminal_descriptor]] [ [[7_Specify_section:7.2_Specify_path_declarations:polarity_operator|polarity_operator]] ] : [[7_Specify_section:7.2_Specify_path_declarations:data_source_expression|data_source_expression]] ) )
+| ( [ [[7_Specify_section:7.2_Specify_path_declarations:edge_identifier|edge_identifier]] ] [[7_Specify_section:7.3_Specify_block_terminals:specify_input_terminal_descriptor|specify_input_terminal_descriptor]] [ [[7_Specify_section:7.2_Specify_path_declarations:polarity_operator|polarity_operator]] ] => [[7_Specify_section:7.3_Specify_block_terminals:specify_output_terminal_descriptor|specify_output_terminal_descriptor]] )
 
 ===== Backlinks =====
-[[edge_sensitive_path_declaration]]
+[[7_Specify_section:7.2_Specify_path_declarations:edge_sensitive_path_declaration|edge_sensitive_path_declaration]]

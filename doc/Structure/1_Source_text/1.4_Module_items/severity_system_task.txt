@@ -8,10 +8,10 @@ Created Friday 27 December 2025
 IEEE 1800-2023 Section A.1.4
 
 severity_system_task ::=
-	**$fatal** [ **(** [[finish_number]] [ **,** [[8_Expressions:8.2_Subroutine_calls:list_of_arguments|list_of_arguments]] ] **)** ] **;**
+	**$fatal** [ **(** [[1_Source_text:1.4_Module_items:finish_number|finish_number]] [ **,** [[8_Expressions:8.2_Subroutine_calls:list_of_arguments|list_of_arguments]] ] **)** ] **;**
 | **$error** [ **(** [ [[8_Expressions:8.2_Subroutine_calls:list_of_arguments|list_of_arguments]] ] **)** ] **;**
 | **$warning** [ **(** [ [[8_Expressions:8.2_Subroutine_calls:list_of_arguments|list_of_arguments]] ] **)** ] **;**
 | **$info** [ **(** [ [[8_Expressions:8.2_Subroutine_calls:list_of_arguments|list_of_arguments]] ] **)** ] **;**
 
 ===== Backlinks =====
-[[elaboration_severity_system_task]]
+[[1_Source_text:1.4_Module_items:elaboration_severity_system_task|elaboration_severity_system_task]]

@@ -9,4 +9,4 @@ method_call_root ::=
 	[[8_Expressions:8.4_Primaries:primary|primary]] | [[8_Expressions:8.4_Primaries:implicit_class_handle|implicit_class_handle]]
 
 ===== Backlinks =====
-[[method_call]]
+[[8_Expressions:8.2_Subroutine_calls:method_call|method_call]]

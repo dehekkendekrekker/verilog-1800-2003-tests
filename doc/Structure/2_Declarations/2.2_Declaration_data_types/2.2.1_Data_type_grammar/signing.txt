@@ -10,7 +10,7 @@ signing ::=
 | **unsigned**
 
 ===== Backlinks =====
-[[casting_type]]
-[[data_type]]
-[[enum_base_type]]
-[[implicit_data_type]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:casting_type|casting_type]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type|data_type]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:enum_base_type|enum_base_type]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:implicit_data_type|implicit_data_type]]

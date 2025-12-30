@@ -9,5 +9,5 @@ concatenation ::=
 	{ [[8_Expressions:8.3_Expressions:expression|expression]] { , [[8_Expressions:8.3_Expressions:expression|expression]] } }
 
 ===== Backlinks =====
-[[multiple_concatenation]]
+[[8_Expressions:8.1_Concatenations:multiple_concatenation|multiple_concatenation]]
 [[8_Expressions:8.4_Primaries:primary|primary]]

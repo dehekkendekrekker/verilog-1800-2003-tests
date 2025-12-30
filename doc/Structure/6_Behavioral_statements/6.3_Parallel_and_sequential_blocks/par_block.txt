@@ -7,7 +7,7 @@ Created Friday 27 December 2025
 
 par_block ::=
 	**fork** [ : [[9_General:9.3_Identifiers:block_identifier|block_identifier]] ] { [[2_Declarations:2.8_Block_item_declarations:block_item_declaration|block_item_declaration]] } { [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]] }
-[[join_keyword]] [ : [[9_General:9.3_Identifiers:block_identifier|block_identifier]] ]
+[[6_Behavioral_statements:6.3_Parallel_and_sequential_blocks:join_keyword|join_keyword]] [ : [[9_General:9.3_Identifiers:block_identifier|block_identifier]] ]
 
 ===== Backlinks =====
 [[6_Behavioral_statements:6.4_Statements:statement_item|statement_item]]

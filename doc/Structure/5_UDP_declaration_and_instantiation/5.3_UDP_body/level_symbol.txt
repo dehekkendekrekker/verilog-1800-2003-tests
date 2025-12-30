@@ -11,7 +11,7 @@ level_symbol ::=
 	0 | 1 | x | X | ? | b | B
 
 ===== Backlinks =====
-[[current_state]]
-[[edge_indicator]]
-[[edge_input_list]]
-[[level_input_list]]
+[[5_UDP_declaration_and_instantiation:5.3_UDP_body:current_state|current_state]]
+[[5_UDP_declaration_and_instantiation:5.3_UDP_body:edge_indicator|edge_indicator]]
+[[5_UDP_declaration_and_instantiation:5.3_UDP_body:edge_input_list|edge_input_list]]
+[[5_UDP_declaration_and_instantiation:5.3_UDP_body:level_input_list|level_input_list]]

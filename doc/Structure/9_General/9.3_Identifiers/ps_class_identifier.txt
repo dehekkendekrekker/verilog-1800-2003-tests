@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.9.3
 
 ps_class_identifier ::=
-	[ [[package_scope]] ] [[class_identifier]]
+	[ [[9_General:9.3_Identifiers:package_scope|package_scope]] ] [[9_General:9.3_Identifiers:class_identifier|class_identifier]]
 
 ===== Backlinks =====
 [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:class_type|class_type]]

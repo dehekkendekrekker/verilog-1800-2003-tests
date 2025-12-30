@@ -8,9 +8,9 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.2.11
 
 covergroup_range_list ::=
-	[[covergroup_value_range]] { , [[covergroup_value_range]] }
+	[[2_Declarations:2.11_Covergroup_declarations:covergroup_value_range|covergroup_value_range]] { , [[2_Declarations:2.11_Covergroup_declarations:covergroup_value_range|covergroup_value_range]] }
 
 ===== Backlinks =====
-[[bins_or_options]]
-[[select_condition]]
-[[trans_item]]
+[[2_Declarations:2.11_Covergroup_declarations:bins_or_options|bins_or_options]]
+[[2_Declarations:2.11_Covergroup_declarations:select_condition|select_condition]]
+[[2_Declarations:2.11_Covergroup_declarations:trans_item|trans_item]]

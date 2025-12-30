@@ -9,5 +9,5 @@ bins_keyword ::=
 	**bins** | **illegal_bins** | **ignore_bins**
 
 ===== Backlinks =====
-[[bins_or_options]]
-[[bins_selection]]
+[[2_Declarations:2.11_Covergroup_declarations:bins_or_options|bins_or_options]]
+[[2_Declarations:2.11_Covergroup_declarations:bins_selection|bins_selection]]

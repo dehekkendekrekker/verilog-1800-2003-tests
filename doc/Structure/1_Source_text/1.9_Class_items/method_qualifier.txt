@@ -7,7 +7,7 @@ Created Friday 27 December 2025
 
 method_qualifier ::=
 	[ **pure** ] **virtual**
-| [[class_item_qualifier]]
+| [[1_Source_text:1.9_Class_items:class_item_qualifier|class_item_qualifier]]
 
 ===== Backlinks =====
-[[class_method]]
+[[1_Source_text:1.9_Class_items:class_method|class_method]]

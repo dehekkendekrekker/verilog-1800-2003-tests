@@ -6,7 +6,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 array_pattern_key ::=
-	[[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] | [[assignment_pattern_key]]
+	[[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] | [[6_Behavioral_statements:6.7_Case_statements:6.7.1_Patterns:assignment_pattern_key|assignment_pattern_key]]
 
 ===== Backlinks =====
-[[assignment_pattern]]
+[[6_Behavioral_statements:6.7_Case_statements:6.7.1_Patterns:assignment_pattern|assignment_pattern]]

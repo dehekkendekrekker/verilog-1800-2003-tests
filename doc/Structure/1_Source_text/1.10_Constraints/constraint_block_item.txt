@@ -6,8 +6,8 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 constraint_block_item ::=
-	**solve** [[solve_before_list]] **before** [[solve_before_list]] ;
-| [[constraint_expression]]
+	**solve** [[1_Source_text:1.10_Constraints:solve_before_list|solve_before_list]] **before** [[1_Source_text:1.10_Constraints:solve_before_list|solve_before_list]] ;
+| [[1_Source_text:1.10_Constraints:constraint_expression|constraint_expression]]
 
 ===== Backlinks =====
-[[constraint_block]]
+[[1_Source_text:1.10_Constraints:constraint_block|constraint_block]]

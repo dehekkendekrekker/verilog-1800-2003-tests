@@ -6,7 +6,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 hierarchical_parameter_identifier ::=
-	[[hierarchical_identifier]]
+	[[9_General:9.3_Identifiers:hierarchical_identifier|hierarchical_identifier]]
 
 ===== Backlinks =====
 [[2_Declarations:2.4_Declaration_assignments:defparam_assignment|defparam_assignment]]

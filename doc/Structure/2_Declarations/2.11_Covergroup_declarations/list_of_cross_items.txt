@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.2.11
 
 list_of_cross_items ::=
-	[[cross_item]] , [[cross_item]] { , [[cross_item]] }
+	[[2_Declarations:2.11_Covergroup_declarations:cross_item|cross_item]] , [[2_Declarations:2.11_Covergroup_declarations:cross_item|cross_item]] { , [[2_Declarations:2.11_Covergroup_declarations:cross_item|cross_item]] }
 
 ===== Backlinks =====
-[[cover_cross]]
+[[2_Declarations:2.11_Covergroup_declarations:cover_cross|cover_cross]]

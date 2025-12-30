@@ -11,4 +11,4 @@ udp_reg_declaration ::=
 	{ [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } **reg** [[9_General:9.3_Identifiers:variable_identifier|variable_identifier]]
 
 ===== Backlinks =====
-[[udp_port_declaration]]
+[[5_UDP_declaration_and_instantiation:5.2_UDP_ports:udp_port_declaration|udp_port_declaration]]

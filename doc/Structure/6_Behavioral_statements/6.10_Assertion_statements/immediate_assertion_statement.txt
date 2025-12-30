@@ -6,8 +6,8 @@ Creation-Date: 2025-12-16T21:15:32+00:00
 Created Tuesday 16 December 2025
 
 immediate_assertion_statement ::=
-	[[simple_immediate_assertion_statement]]
-| [[deferred_immediate_assertion_statement]]
+	[[6_Behavioral_statements:6.10_Assertion_statements:simple_immediate_assertion_statement|simple_immediate_assertion_statement]]
+| [[6_Behavioral_statements:6.10_Assertion_statements:deferred_immediate_assertion_statement|deferred_immediate_assertion_statement]]
 
 ===== Backlinks =====
-[[procedural_assertion_statement]]
+[[6_Behavioral_statements:6.10_Assertion_statements:procedural_assertion_statement|procedural_assertion_statement]]

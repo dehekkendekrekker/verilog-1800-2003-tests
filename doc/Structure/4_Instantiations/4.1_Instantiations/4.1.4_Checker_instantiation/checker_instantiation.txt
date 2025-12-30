@@ -2,11 +2,11 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2025-12-16T23:40:24+00:00
 
-====== [[checker_instantiation]] ======
+====== [[4_Instantiations:4.1_Instantiations:4.1.4_Checker_instantiation:checker_instantiation|checker_instantiation]] ======
 Created Tuesday 16 December 2025
 
 checker_instantiation ::=
-	[[9_General:9.3_Identifiers:ps_checker_identifier|ps_checker_identifier]] [[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:name_of_instance|name_of_instance]] ( [ [[list_of_checker_port_connections]] ] )
+	[[9_General:9.3_Identifiers:ps_checker_identifier|ps_checker_identifier]] [[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:name_of_instance|name_of_instance]] ( [ [[4_Instantiations:4.1_Instantiations:4.1.4_Checker_instantiation:list_of_checker_port_connections|list_of_checker_port_connections]] ] )
 
 ===== Backlinks =====
 [[1_Source_text:1.4_Module_items:bind_instantiation|bind_instantiation]]

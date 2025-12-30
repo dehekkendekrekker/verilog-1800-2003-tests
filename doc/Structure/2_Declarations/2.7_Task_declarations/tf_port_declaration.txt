@@ -6,7 +6,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 tf_port_declaration ::=
-	{ [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [[tf_port_direction]] [ **var** ] [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type_or_implicit|data_type_or_implicit]] [[2_Declarations:2.3_Declaration_lists:list_of_tf_variable_identifiers|list_of_tf_variable_identifiers]] ;
+	{ [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [[2_Declarations:2.7_Task_declarations:tf_port_direction|tf_port_direction]] [ **var** ] [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type_or_implicit|data_type_or_implicit]] [[2_Declarations:2.3_Declaration_lists:list_of_tf_variable_identifiers|list_of_tf_variable_identifiers]] ;
 
 ===== Backlinks =====
-[[tf_item_declaration]]
+[[2_Declarations:2.7_Task_declarations:tf_item_declaration|tf_item_declaration]]

@@ -9,7 +9,7 @@ IEEE 1800-2023 Section A.2.11
 
 cross_body_item ::=
 	[[2_Declarations:2.6_Function_declarations:function_declaration|function_declaration]]
-| [[bins_selection_or_option]] ;
+| [[2_Declarations:2.11_Covergroup_declarations:bins_selection_or_option|bins_selection_or_option]] ;
 
 ===== Backlinks =====
-[[cross_body]]
+[[2_Declarations:2.11_Covergroup_declarations:cross_body|cross_body]]

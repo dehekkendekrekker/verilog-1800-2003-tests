@@ -16,4 +16,4 @@ unpacked_dimension ::=
 [[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:name_of_instance|name_of_instance]]
 [[2_Declarations:2.4_Declaration_assignments:net_decl_assignment|net_decl_assignment]]
 [[2_Declarations:2.1_Declaration_types:2.1.3_Type_declarations:net_declaration|net_declaration]]
-[[variable_dimension]]
+[[2_Declarations:2.5_Declaration_ranges:variable_dimension|variable_dimension]]

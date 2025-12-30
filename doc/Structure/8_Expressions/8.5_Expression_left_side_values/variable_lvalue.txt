@@ -7,7 +7,7 @@ Created Friday 27 December 2025
 
 variable_lvalue ::=
 	[ [[8_Expressions:8.4_Primaries:implicit_class_handle|implicit_class_handle]] . | [[9_General:9.3_Identifiers:package_scope|package_scope]] ] [[9_General:9.3_Identifiers:hierarchical_variable_identifier|hierarchical_variable_identifier]] [[8_Expressions:8.4_Primaries:select|select]]
-| { [[variable_lvalue]] { , [[variable_lvalue]] } }
+| { [[8_Expressions:8.5_Expression_left_side_values:variable_lvalue|variable_lvalue]] { , [[8_Expressions:8.5_Expression_left_side_values:variable_lvalue|variable_lvalue]] } }
 | [ [[6_Behavioral_statements:6.7_Case_statements:6.7.1_Patterns:assignment_pattern_expression_type|assignment_pattern_expression_type]] ] [[6_Behavioral_statements:6.7_Case_statements:6.7.1_Patterns:assignment_pattern_variable_lvalue|assignment_pattern_variable_lvalue]]
 | [[8_Expressions:8.1_Concatenations:streaming_concatenation|streaming_concatenation]]
 

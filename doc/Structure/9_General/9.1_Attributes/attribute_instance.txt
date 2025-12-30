@@ -8,7 +8,7 @@ Created Friday 27 December 2025
 IEEE 1800-2023 Section A.9.1
 
 attribute_instance ::=
-	**(**** [[attr_spec]] { **,** [[attr_spec]] } ***)**
+	**(**** [[9_General:9.1_Attributes:attr_spec|attr_spec]] { **,** [[9_General:9.1_Attributes:attr_spec|attr_spec]] } ***)**
 
 ===== Backlinks =====
 [[8_Expressions:8.2_Subroutine_calls:array_manipulation_call|array_manipulation_call]]

@@ -6,8 +6,8 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 case_inside_item ::=
-	[[range_list]] : [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]]
+	[[6_Behavioral_statements:6.7_Case_statements:range_list|range_list]] : [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]]
 | **default** [ : ] [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]]
 
 ===== Backlinks =====
-[[case_statement]]
+[[6_Behavioral_statements:6.7_Case_statements:case_statement|case_statement]]

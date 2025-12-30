@@ -8,11 +8,11 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.6.12
 
 rs_prod ::=
-	[[rs_production_item]]
-| [[rs_code_block]]
-| [[rs_if_else]]
-| [[rs_repeat]]
-| [[rs_case]]
+	[[6_Behavioral_statements:6.12_Randsequence:rs_production_item|rs_production_item]]
+| [[6_Behavioral_statements:6.12_Randsequence:rs_code_block|rs_code_block]]
+| [[6_Behavioral_statements:6.12_Randsequence:rs_if_else|rs_if_else]]
+| [[6_Behavioral_statements:6.12_Randsequence:rs_repeat|rs_repeat]]
+| [[6_Behavioral_statements:6.12_Randsequence:rs_case|rs_case]]
 
 ===== Backlinks =====
-[[rs_production_list]]
+[[6_Behavioral_statements:6.12_Randsequence:rs_production_list|rs_production_list]]

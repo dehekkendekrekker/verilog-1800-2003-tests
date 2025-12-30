@@ -6,13 +6,13 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 checker_or_generate_item ::=
-	[[checker_or_generate_item_declaration]]
+	[[1_Source_text:1.8_Checker_items:checker_or_generate_item_declaration|checker_or_generate_item_declaration]]
 | [[6_Behavioral_statements:6.2_Procedural_blocks_and_assignments:initial_construct|initial_construct]]
 | [[6_Behavioral_statements:6.2_Procedural_blocks_and_assignments:always_construct|always_construct]]
 | [[6_Behavioral_statements:6.2_Procedural_blocks_and_assignments:final_construct|final_construct]]
 | [[6_Behavioral_statements:6.10_Assertion_statements:assertion_item|assertion_item]]
 | [[6_Behavioral_statements:6.1_Continuous_assignment:continuous_assign|continuous_assign]]
-| [[checker_generate_item]]
+| [[1_Source_text:1.8_Checker_items:checker_generate_item|checker_generate_item]]
 
 ===== Backlinks =====
 [[1_Source_text:1.2_SystemVerilog_source_text:checker_declaration|checker_declaration]]

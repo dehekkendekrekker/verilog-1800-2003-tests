@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.2.12
 
 let_port_item ::=
-	{ [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [[let_formal_type]] [[9_General:9.3_Identifiers:formal_port_identifier|formal_port_identifier]] { [[2_Declarations:2.5_Declaration_ranges:variable_dimension|variable_dimension]] } [ **=** [[8_Expressions:8.3_Expressions:expression|expression]] ]
+	{ [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [[2_Declarations:2.12_Let_declarations:let_formal_type|let_formal_type]] [[9_General:9.3_Identifiers:formal_port_identifier|formal_port_identifier]] { [[2_Declarations:2.5_Declaration_ranges:variable_dimension|variable_dimension]] } [ **=** [[8_Expressions:8.3_Expressions:expression|expression]] ]
 
 ===== Backlinks =====
-[[let_port_list]]
+[[2_Declarations:2.12_Let_declarations:let_port_list|let_port_list]]

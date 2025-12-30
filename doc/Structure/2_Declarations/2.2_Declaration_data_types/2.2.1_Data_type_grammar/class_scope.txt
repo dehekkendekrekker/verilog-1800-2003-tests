@@ -6,7 +6,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 class_scope ::=
-	[[class_type]] ::
+	[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:class_type|class_type]] ::
 
 ===== Backlinks =====
 [[6_Behavioral_statements:6.2_Procedural_blocks_and_assignments:blocking_assignment|blocking_assignment]]
@@ -15,7 +15,7 @@ class_scope ::=
 [[8_Expressions:8.4_Primaries:class_qualifier|class_qualifier]]
 [[8_Expressions:8.4_Primaries:constant_primary|constant_primary]]
 [[1_Source_text:1.10_Constraints:constraint_primary|constraint_primary]]
-[[data_type]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type|data_type]]
 [[1_Source_text:1.10_Constraints:extern_constraint_declaration|extern_constraint_declaration]]
 [[2_Declarations:2.6_Function_declarations:function_body_declaration|function_body_declaration]]
 [[2_Declarations:2.11_Covergroup_declarations:hierarchical_btf_identifier|hierarchical_btf_identifier]]

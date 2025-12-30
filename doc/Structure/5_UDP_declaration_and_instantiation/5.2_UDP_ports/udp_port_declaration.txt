@@ -8,9 +8,9 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.5.2
 
 udp_port_declaration ::=
-	[[udp_output_declaration]] ;
-| [[udp_input_declaration]] ;
-| [[udp_reg_declaration]] ;
+	[[5_UDP_declaration_and_instantiation:5.2_UDP_ports:udp_output_declaration|udp_output_declaration]] ;
+| [[5_UDP_declaration_and_instantiation:5.2_UDP_ports:udp_input_declaration|udp_input_declaration]] ;
+| [[5_UDP_declaration_and_instantiation:5.2_UDP_ports:udp_reg_declaration|udp_reg_declaration]] ;
 
 ===== Backlinks =====
 [[5_UDP_declaration_and_instantiation:5.1_UDP_declaration:udp_declaration|udp_declaration]]

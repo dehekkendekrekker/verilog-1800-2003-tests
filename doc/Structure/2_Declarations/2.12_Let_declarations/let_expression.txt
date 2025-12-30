@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.2.12
 
 let_expression ::=
-	[ [[9_General:9.3_Identifiers:package_scope|package_scope]] ] [[let_identifier]] [ **(** [ [[let_list_of_arguments]] ] **)** ]
+	[ [[9_General:9.3_Identifiers:package_scope|package_scope]] ] [[2_Declarations:2.12_Let_declarations:let_identifier|let_identifier]] [ **(** [ [[2_Declarations:2.12_Let_declarations:let_list_of_arguments|let_list_of_arguments]] ] **)** ]
 
 ===== Backlinks =====
 [[8_Expressions:8.4_Primaries:constant_let_expression|constant_let_expression]]

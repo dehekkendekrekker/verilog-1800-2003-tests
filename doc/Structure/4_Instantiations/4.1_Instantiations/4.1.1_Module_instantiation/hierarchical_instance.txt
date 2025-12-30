@@ -8,9 +8,9 @@ Created Friday 27 December 2025
 IEEE 1800-2023 Section A.4.1.1
 
 hierarchical_instance ::=
-	[[name_of_instance]] **(** [ [[list_of_port_connections]] ] **)**
+	[[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:name_of_instance|name_of_instance]] **(** [ [[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:list_of_port_connections|list_of_port_connections]] ] **)**
 
 ===== Backlinks =====
 [[4_Instantiations:4.1_Instantiations:4.1.2_Interface_instantiation:interface_instantiation|interface_instantiation]]
-[[module_instantiation]]
+[[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:module_instantiation|module_instantiation]]
 [[4_Instantiations:4.1_Instantiations:4.1.3_Program_instantiation:program_instantiation|program_instantiation]]

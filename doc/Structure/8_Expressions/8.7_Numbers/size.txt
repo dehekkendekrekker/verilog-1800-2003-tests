@@ -8,10 +8,10 @@ Created Sunday 29 December 2025
 IEEE 1800-2023 Section A.8.7
 
 size ::=
-	[[unsigned_number]]
+	[[8_Expressions:8.7_Numbers:unsigned_number|unsigned_number]]
 
 ===== Backlinks =====
-[[binary_number]]
-[[decimal_number]]
-[[hex_number]]
-[[octal_number]]
+[[8_Expressions:8.7_Numbers:binary_number|binary_number]]
+[[8_Expressions:8.7_Numbers:decimal_number|decimal_number]]
+[[8_Expressions:8.7_Numbers:hex_number|hex_number]]
+[[8_Expressions:8.7_Numbers:octal_number|octal_number]]

@@ -11,4 +11,4 @@ z_or_x ::=
 	x | X | z | Z
 
 ===== Backlinks =====
-[[edge_descriptor]]
+[[7_Specify_section:7.5_System_timing_checks:7.5.3_System_timing_check_event_definitions:edge_descriptor|edge_descriptor]]

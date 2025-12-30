@@ -11,4 +11,4 @@ inst_name ::=
 	[[9_General:9.3_Identifiers:topmodule_identifier|topmodule_identifier]] { **.** [[9_General:9.3_Identifiers:instance_identifier|instance_identifier]] }
 
 ===== Backlinks =====
-[[inst_clause]]
+[[1_Source_text:1.5_Configuration_source_text:inst_clause|inst_clause]]

@@ -11,4 +11,4 @@ variable_identifier_list ::=
 	[[9_General:9.3_Identifiers:variable_identifier|variable_identifier]] { , [[9_General:9.3_Identifiers:variable_identifier|variable_identifier]] }
 
 ===== Backlinks =====
-[[randomize_call]]
+[[8_Expressions:8.2_Subroutine_calls:randomize_call|randomize_call]]

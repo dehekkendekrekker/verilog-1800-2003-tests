@@ -6,11 +6,11 @@ Creation-Date: 2025-12-16T21:36:43+00:00
 Created Tuesday 16 December 2025
 
 module_common_item ::=
-	[[module_or_generate_item_declaration]]
+	[[1_Source_text:1.4_Module_items:module_or_generate_item_declaration|module_or_generate_item_declaration]]
 | [[4_Instantiations:4.1_Instantiations:4.1.2_Interface_instantiation:interface_instantiation|interface_instantiation]]
 | [[4_Instantiations:4.1_Instantiations:4.1.3_Program_instantiation:program_instantiation|program_instantiation]]
 | [[6_Behavioral_statements:6.10_Assertion_statements:assertion_item|assertion_item]]
-| [[bind_directive]]
+| [[1_Source_text:1.4_Module_items:bind_directive|bind_directive]]
 | [[6_Behavioral_statements:6.1_Continuous_assignment:continuous_assign|continuous_assign]]
 | [[6_Behavioral_statements:6.1_Continuous_assignment:net_alias|net_alias]]
 | [[6_Behavioral_statements:6.2_Procedural_blocks_and_assignments:initial_construct|initial_construct]]
@@ -18,8 +18,8 @@ module_common_item ::=
 | [[6_Behavioral_statements:6.2_Procedural_blocks_and_assignments:always_construct|always_construct]]
 | [[4_Instantiations:4.2_Generated_instantiation:loop_generate_construct|loop_generate_construct]]
 | [[4_Instantiations:4.2_Generated_instantiation:conditional_generate_construct|conditional_generate_construct]]
-| [[elaboration_severity_system_task]]
+| [[1_Source_text:1.4_Module_items:elaboration_severity_system_task|elaboration_severity_system_task]]
 
 ===== Backlinks =====
 [[1_Source_text:1.6_Interface_items:interface_or_generate_item|interface_or_generate_item]]
-[[module_or_generate_item]]
+[[1_Source_text:1.4_Module_items:module_or_generate_item|module_or_generate_item]]

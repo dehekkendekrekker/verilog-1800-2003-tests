@@ -6,30 +6,30 @@ Creation-Date: 2025-12-22T00:00:00+00:00
 Created Sunday 22 December 2025
 
 data_type ::=
-	[[integer_vector_type]] [ [[signing]] ] { [[2_Declarations:2.5_Declaration_ranges:packed_dimension|packed_dimension]] }
-| [[integer_atom_type]] [ [[signing]] ]
-| [[non_integer_type]]
-| [[struct_union]] [ **packed** [ [[signing]] ] ] **{** [[struct_union_member]] { [[struct_union_member]] } **}** { [[2_Declarations:2.5_Declaration_ranges:packed_dimension|packed_dimension]] }
-| **enum** [ [[enum_base_type]] ] **{** [[enum_name_declaration]] { **,** [[enum_name_declaration]] } **}** { [[2_Declarations:2.5_Declaration_ranges:packed_dimension|packed_dimension]] }
+	[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:integer_vector_type|integer_vector_type]] [ [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:signing|signing]] ] { [[2_Declarations:2.5_Declaration_ranges:packed_dimension|packed_dimension]] }
+| [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:integer_atom_type|integer_atom_type]] [ [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:signing|signing]] ]
+| [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:non_integer_type|non_integer_type]]
+| [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:struct_union|struct_union]] [ **packed** [ [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:signing|signing]] ] ] **{** [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:struct_union_member|struct_union_member]] { [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:struct_union_member|struct_union_member]] } **}** { [[2_Declarations:2.5_Declaration_ranges:packed_dimension|packed_dimension]] }
+| **enum** [ [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:enum_base_type|enum_base_type]] ] **{** [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:enum_name_declaration|enum_name_declaration]] { **,** [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:enum_name_declaration|enum_name_declaration]] } **}** { [[2_Declarations:2.5_Declaration_ranges:packed_dimension|packed_dimension]] }
 | **string**
 | **chandle**
 | **virtual** [ **interface** ] [[9_General:9.3_Identifiers:interface_identifier|interface_identifier]] [ [[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:parameter_value_assignment|parameter_value_assignment]] ] [ **.** [[9_General:9.3_Identifiers:modport_identifier|modport_identifier]] ]
-| [ [[class_scope|class_scope]] | [[9_General:9.3_Identifiers:package_scope|package_scope]] ] [[9_General:9.3_Identifiers:type_identifier|type_identifier]] { [[2_Declarations:2.5_Declaration_ranges:packed_dimension|packed_dimension]] }
-| [[class_type]]
+| [ [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:class_scope|class_scope]] | [[9_General:9.3_Identifiers:package_scope|package_scope]] ] [[9_General:9.3_Identifiers:type_identifier|type_identifier]] { [[2_Declarations:2.5_Declaration_ranges:packed_dimension|packed_dimension]] }
+| [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:class_type|class_type]]
 | **event**
 | [[9_General:9.3_Identifiers:ps_covergroup_identifier|ps_covergroup_identifier]]
-| [[type_reference]]
+| [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:type_reference|type_reference]]
 
 ===== Backlinks =====
 [[2_Declarations:2.5_Declaration_ranges:associative_dimension|associative_dimension]]
 [[1_Source_text:1.9_Class_items:class_property|class_property]]
 [[8_Expressions:8.3_Expressions:constant_param_expression|constant_param_expression]]
-[[data_type_or_implicit]]
-[[data_type_or_incomplete_class_scoped_type]]
-[[data_type_or_void]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type_or_implicit|data_type_or_implicit]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type_or_incomplete_class_scoped_type|data_type_or_incomplete_class_scoped_type]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type_or_void|data_type_or_void]]
 [[6_Behavioral_statements:6.8_Looping_statements:for_variable_declaration|for_variable_declaration]]
 [[2_Declarations:2.1_Declaration_types:2.1.3_Type_declarations:nettype_declaration|nettype_declaration]]
 [[8_Expressions:8.3_Expressions:param_expression|param_expression]]
 [[1_Source_text:1.3_Module_parameters_and_ports:parameter_port_declaration|parameter_port_declaration]]
 [[8_Expressions:8.2_Subroutine_calls:system_tf_call|system_tf_call]]
-[[var_data_type]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:var_data_type|var_data_type]]

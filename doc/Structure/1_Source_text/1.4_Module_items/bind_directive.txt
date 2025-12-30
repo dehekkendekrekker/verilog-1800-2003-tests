@@ -6,9 +6,9 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 bind_directive ::=
-	**bind** [[bind_target_scope]] [ **:** [[bind_target_instance_list]] ] [[bind_instantiation]] **;**
-| **bind** [[bind_target_instance]] [[bind_instantiation]] **;**
+	**bind** [[1_Source_text:1.4_Module_items:bind_target_scope|bind_target_scope]] [ **:** [[1_Source_text:1.4_Module_items:bind_target_instance_list|bind_target_instance_list]] ] [[1_Source_text:1.4_Module_items:bind_instantiation|bind_instantiation]] **;**
+| **bind** [[1_Source_text:1.4_Module_items:bind_target_instance|bind_target_instance]] [[1_Source_text:1.4_Module_items:bind_instantiation|bind_instantiation]] **;**
 
 ===== Backlinks =====
 [[1_Source_text:1.2_SystemVerilog_source_text:description|description]]
-[[module_common_item]]
+[[1_Source_text:1.4_Module_items:module_common_item|module_common_item]]

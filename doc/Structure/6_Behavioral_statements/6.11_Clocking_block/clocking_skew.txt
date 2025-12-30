@@ -12,5 +12,5 @@ clocking_skew ::=
 | [[6_Behavioral_statements:6.5_Timing_control_statements:delay_control|delay_control]]
 
 ===== Backlinks =====
-[[clocking_direction]]
-[[default_skew]]
+[[6_Behavioral_statements:6.11_Clocking_block:clocking_direction|clocking_direction]]
+[[6_Behavioral_statements:6.11_Clocking_block:default_skew|default_skew]]

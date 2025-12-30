@@ -9,4 +9,4 @@ constraint_prototype_qualifier ::=
 	**extern** | **pure**
 
 ===== Backlinks =====
-[[constraint_prototype]]
+[[1_Source_text:1.10_Constraints:constraint_prototype|constraint_prototype]]

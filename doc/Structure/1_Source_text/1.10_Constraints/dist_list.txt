@@ -6,7 +6,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 dist_list ::=
-	[[dist_item]] { , [[dist_item]] }
+	[[1_Source_text:1.10_Constraints:dist_item|dist_item]] { , [[1_Source_text:1.10_Constraints:dist_item|dist_item]] }
 
 ===== Backlinks =====
-[[expression_or_dist]]
+[[1_Source_text:1.10_Constraints:expression_or_dist|expression_or_dist]]

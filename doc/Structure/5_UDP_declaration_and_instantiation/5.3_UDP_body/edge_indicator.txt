@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.5.3
 
 edge_indicator ::=
-	( [[level_symbol]] [[level_symbol]] ) | [[edge_symbol]]
+	( [[5_UDP_declaration_and_instantiation:5.3_UDP_body:level_symbol|level_symbol]] [[5_UDP_declaration_and_instantiation:5.3_UDP_body:level_symbol|level_symbol]] ) | [[5_UDP_declaration_and_instantiation:5.3_UDP_body:edge_symbol|edge_symbol]]
 
 ===== Backlinks =====
-[[edge_input_list]]
+[[5_UDP_declaration_and_instantiation:5.3_UDP_body:edge_input_list|edge_input_list]]

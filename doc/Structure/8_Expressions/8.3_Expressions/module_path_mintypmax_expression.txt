@@ -8,8 +8,8 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.8.3
 
 module_path_mintypmax_expression ::=
-	[[module_path_expression]]
-| [[module_path_expression]] **:** [[module_path_expression]] **:** [[module_path_expression]]
+	[[8_Expressions:8.3_Expressions:module_path_expression|module_path_expression]]
+| [[8_Expressions:8.3_Expressions:module_path_expression|module_path_expression]] **:** [[8_Expressions:8.3_Expressions:module_path_expression|module_path_expression]] **:** [[8_Expressions:8.3_Expressions:module_path_expression|module_path_expression]]
 
 ===== Backlinks =====
 [[8_Expressions:8.4_Primaries:module_path_primary|module_path_primary]]

@@ -6,19 +6,19 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 interface_declaration ::=
-	[[interface_nonansi_header]]
-[ [[timeunits_declaration]] ] { [[1_Source_text:1.6_Interface_items:interface_item|interface_item]] }
+	[[1_Source_text:1.2_SystemVerilog_source_text:interface_nonansi_header|interface_nonansi_header]]
+[ [[1_Source_text:1.2_SystemVerilog_source_text:timeunits_declaration|timeunits_declaration]] ] { [[1_Source_text:1.6_Interface_items:interface_item|interface_item]] }
 **endinterface** [ : [[9_General:9.3_Identifiers:interface_identifier|interface_identifier]] ]
-| [[interface_ansi_header]]
-[ [[timeunits_declaration]] ] { [[1_Source_text:1.6_Interface_items:non_port_interface_item|non_port_interface_item]] }
+| [[1_Source_text:1.2_SystemVerilog_source_text:interface_ansi_header|interface_ansi_header]]
+[ [[1_Source_text:1.2_SystemVerilog_source_text:timeunits_declaration|timeunits_declaration]] ] { [[1_Source_text:1.6_Interface_items:non_port_interface_item|non_port_interface_item]] }
 **endinterface** [ : [[9_General:9.3_Identifiers:interface_identifier|interface_identifier]] ]
 | { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } **interface** [[9_General:9.3_Identifiers:interface_identifier|interface_identifier]] ( . * ) ;
-[ [[timeunits_declaration]] ] { [[1_Source_text:1.6_Interface_items:interface_item|interface_item]] }
+[ [[1_Source_text:1.2_SystemVerilog_source_text:timeunits_declaration|timeunits_declaration]] ] { [[1_Source_text:1.6_Interface_items:interface_item|interface_item]] }
 **endinterface** [ : [[9_General:9.3_Identifiers:interface_identifier|interface_identifier]] ]
-| **extern** [[interface_nonansi_header]]
-| **extern** [[interface_ansi_header]]
+| **extern** [[1_Source_text:1.2_SystemVerilog_source_text:interface_nonansi_header|interface_nonansi_header]]
+| **extern** [[1_Source_text:1.2_SystemVerilog_source_text:interface_ansi_header|interface_ansi_header]]
 
 ===== Backlinks =====
-[[description]]
+[[1_Source_text:1.2_SystemVerilog_source_text:description|description]]
 [[1_Source_text:1.6_Interface_items:non_port_interface_item|non_port_interface_item]]
 [[1_Source_text:1.4_Module_items:non_port_module_item|non_port_module_item]]

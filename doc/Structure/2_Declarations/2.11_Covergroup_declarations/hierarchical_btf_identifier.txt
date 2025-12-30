@@ -13,4 +13,4 @@ hierarchical_btf_identifier ::=
 | [ [[9_General:9.3_Identifiers:hierarchical_identifier|hierarchical_identifier]] . | [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:class_scope|class_scope]] ] [[9_General:9.3_Identifiers:method_identifier|method_identifier]]
 
 ===== Backlinks =====
-[[block_event_expression]]
+[[2_Declarations:2.11_Covergroup_declarations:block_event_expression|block_event_expression]]

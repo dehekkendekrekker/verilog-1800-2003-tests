@@ -8,10 +8,10 @@ Created Friday 27 December 2025
 IEEE 1800-2023 Section A.1.1
 
 library_description ::=
-	[[library_declaration]]
-| [[include_statement]]
+	[[1_Source_text:1.1_Library_source_text:library_declaration|library_declaration]]
+| [[1_Source_text:1.1_Library_source_text:include_statement|include_statement]]
 | [[1_Source_text:1.5_Configuration_source_text:config_declaration|config_declaration]]
 | **;**
 
 ===== Backlinks =====
-[[library_text]]
+[[1_Source_text:1.1_Library_source_text:library_text|library_text]]

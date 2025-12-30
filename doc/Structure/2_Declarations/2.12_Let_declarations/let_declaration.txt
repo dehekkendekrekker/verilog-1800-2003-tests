@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.2.12
 
 let_declaration ::=
-	**let** [[let_identifier]] [ **(** [ [[let_port_list]] ] **)** ] **=** [[8_Expressions:8.3_Expressions:expression|expression]] **;**
+	**let** [[2_Declarations:2.12_Let_declarations:let_identifier|let_identifier]] [ **(** [ [[2_Declarations:2.12_Let_declarations:let_port_list|let_port_list]] ] **)** ] **=** [[8_Expressions:8.3_Expressions:expression|expression]] **;**
 
 ===== Backlinks =====
 [[2_Declarations:2.10_Assertion_declarations:assertion_item_declaration|assertion_item_declaration]]

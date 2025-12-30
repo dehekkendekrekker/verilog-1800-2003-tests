@@ -6,7 +6,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 class_constructor_declaration ::=
-	**function** [ [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:class_scope|class_scope]] ] **new** [ **(** [ [[class_constructor_arg_list]] ] **)** ] **;**
+	**function** [ [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:class_scope|class_scope]] ] **new** [ **(** [ [[1_Source_text:1.9_Class_items:class_constructor_arg_list|class_constructor_arg_list]] ] **)** ] **;**
 { [[2_Declarations:2.8_Block_item_declarations:block_item_declaration|block_item_declaration]] }
 [ **super** **.** **new** [ **(** [ [[8_Expressions:8.2_Subroutine_calls:list_of_arguments|list_of_arguments]] | **default** ] **)** ] **;** ]
 { [[6_Behavioral_statements:6.4_Statements:function_statement_or_null|function_statement_or_null]] }
@@ -14,5 +14,5 @@ class_constructor_declaration ::=
 
 ===== Backlinks =====
 [[1_Source_text:1.11_Package_items:anonymous_program_item|anonymous_program_item]]
-[[class_method]]
+[[1_Source_text:1.9_Class_items:class_method|class_method]]
 [[1_Source_text:1.11_Package_items:package_or_generate_item_declaration|package_or_generate_item_declaration]]

@@ -10,4 +10,4 @@ function_data_type_or_implicit ::=
 | [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:implicit_data_type|implicit_data_type]]
 
 ===== Backlinks =====
-[[function_body_declaration]]
+[[2_Declarations:2.6_Function_declarations:function_body_declaration|function_body_declaration]]

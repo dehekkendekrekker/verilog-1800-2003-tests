@@ -10,4 +10,4 @@ property_lvar_port_direction ::=
 
 
 ===== Backlinks =====
-[[property_port_item]]
+[[2_Declarations:2.10_Assertion_declarations:property_port_item|property_port_item]]

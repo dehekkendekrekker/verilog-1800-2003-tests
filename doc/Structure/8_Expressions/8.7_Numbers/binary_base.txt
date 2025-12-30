@@ -11,4 +11,4 @@ binary_base ::=
 	**'** [ **s** | **S** ] **b** | **'** [ **s** | **S** ] **B**
 
 ===== Backlinks =====
-[[binary_number]]
+[[8_Expressions:8.7_Numbers:binary_number|binary_number]]

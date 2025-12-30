@@ -13,6 +13,6 @@ class_type ::=
 
 ===== Backlinks =====
 [[1_Source_text:1.2_SystemVerilog_source_text:class_declaration|class_declaration]]
-[[class_scope]]
-[[data_type]]
-[[type_identifier_or_class_type]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:class_scope|class_scope]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type|data_type]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:type_identifier_or_class_type|type_identifier_or_class_type]]

@@ -10,4 +10,4 @@ class_constraint ::=
 | [[1_Source_text:1.10_Constraints:constraint_declaration|constraint_declaration]]
 
 ===== Backlinks =====
-[[class_item]]
+[[1_Source_text:1.9_Class_items:class_item|class_item]]

@@ -13,4 +13,4 @@ use_clause ::=
 | **use** [ [[9_General:9.3_Identifiers:library_identifier|library_identifier]] **.** ] [[9_General:9.3_Identifiers:cell_identifier|cell_identifier]] [[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:named_parameter_assignment|named_parameter_assignment]] { **,** [[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:named_parameter_assignment|named_parameter_assignment]] } [ **:** **config** ]
 
 ===== Backlinks =====
-[[config_rule_statement]]
+[[1_Source_text:1.5_Configuration_source_text:config_rule_statement|config_rule_statement]]

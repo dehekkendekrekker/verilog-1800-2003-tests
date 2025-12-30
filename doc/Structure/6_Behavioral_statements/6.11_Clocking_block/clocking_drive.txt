@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.6.11
 
 clocking_drive ::=
-	[[clockvar_expression]] **<=** [ [[cycle_delay]] ] [[8_Expressions:8.3_Expressions:expression|expression]]
+	[[6_Behavioral_statements:6.11_Clocking_block:clockvar_expression|clockvar_expression]] **<=** [ [[6_Behavioral_statements:6.11_Clocking_block:cycle_delay|cycle_delay]] ] [[8_Expressions:8.3_Expressions:expression|expression]]
 
 ===== Backlinks =====
 [[6_Behavioral_statements:6.4_Statements:statement_item|statement_item]]

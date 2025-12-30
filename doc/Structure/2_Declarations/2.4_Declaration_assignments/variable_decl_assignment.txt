@@ -8,8 +8,8 @@ Created Friday 27 December 2025
 variable_decl_assignment ::=
 	[[9_General:9.3_Identifiers:variable_identifier|variable_identifier]] { [[2_Declarations:2.5_Declaration_ranges:variable_dimension|variable_dimension]] } [ = [[8_Expressions:8.3_Expressions:expression|expression]] ]
 | [[9_General:9.3_Identifiers:dynamic_array_variable_identifier|dynamic_array_variable_identifier]] [[2_Declarations:2.5_Declaration_ranges:unsized_dimension|unsized_dimension]] { [[2_Declarations:2.5_Declaration_ranges:variable_dimension|variable_dimension]] }
-[ = [[dynamic_array_new]] ]
-| [[9_General:9.3_Identifiers:class_variable_identifier|class_variable_identifier]] [ = [[class_new]] ]
+[ = [[2_Declarations:2.4_Declaration_assignments:dynamic_array_new|dynamic_array_new]] ]
+| [[9_General:9.3_Identifiers:class_variable_identifier|class_variable_identifier]] [ = [[2_Declarations:2.4_Declaration_assignments:class_new|class_new]] ]
 
 ===== Backlinks =====
 [[2_Declarations:2.3_Declaration_lists:list_of_variable_decl_assignments|list_of_variable_decl_assignments]]

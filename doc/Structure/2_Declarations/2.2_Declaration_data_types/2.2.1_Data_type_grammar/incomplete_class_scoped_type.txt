@@ -8,8 +8,8 @@ Created Friday 27 December 2025
 IEEE 1800-2023 Section A.2.2.1
 
 incomplete_class_scoped_type ::=
-	[[9_General:9.3_Identifiers:type_identifier|type_identifier]] **::** [[type_identifier_or_class_type]]
-| [[incomplete_class_scoped_type]] **::** [[type_identifier_or_class_type]]
+	[[9_General:9.3_Identifiers:type_identifier|type_identifier]] **::** [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:type_identifier_or_class_type|type_identifier_or_class_type]]
+| [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:incomplete_class_scoped_type|incomplete_class_scoped_type]] **::** [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:type_identifier_or_class_type|type_identifier_or_class_type]]
 
 ===== Backlinks =====
-[[data_type_or_incomplete_class_scoped_type]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type_or_incomplete_class_scoped_type|data_type_or_incomplete_class_scoped_type]]

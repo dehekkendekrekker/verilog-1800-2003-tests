@@ -9,4 +9,4 @@ port_reference ::=
 	[[9_General:9.3_Identifiers:port_identifier|port_identifier]] [[8_Expressions:8.4_Primaries:constant_select|constant_select]]
 
 ===== Backlinks =====
-[[port_expression]]
+[[1_Source_text:1.3_Module_parameters_and_ports:port_expression|port_expression]]

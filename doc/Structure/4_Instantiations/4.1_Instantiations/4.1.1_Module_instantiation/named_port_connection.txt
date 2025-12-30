@@ -12,4 +12,4 @@ named_port_connection ::=
 | { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } **.\***
 
 ===== Backlinks =====
-[[list_of_port_connections]]
+[[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:list_of_port_connections|list_of_port_connections]]

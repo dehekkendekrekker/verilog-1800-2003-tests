@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.9.3
 
 input_port_identifier ::=
-	[[identifier]]
+	[[9_General:9.3_Identifiers:identifier|identifier]]
 
 ===== Backlinks =====
 [[7_Specify_section:7.3_Specify_block_terminals:input_identifier|input_identifier]]

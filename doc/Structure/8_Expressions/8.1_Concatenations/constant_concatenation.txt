@@ -9,5 +9,5 @@ constant_concatenation ::=
 	{ [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] { , [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] } }
 
 ===== Backlinks =====
-[[constant_multiple_concatenation]]
+[[8_Expressions:8.1_Concatenations:constant_multiple_concatenation|constant_multiple_concatenation]]
 [[8_Expressions:8.4_Primaries:constant_primary|constant_primary]]

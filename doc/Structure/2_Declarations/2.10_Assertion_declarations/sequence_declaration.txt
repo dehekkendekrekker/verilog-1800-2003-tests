@@ -8,9 +8,9 @@ Created Tuesday 16 December 2025
 IEEE 1800-2023 Section A.2.10, 16.8
 
 sequence_declaration ::=
-	**sequence** [[9_General:9.3_Identifiers:sequence_identifier|sequence_identifier]] [ ( [ [[sequence_port_list]] ] ) ] ;
-	{ [[assertion_variable_declaration]] }
-	[[sequence_expr]] [ ; ]
+	**sequence** [[9_General:9.3_Identifiers:sequence_identifier|sequence_identifier]] [ ( [ [[2_Declarations:2.10_Assertion_declarations:sequence_port_list|sequence_port_list]] ] ) ] ;
+	{ [[2_Declarations:2.10_Assertion_declarations:assertion_variable_declaration|assertion_variable_declaration]] }
+	[[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]] [ ; ]
 	**endsequence** [ : [[9_General:9.3_Identifiers:sequence_identifier|sequence_identifier]] ]
 
 ===== Permutations =====
@@ -57,9 +57,9 @@ sequence s(untyped expr);
 endsequence
 
 ===== SVA-relevant paths =====
-[[sequence_port_list]]
-[[assertion_variable_declaration]]
-[[sequence_expr]]
+[[2_Declarations:2.10_Assertion_declarations:sequence_port_list|sequence_port_list]]
+[[2_Declarations:2.10_Assertion_declarations:assertion_variable_declaration|assertion_variable_declaration]]
+[[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]]
 
 ===== Backlinks =====
-[[assertion_item_declaration]]
+[[2_Declarations:2.10_Assertion_declarations:assertion_item_declaration|assertion_item_declaration]]

@@ -6,7 +6,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 solve_before_list ::=
-	[[constraint_primary]] { , [[constraint_primary]] }
+	[[1_Source_text:1.10_Constraints:constraint_primary|constraint_primary]] { , [[1_Source_text:1.10_Constraints:constraint_primary|constraint_primary]] }
 
 ===== Backlinks =====
-[[constraint_block_item]]
+[[1_Source_text:1.10_Constraints:constraint_block_item|constraint_block_item]]

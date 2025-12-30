@@ -8,10 +8,10 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.7.3
 
 specify_output_terminal_descriptor ::=
-	[[output_identifier]] [ [ [[8_Expressions:8.3_Expressions:constant_range_expression|constant_range_expression]] ] ]
+	[[7_Specify_section:7.3_Specify_block_terminals:output_identifier|output_identifier]] [ [ [[8_Expressions:8.3_Expressions:constant_range_expression|constant_range_expression]] ] ]
 
 ===== Backlinks =====
-[[list_of_path_outputs]]
+[[7_Specify_section:7.3_Specify_block_terminals:list_of_path_outputs|list_of_path_outputs]]
 [[7_Specify_section:7.2_Specify_path_declarations:parallel_edge_sensitive_path_description|parallel_edge_sensitive_path_description]]
 [[7_Specify_section:7.2_Specify_path_declarations:parallel_path_description|parallel_path_description]]
 [[2_Declarations:2.4_Declaration_assignments:pulse_control_specparam|pulse_control_specparam]]

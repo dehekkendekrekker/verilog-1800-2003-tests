@@ -9,7 +9,7 @@ blocking_assignment ::=
 	[[8_Expressions:8.5_Expression_left_side_values:variable_lvalue|variable_lvalue]] = [[6_Behavioral_statements:6.5_Timing_control_statements:delay_or_event_control|delay_or_event_control]] [[8_Expressions:8.3_Expressions:expression|expression]]
 | [[8_Expressions:8.5_Expression_left_side_values:nonrange_variable_lvalue|nonrange_variable_lvalue]] = [[2_Declarations:2.4_Declaration_assignments:dynamic_array_new|dynamic_array_new]]
 | [ [[8_Expressions:8.4_Primaries:implicit_class_handle|implicit_class_handle]] . | [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:class_scope|class_scope]] | [[9_General:9.3_Identifiers:package_scope|package_scope]] ] [[9_General:9.3_Identifiers:hierarchical_variable_identifier|hierarchical_variable_identifier]] select = [[2_Declarations:2.4_Declaration_assignments:class_new|class_new]]
-| [[operator_assignment]]
+| [[6_Behavioral_statements:6.2_Procedural_blocks_and_assignments:operator_assignment|operator_assignment]]
 | [[8_Expressions:8.3_Expressions:inc_or_dec_expression|inc_or_dec_expression]]
 
 ===== Backlinks =====

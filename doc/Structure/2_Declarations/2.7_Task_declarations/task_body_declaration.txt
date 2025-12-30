@@ -7,13 +7,13 @@ Created Friday 27 December 2025
 
 task_body_declaration ::=
 	[ [[9_General:9.3_Identifiers:interface_identifier|interface_identifier]] . | [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:class_scope|class_scope]] ] [[9_General:9.3_Identifiers:task_identifier|task_identifier]] ;
-{ [[tf_item_declaration]] }
+{ [[2_Declarations:2.7_Task_declarations:tf_item_declaration|tf_item_declaration]] }
 { [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]] }
 **endtask** [ : [[9_General:9.3_Identifiers:task_identifier|task_identifier]] ]
-| [ [[9_General:9.3_Identifiers:interface_identifier|interface_identifier]] . | [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:class_scope|class_scope]] ] [[9_General:9.3_Identifiers:task_identifier|task_identifier]] ( [ [[tf_port_list]] ] ) ;
+| [ [[9_General:9.3_Identifiers:interface_identifier|interface_identifier]] . | [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:class_scope|class_scope]] ] [[9_General:9.3_Identifiers:task_identifier|task_identifier]] ( [ [[2_Declarations:2.7_Task_declarations:tf_port_list|tf_port_list]] ] ) ;
 { [[2_Declarations:2.8_Block_item_declarations:block_item_declaration|block_item_declaration]] }
 { [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]] }
 **endtask** [ : [[9_General:9.3_Identifiers:task_identifier|task_identifier]] ]
 
 ===== Backlinks =====
-[[task_declaration]]
+[[2_Declarations:2.7_Task_declarations:task_declaration|task_declaration]]

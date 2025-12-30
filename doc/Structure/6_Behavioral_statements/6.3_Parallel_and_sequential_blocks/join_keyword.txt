@@ -9,4 +9,4 @@ join_keyword ::=
 	**join** | **join_any** | **join_none**
 
 ===== Backlinks =====
-[[par_block]]
+[[6_Behavioral_statements:6.3_Parallel_and_sequential_blocks:par_block|par_block]]

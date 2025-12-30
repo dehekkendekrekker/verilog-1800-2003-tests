@@ -8,7 +8,7 @@ Created Friday 27 December 2025
 clocking_event ::=
 	@ [[9_General:9.3_Identifiers:ps_identifier|ps_identifier]]
 | @ [[9_General:9.3_Identifiers:hierarchical_identifier|hierarchical_identifier]]
-| @ ( [[event_expression]] )
+| @ ( [[6_Behavioral_statements:6.5_Timing_control_statements:event_expression|event_expression]] )
 
 ===== Backlinks =====
 [[2_Declarations:2.10_Assertion_declarations:assert_property_statement|assert_property_statement]]
@@ -17,7 +17,7 @@ clocking_event ::=
 [[2_Declarations:2.10_Assertion_declarations:cover_property_statement|cover_property_statement]]
 [[2_Declarations:2.10_Assertion_declarations:cover_sequence_statement|cover_sequence_statement]]
 [[2_Declarations:2.11_Covergroup_declarations:coverage_event|coverage_event]]
-[[event_control]]
+[[6_Behavioral_statements:6.5_Timing_control_statements:event_control|event_control]]
 [[2_Declarations:2.10_Assertion_declarations:expect_property_statement|expect_property_statement]]
 [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
 [[2_Declarations:2.10_Assertion_declarations:property_spec|property_spec]]

@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.2.2.1
 
 struct_union_member ::=
-	{ [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [ [[1_Source_text:1.9_Class_items:random_qualifier|random_qualifier]] ] [[data_type_or_void]] [[2_Declarations:2.3_Declaration_lists:list_of_variable_decl_assignments|list_of_variable_decl_assignments]] **;**
+	{ [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [ [[1_Source_text:1.9_Class_items:random_qualifier|random_qualifier]] ] [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type_or_void|data_type_or_void]] [[2_Declarations:2.3_Declaration_lists:list_of_variable_decl_assignments|list_of_variable_decl_assignments]] **;**
 
 ===== Backlinks =====
-[[data_type]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type|data_type]]

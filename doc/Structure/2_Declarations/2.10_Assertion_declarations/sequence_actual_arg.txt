@@ -7,11 +7,11 @@ Created Tuesday 16 December 2025
 
 sequence_actual_arg ::=
 	[[6_Behavioral_statements:6.5_Timing_control_statements:event_expression|event_expression]]
-| [[sequence_expr]]
+| [[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]]
 | **$**
 
 
 ===== Backlinks =====
-[[property_actual_arg]]
-[[sequence_list_of_arguments]]
-[[sequence_port_item]]
+[[2_Declarations:2.10_Assertion_declarations:property_actual_arg|property_actual_arg]]
+[[2_Declarations:2.10_Assertion_declarations:sequence_list_of_arguments|sequence_list_of_arguments]]
+[[2_Declarations:2.10_Assertion_declarations:sequence_port_item|sequence_port_item]]

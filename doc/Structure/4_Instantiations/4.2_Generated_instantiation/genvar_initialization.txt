@@ -11,4 +11,4 @@ genvar_initialization ::=
 	[ **genvar** ] [[9_General:9.3_Identifiers:genvar_identifier|genvar_identifier]] = [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]]
 
 ===== Backlinks =====
-[[loop_generate_construct]]
+[[4_Instantiations:4.2_Generated_instantiation:loop_generate_construct|loop_generate_construct]]

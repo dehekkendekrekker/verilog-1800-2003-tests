@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.2.4
 
 error_limit_value ::=
-	[[limit_value]]
+	[[2_Declarations:2.4_Declaration_assignments:limit_value|limit_value]]
 
 ===== Backlinks =====
-[[pulse_control_specparam]]
+[[2_Declarations:2.4_Declaration_assignments:pulse_control_specparam|pulse_control_specparam]]

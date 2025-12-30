@@ -10,4 +10,4 @@ dynamic_array_new ::=
 
 ===== Backlinks =====
 [[6_Behavioral_statements:6.2_Procedural_blocks_and_assignments:blocking_assignment|blocking_assignment]]
-[[variable_decl_assignment]]
+[[2_Declarations:2.4_Declaration_assignments:variable_decl_assignment|variable_decl_assignment]]

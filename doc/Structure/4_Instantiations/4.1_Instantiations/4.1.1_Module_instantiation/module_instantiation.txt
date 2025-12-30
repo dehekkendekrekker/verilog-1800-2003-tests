@@ -6,7 +6,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 module_instantiation ::=
-	[[9_General:9.3_Identifiers:module_identifier|module_identifier]] [ [[parameter_value_assignment]] ] [[hierarchical_instance]] { , [[hierarchical_instance]] } ;
+	[[9_General:9.3_Identifiers:module_identifier|module_identifier]] [ [[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:parameter_value_assignment|parameter_value_assignment]] ] [[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:hierarchical_instance|hierarchical_instance]] { , [[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:hierarchical_instance|hierarchical_instance]] } ;
 
 ===== Backlinks =====
 [[1_Source_text:1.4_Module_items:bind_instantiation|bind_instantiation]]

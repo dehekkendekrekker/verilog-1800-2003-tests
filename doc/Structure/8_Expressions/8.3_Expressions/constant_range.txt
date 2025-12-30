@@ -6,11 +6,11 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 constant_range ::=
-	[[constant_expression|constant_expression]] : [[constant_expression|constant_expression]]
+	[[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] : [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]]
 
 ===== Backlinks =====
-[[constant_part_select_range]]
+[[8_Expressions:8.3_Expressions:constant_part_select_range|constant_part_select_range]]
 [[2_Declarations:2.5_Declaration_ranges:packed_dimension|packed_dimension]]
-[[part_select_range]]
+[[8_Expressions:8.3_Expressions:part_select_range|part_select_range]]
 [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
 [[2_Declarations:2.5_Declaration_ranges:unpacked_dimension|unpacked_dimension]]

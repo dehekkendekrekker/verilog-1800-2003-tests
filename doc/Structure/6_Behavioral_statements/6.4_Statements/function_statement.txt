@@ -6,7 +6,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 function_statement ::=
-	[[statement]]
+	[[6_Behavioral_statements:6.4_Statements:statement|statement]]
 
 ===== Backlinks =====
-[[function_statement_or_null]]
+[[6_Behavioral_statements:6.4_Statements:function_statement_or_null|function_statement_or_null]]

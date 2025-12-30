@@ -6,7 +6,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 cover_cross ::=
-	[ [[9_General:9.3_Identifiers:cross_identifier|cross_identifier]] : ] **cross** [[list_of_cross_items]] [ **iff** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) ] [[cross_body]]
+	[ [[9_General:9.3_Identifiers:cross_identifier|cross_identifier]] : ] **cross** [[2_Declarations:2.11_Covergroup_declarations:list_of_cross_items|list_of_cross_items]] [ **iff** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) ] [[2_Declarations:2.11_Covergroup_declarations:cross_body|cross_body]]
 
 ===== Backlinks =====
-[[coverage_spec]]
+[[2_Declarations:2.11_Covergroup_declarations:coverage_spec|coverage_spec]]

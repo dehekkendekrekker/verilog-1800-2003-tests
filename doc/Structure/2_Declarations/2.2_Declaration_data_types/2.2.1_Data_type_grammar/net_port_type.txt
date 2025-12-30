@@ -6,9 +6,9 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 net_port_type ::=
-	[ [[net_type]] ] [[data_type_or_implicit]]
+	[ [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:net_type|net_type]] ] [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type_or_implicit|data_type_or_implicit]]
 | [[9_General:9.3_Identifiers:nettype_identifier|nettype_identifier]]
-| **interconnect** [[implicit_data_type]]
+| **interconnect** [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:implicit_data_type|implicit_data_type]]
 
 ===== Backlinks =====
 [[2_Declarations:2.1_Declaration_types:2.1.2_Port_declarations:inout_declaration|inout_declaration]]

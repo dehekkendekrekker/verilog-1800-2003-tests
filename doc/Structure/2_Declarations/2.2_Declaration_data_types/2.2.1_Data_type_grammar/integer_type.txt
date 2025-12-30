@@ -8,8 +8,8 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.2.2.1
 
 integer_type ::=
-	[[integer_vector_type]]
-| [[integer_atom_type]]
+	[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:integer_vector_type|integer_vector_type]]
+| [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:integer_atom_type|integer_atom_type]]
 
 ===== Backlinks =====
-[[simple_type]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:simple_type|simple_type]]

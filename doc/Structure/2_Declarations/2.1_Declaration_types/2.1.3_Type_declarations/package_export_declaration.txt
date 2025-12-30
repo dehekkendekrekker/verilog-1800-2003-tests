@@ -7,7 +7,7 @@ Created Friday 27 December 2025
 
 package_export_declaration ::=
 	**export** * :: * ;
-| **export** [[package_import_item|package_import_item]] { , [[package_import_item|package_import_item]] } ;
+| **export** [[2_Declarations:2.1_Declaration_types:2.1.3_Type_declarations:package_import_item|package_import_item]] { , [[2_Declarations:2.1_Declaration_types:2.1.3_Type_declarations:package_import_item|package_import_item]] } ;
 
 ===== Backlinks =====
 [[1_Source_text:1.11_Package_items:package_item|package_item]]

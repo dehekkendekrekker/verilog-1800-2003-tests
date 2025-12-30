@@ -8,10 +8,10 @@ Created Friday 27 December 2025
 IEEE 1800-2023 Section A.2.2.1
 
 data_type_or_incomplete_class_scoped_type ::=
-	[[data_type]]
-| [[incomplete_class_scoped_type]]
+	[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type|data_type]]
+| [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:incomplete_class_scoped_type|incomplete_class_scoped_type]]
 
 ===== Backlinks =====
 [[2_Declarations:2.4_Declaration_assignments:type_assignment|type_assignment]]
 [[2_Declarations:2.1_Declaration_types:2.1.3_Type_declarations:type_declaration|type_declaration]]
-[[type_reference]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:type_reference|type_reference]]

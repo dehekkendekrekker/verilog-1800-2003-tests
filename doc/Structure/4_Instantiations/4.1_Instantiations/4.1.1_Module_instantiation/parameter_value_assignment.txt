@@ -8,12 +8,12 @@ Created Friday 27 December 2025
 IEEE 1800-2023 Section A.4.1.1
 
 parameter_value_assignment ::=
-	**#** **(** [ [[list_of_parameter_value_assignments]] ] **)**
+	**#** **(** [ [[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:list_of_parameter_value_assignments|list_of_parameter_value_assignments]] ] **)**
 
 ===== Backlinks =====
 [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:class_type|class_type]]
 [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type|data_type]]
 [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:interface_class_type|interface_class_type]]
 [[4_Instantiations:4.1_Instantiations:4.1.2_Interface_instantiation:interface_instantiation|interface_instantiation]]
-[[module_instantiation]]
+[[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:module_instantiation|module_instantiation]]
 [[4_Instantiations:4.1_Instantiations:4.1.3_Program_instantiation:program_instantiation|program_instantiation]]

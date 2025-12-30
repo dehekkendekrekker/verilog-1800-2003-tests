@@ -9,7 +9,7 @@ IEEE 1800-2023 Section A.6.12
 
 randsequence_statement ::=
 	**randsequence** ( [ [[9_General:9.3_Identifiers:rs_production_identifier|rs_production_identifier]] ] )
-[[rs_production]] { [[rs_production]] }
+[[6_Behavioral_statements:6.12_Randsequence:rs_production|rs_production]] { [[6_Behavioral_statements:6.12_Randsequence:rs_production|rs_production]] }
 **endsequence**
 
 ===== Backlinks =====

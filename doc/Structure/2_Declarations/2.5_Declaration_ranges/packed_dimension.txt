@@ -7,7 +7,7 @@ Created Friday 27 December 2025
 
 packed_dimension ::=
 	[ [[8_Expressions:8.3_Expressions:constant_range|constant_range]] ]
-| [[unsized_dimension]]
+| [[2_Declarations:2.5_Declaration_ranges:unsized_dimension|unsized_dimension]]
 
 ===== Backlinks =====
 [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type|data_type]]

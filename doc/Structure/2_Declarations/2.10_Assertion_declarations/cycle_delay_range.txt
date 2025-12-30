@@ -9,7 +9,7 @@ IEEE 1800-2023 Section A.2.10, 16.7
 
 cycle_delay_range ::=
 	**##** [[8_Expressions:8.4_Primaries:constant_primary|constant_primary]]
-	| **##** [ [[cycle_delay_const_range_expression]] ]
+	| **##** [ [[2_Declarations:2.10_Assertion_declarations:cycle_delay_const_range_expression|cycle_delay_const_range_expression]] ]
 	| **##[*]**
 	| **##[+]**
 
@@ -42,4 +42,4 @@ One or more cycles.
 	##[+]
 
 ===== Backlinks =====
-[[sequence_expr]]
+[[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]]

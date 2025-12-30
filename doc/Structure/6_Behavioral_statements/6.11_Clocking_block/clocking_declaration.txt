@@ -7,7 +7,7 @@ Created Tuesday 16 December 2025
 
 clocking_declaration ::=
 	[ default ] clocking [ [[9_General:9.3_Identifiers:clocking_identifier|clocking_identifier]] ] [[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]] ;
-{ [[clocking_item]] }
+{ [[6_Behavioral_statements:6.11_Clocking_block:clocking_item|clocking_item]] }
 endclocking [ : [[9_General:9.3_Identifiers:clocking_identifier|clocking_identifier]] ]
 | global clocking [ [[9_General:9.3_Identifiers:clocking_identifier|clocking_identifier]] ] [[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]] ;
 endclocking [ : [[9_General:9.3_Identifiers:clocking_identifier|clocking_identifier]] ]

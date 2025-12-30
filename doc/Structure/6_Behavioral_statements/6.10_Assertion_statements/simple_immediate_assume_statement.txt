@@ -10,4 +10,4 @@ simple_immediate_assume_statement ::=
 
 
 ===== Backlinks =====
-[[simple_immediate_assertion_statement]]
+[[6_Behavioral_statements:6.10_Assertion_statements:simple_immediate_assertion_statement|simple_immediate_assertion_statement]]

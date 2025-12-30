@@ -12,4 +12,4 @@ nettype_declaration ::=
 | **nettype** [ [[9_General:9.3_Identifiers:package_scope|package_scope]] | [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:class_scope|class_scope]] ] [[9_General:9.3_Identifiers:nettype_identifier|nettype_identifier]] [[9_General:9.3_Identifiers:nettype_identifier|nettype_identifier]] **;**
 
 ===== Backlinks =====
-[[data_declaration]]
+[[2_Declarations:2.1_Declaration_types:2.1.3_Type_declarations:data_declaration|data_declaration]]

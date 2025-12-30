@@ -8,8 +8,8 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.8.8
 
 string_literal ::=
-	[[quoted_string]]
-| [[triple_quoted_string]]
+	[[8_Expressions:8.8_Strings:quoted_string|quoted_string]]
+| [[8_Expressions:8.8_Strings:triple_quoted_string|triple_quoted_string]]
 
 ===== Backlinks =====
 [[8_Expressions:8.4_Primaries:primary_literal|primary_literal]]

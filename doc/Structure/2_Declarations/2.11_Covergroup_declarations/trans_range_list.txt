@@ -8,10 +8,10 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.2.11
 
 trans_range_list ::=
-	[[trans_item]]
-| [[trans_item]] **[*** [[repeat_range]] **]**
-| [[trans_item]] **[–>** [[repeat_range]] **]**
-| [[trans_item]] **[=** [[repeat_range]] **]**
+	[[2_Declarations:2.11_Covergroup_declarations:trans_item|trans_item]]
+| [[2_Declarations:2.11_Covergroup_declarations:trans_item|trans_item]] **[*** [[2_Declarations:2.11_Covergroup_declarations:repeat_range|repeat_range]] **]**
+| [[2_Declarations:2.11_Covergroup_declarations:trans_item|trans_item]] **[–>** [[2_Declarations:2.11_Covergroup_declarations:repeat_range|repeat_range]] **]**
+| [[2_Declarations:2.11_Covergroup_declarations:trans_item|trans_item]] **[=** [[2_Declarations:2.11_Covergroup_declarations:repeat_range|repeat_range]] **]**
 
 ===== Backlinks =====
-[[trans_set]]
+[[2_Declarations:2.11_Covergroup_declarations:trans_set|trans_set]]

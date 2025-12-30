@@ -11,4 +11,4 @@ design_statement ::=
 	**design** { [ [[9_General:9.3_Identifiers:library_identifier|library_identifier]] **.** ] [[9_General:9.3_Identifiers:cell_identifier|cell_identifier]] } **;**
 
 ===== Backlinks =====
-[[config_declaration]]
+[[1_Source_text:1.5_Configuration_source_text:config_declaration|config_declaration]]

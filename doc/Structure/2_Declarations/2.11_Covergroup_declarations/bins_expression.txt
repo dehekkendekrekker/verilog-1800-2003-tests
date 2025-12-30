@@ -12,4 +12,4 @@ bins_expression ::=
 | [[9_General:9.3_Identifiers:cover_point_identifier|cover_point_identifier]] [ . [[9_General:9.3_Identifiers:bin_identifier|bin_identifier]] ]
 
 ===== Backlinks =====
-[[select_condition]]
+[[2_Declarations:2.11_Covergroup_declarations:select_condition|select_condition]]

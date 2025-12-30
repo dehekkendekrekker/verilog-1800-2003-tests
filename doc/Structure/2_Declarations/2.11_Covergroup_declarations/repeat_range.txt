@@ -8,8 +8,8 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.2.11
 
 repeat_range ::=
-	[[covergroup_expression]]
-| [[covergroup_expression]] : [[covergroup_expression]]
+	[[2_Declarations:2.11_Covergroup_declarations:covergroup_expression|covergroup_expression]]
+| [[2_Declarations:2.11_Covergroup_declarations:covergroup_expression|covergroup_expression]] : [[2_Declarations:2.11_Covergroup_declarations:covergroup_expression|covergroup_expression]]
 
 ===== Backlinks =====
-[[trans_range_list]]
+[[2_Declarations:2.11_Covergroup_declarations:trans_range_list|trans_range_list]]

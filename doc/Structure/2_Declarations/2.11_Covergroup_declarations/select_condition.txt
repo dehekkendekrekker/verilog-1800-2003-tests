@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.2.11
 
 select_condition ::=
-	**binsof** ( [[bins_expression]] ) [ **intersect** { [[covergroup_range_list]] } ]
+	**binsof** ( [[2_Declarations:2.11_Covergroup_declarations:bins_expression|bins_expression]] ) [ **intersect** { [[2_Declarations:2.11_Covergroup_declarations:covergroup_range_list|covergroup_range_list]] } ]
 
 ===== Backlinks =====
-[[select_expression]]
+[[2_Declarations:2.11_Covergroup_declarations:select_expression|select_expression]]

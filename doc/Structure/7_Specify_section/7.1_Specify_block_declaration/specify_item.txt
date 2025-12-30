@@ -9,10 +9,10 @@ IEEE 1800-2023 Section A.7.1
 
 specify_item ::=
 	[[2_Declarations:2.1_Declaration_types:2.1.1_Module_parameter_declarations:specparam_declaration|specparam_declaration]]
-| [[pulsestyle_declaration]]
-| [[showcancelled_declaration]]
+| [[7_Specify_section:7.1_Specify_block_declaration:pulsestyle_declaration|pulsestyle_declaration]]
+| [[7_Specify_section:7.1_Specify_block_declaration:showcancelled_declaration|showcancelled_declaration]]
 | [[7_Specify_section:7.2_Specify_path_declarations:path_declaration|path_declaration]]
 | [[7_Specify_section:7.5_System_timing_checks:7.5.1_System_timing_check_commands:system_timing_check|system_timing_check]]
 
 ===== Backlinks =====
-[[specify_block]]
+[[7_Specify_section:7.1_Specify_block_declaration:specify_block|specify_block]]

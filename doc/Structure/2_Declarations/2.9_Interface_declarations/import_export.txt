@@ -9,4 +9,4 @@ import_export ::=
 	**import** | **export**
 
 ===== Backlinks =====
-[[modport_tf_ports_declaration]]
+[[2_Declarations:2.9_Interface_declarations:modport_tf_ports_declaration|modport_tf_ports_declaration]]

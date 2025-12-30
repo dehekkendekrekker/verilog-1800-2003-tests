@@ -9,4 +9,4 @@ constant_cast ::=
 	[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:casting_type|casting_type]] ' ( [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] )
 
 ===== Backlinks =====
-[[constant_primary]]
+[[8_Expressions:8.4_Primaries:constant_primary|constant_primary]]

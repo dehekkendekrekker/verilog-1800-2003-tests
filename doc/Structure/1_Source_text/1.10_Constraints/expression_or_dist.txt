@@ -6,12 +6,12 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 expression_or_dist ::=
-	[[8_Expressions:8.3_Expressions:expression|expression]] [ **dist** { [[dist_list]] } ]
+	[[8_Expressions:8.3_Expressions:expression|expression]] [ **dist** { [[1_Source_text:1.10_Constraints:dist_list|dist_list]] } ]
 
 ===== Backlinks =====
 [[2_Declarations:2.10_Assertion_declarations:assert_property_statement|assert_property_statement]]
 [[1_Source_text:1.8_Checker_items:checker_or_generate_item_declaration|checker_or_generate_item_declaration]]
-[[constraint_expression]]
+[[1_Source_text:1.10_Constraints:constraint_expression|constraint_expression]]
 [[2_Declarations:2.10_Assertion_declarations:cover_sequence_statement|cover_sequence_statement]]
 [[1_Source_text:1.4_Module_items:module_or_generate_item_declaration|module_or_generate_item_declaration]]
 [[2_Declarations:2.10_Assertion_declarations:property_case_item|property_case_item]]

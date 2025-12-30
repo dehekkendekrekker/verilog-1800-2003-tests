@@ -11,7 +11,7 @@ z_digit ::=
 	**z** | **Z** | **?**
 
 ===== Backlinks =====
-[[binary_digit]]
-[[decimal_number]]
-[[hex_digit]]
-[[octal_digit]]
+[[8_Expressions:8.7_Numbers:binary_digit|binary_digit]]
+[[8_Expressions:8.7_Numbers:decimal_number|decimal_number]]
+[[8_Expressions:8.7_Numbers:hex_digit|hex_digit]]
+[[8_Expressions:8.7_Numbers:octal_digit|octal_digit]]

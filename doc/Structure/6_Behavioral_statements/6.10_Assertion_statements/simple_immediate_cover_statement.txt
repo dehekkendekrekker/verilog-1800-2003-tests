@@ -9,4 +9,4 @@ simple_immediate_cover_statement ::=
 	**cover** ( expression ) [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]]
 
 ===== Backlinks =====
-[[simple_immediate_assertion_statement]]
+[[6_Behavioral_statements:6.10_Assertion_statements:simple_immediate_assertion_statement|simple_immediate_assertion_statement]]

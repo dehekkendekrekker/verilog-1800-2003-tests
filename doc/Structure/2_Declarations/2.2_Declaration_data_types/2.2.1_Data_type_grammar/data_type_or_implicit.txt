@@ -6,8 +6,8 @@ Creation-Date: 2025-12-22T00:00:00+00:00
 Created Sunday 22 December 2025
 
 data_type_or_implicit ::=
-	[[data_type]]
-| [[implicit_data_type]]
+	[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type|data_type]]
+| [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:implicit_data_type|implicit_data_type]]
 
 ===== Backlinks =====
 [[2_Declarations:2.11_Covergroup_declarations:cover_point|cover_point]]
@@ -15,9 +15,9 @@ data_type_or_implicit ::=
 [[2_Declarations:2.12_Let_declarations:let_formal_type|let_formal_type]]
 [[2_Declarations:2.1_Declaration_types:2.1.1_Module_parameter_declarations:local_parameter_declaration|local_parameter_declaration]]
 [[2_Declarations:2.1_Declaration_types:2.1.3_Type_declarations:net_declaration|net_declaration]]
-[[net_port_type]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:net_port_type|net_port_type]]
 [[2_Declarations:2.1_Declaration_types:2.1.1_Module_parameter_declarations:parameter_declaration|parameter_declaration]]
 [[2_Declarations:2.10_Assertion_declarations:sequence_formal_type|sequence_formal_type]]
 [[2_Declarations:2.7_Task_declarations:tf_port_declaration|tf_port_declaration]]
 [[2_Declarations:2.7_Task_declarations:tf_port_item|tf_port_item]]
-[[var_data_type]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:var_data_type|var_data_type]]

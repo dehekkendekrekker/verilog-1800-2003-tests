@@ -14,7 +14,7 @@ name_of_instance ::=
 [[4_Instantiations:4.1_Instantiations:4.1.4_Checker_instantiation:checker_instantiation|checker_instantiation]]
 [[3_Primitive_instances:3.1_Primitive_instantiation_and_instances:cmos_switch_instance|cmos_switch_instance]]
 [[3_Primitive_instances:3.1_Primitive_instantiation_and_instances:enable_gate_instance|enable_gate_instance]]
-[[hierarchical_instance]]
+[[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:hierarchical_instance|hierarchical_instance]]
 [[3_Primitive_instances:3.1_Primitive_instantiation_and_instances:mos_switch_instance|mos_switch_instance]]
 [[3_Primitive_instances:3.1_Primitive_instantiation_and_instances:n_input_gate_instance|n_input_gate_instance]]
 [[3_Primitive_instances:3.1_Primitive_instantiation_and_instances:n_output_gate_instance|n_output_gate_instance]]

@@ -6,9 +6,9 @@ Creation-Date: 2025-12-17T01:16:01+00:00
 Created Wednesday 17 December 2025
 
 var_data_type ::=
-	[[data_type]]
-| **var** [[data_type_or_implicit]]
+	[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type|data_type]]
+| **var** [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type_or_implicit|data_type_or_implicit]]
 
 ===== Backlinks =====
 [[2_Declarations:2.10_Assertion_declarations:assertion_variable_declaration|assertion_variable_declaration]]
-[[variable_port_type]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:variable_port_type|variable_port_type]]

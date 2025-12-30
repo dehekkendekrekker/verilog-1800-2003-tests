@@ -9,5 +9,5 @@ assignment_pattern_key ::=
 	[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:simple_type|simple_type]] | **default**
 
 ===== Backlinks =====
-[[array_pattern_key]]
-[[structure_pattern_key]]
+[[6_Behavioral_statements:6.7_Case_statements:6.7.1_Patterns:array_pattern_key|array_pattern_key]]
+[[6_Behavioral_statements:6.7_Case_statements:6.7.1_Patterns:structure_pattern_key|structure_pattern_key]]

@@ -8,14 +8,14 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.9.3
 
 variable_identifier ::=
-	[[identifier]]
+	[[9_General:9.3_Identifiers:identifier|identifier]]
 
 ===== Backlinks =====
 [[2_Declarations:2.11_Covergroup_declarations:bins_expression|bins_expression]]
-[[class_variable_identifier]]
-[[covergroup_variable_identifier]]
+[[9_General:9.3_Identifiers:class_variable_identifier|class_variable_identifier]]
+[[9_General:9.3_Identifiers:covergroup_variable_identifier|covergroup_variable_identifier]]
 [[2_Declarations:2.11_Covergroup_declarations:cross_item|cross_item]]
-[[dynamic_array_variable_identifier]]
+[[9_General:9.3_Identifiers:dynamic_array_variable_identifier|dynamic_array_variable_identifier]]
 [[6_Behavioral_statements:6.8_Looping_statements:for_variable_declaration|for_variable_declaration]]
 [[2_Declarations:2.3_Declaration_lists:list_of_variable_identifiers|list_of_variable_identifiers]]
 [[7_Specify_section:7.5_System_timing_checks:7.5.2_System_timing_check_command_arguments:notifier|notifier]]

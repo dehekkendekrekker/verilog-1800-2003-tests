@@ -6,8 +6,8 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 ps_identifier ::=
-	[ [[package_scope]] ] [[identifier]]
+	[ [[9_General:9.3_Identifiers:package_scope|package_scope]] ] [[9_General:9.3_Identifiers:identifier|identifier]]
 
 ===== Backlinks =====
-[[2_Declarations:2.2_Declaration_data_types:delay_value|delay_value]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.3_Delays:delay_value|delay_value]]
 [[6_Behavioral_statements:6.12_Randsequence:rs_weight_specification|rs_weight_specification]]

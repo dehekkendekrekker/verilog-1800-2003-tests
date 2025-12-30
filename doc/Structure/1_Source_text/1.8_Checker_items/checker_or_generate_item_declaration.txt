@@ -18,4 +18,4 @@ checker_or_generate_item_declaration ::=
 | ;
 
 ===== Backlinks =====
-[[checker_or_generate_item]]
+[[1_Source_text:1.8_Checker_items:checker_or_generate_item|checker_or_generate_item]]

@@ -9,5 +9,5 @@ case_item_expression ::=
 	[[8_Expressions:8.3_Expressions:expression|expression]]
 
 ===== Backlinks =====
-[[case_item]]
+[[6_Behavioral_statements:6.7_Case_statements:case_item|case_item]]
 [[6_Behavioral_statements:6.12_Randsequence:rs_case_item|rs_case_item]]

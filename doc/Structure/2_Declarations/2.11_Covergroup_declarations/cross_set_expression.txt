@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.2.11
 
 cross_set_expression ::=
-	[[covergroup_expression]]
+	[[2_Declarations:2.11_Covergroup_declarations:covergroup_expression|covergroup_expression]]
 
 ===== Backlinks =====
-[[select_expression]]
+[[2_Declarations:2.11_Covergroup_declarations:select_expression|select_expression]]

@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.7.2
 
 parallel_path_description ::=
-	( [[7_Specify_section:7.3_Specify_block_terminals:specify_input_terminal_descriptor|specify_input_terminal_descriptor]] [ [[polarity_operator]] ] => [[7_Specify_section:7.3_Specify_block_terminals:specify_output_terminal_descriptor|specify_output_terminal_descriptor]] )
+	( [[7_Specify_section:7.3_Specify_block_terminals:specify_input_terminal_descriptor|specify_input_terminal_descriptor]] [ [[7_Specify_section:7.2_Specify_path_declarations:polarity_operator|polarity_operator]] ] => [[7_Specify_section:7.3_Specify_block_terminals:specify_output_terminal_descriptor|specify_output_terminal_descriptor]] )
 
 ===== Backlinks =====
-[[simple_path_declaration]]
+[[7_Specify_section:7.2_Specify_path_declarations:simple_path_declaration|simple_path_declaration]]

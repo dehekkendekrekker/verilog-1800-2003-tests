@@ -6,8 +6,8 @@ Creation-Date: 2025-12-22T00:00:00+00:00
 Created Sunday 22 December 2025
 
 loop_generate_construct ::=
-	**for** ( [[genvar_initialization]] ; [[8_Expressions:8.3_Expressions:genvar_expression|genvar_expression]] ; [[genvar_iteration]] )
-	[[generate_block]]
+	**for** ( [[4_Instantiations:4.2_Generated_instantiation:genvar_initialization|genvar_initialization]] ; [[8_Expressions:8.3_Expressions:genvar_expression|genvar_expression]] ; [[4_Instantiations:4.2_Generated_instantiation:genvar_iteration|genvar_iteration]] )
+	[[4_Instantiations:4.2_Generated_instantiation:generate_block|generate_block]]
 
 ===== Backlinks =====
 [[1_Source_text:1.8_Checker_items:checker_generate_item|checker_generate_item]]

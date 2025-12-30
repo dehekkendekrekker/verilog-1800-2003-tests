@@ -6,7 +6,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 structure_pattern_key ::=
-	[[9_General:9.3_Identifiers:member_identifier|member_identifier]] | [[assignment_pattern_key]]
+	[[9_General:9.3_Identifiers:member_identifier|member_identifier]] | [[6_Behavioral_statements:6.7_Case_statements:6.7.1_Patterns:assignment_pattern_key|assignment_pattern_key]]
 
 ===== Backlinks =====
-[[assignment_pattern]]
+[[6_Behavioral_statements:6.7_Case_statements:6.7.1_Patterns:assignment_pattern|assignment_pattern]]

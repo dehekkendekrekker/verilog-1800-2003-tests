@@ -7,8 +7,8 @@ Created Friday 27 December 2025
 
 interface_or_generate_item ::=
 	{ [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [[1_Source_text:1.4_Module_items:module_common_item|module_common_item]]
-| { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [[extern_tf_declaration]]
+| { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [[1_Source_text:1.6_Interface_items:extern_tf_declaration|extern_tf_declaration]]
 
 ===== Backlinks =====
 [[4_Instantiations:4.2_Generated_instantiation:generate_item|generate_item]]
-[[non_port_interface_item]]
+[[1_Source_text:1.6_Interface_items:non_port_interface_item|non_port_interface_item]]

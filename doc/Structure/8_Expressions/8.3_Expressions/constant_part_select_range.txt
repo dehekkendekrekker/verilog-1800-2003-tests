@@ -6,9 +6,9 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 constant_part_select_range ::=
-	[[constant_range|constant_range]]
-| [[constant_indexed_range]]
+	[[8_Expressions:8.3_Expressions:constant_range|constant_range]]
+| [[8_Expressions:8.3_Expressions:constant_indexed_range|constant_indexed_range]]
 
 ===== Backlinks =====
-[[constant_range_expression]]
+[[8_Expressions:8.3_Expressions:constant_range_expression|constant_range_expression]]
 [[8_Expressions:8.4_Primaries:constant_select|constant_select]]

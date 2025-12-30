@@ -8,8 +8,8 @@ Created Friday 27 December 2025
 IEEE 1800-2023 Section A.4.1.1
 
 list_of_port_connections ::=
-	[[ordered_port_connection]] { **,** [[ordered_port_connection]] }
-| [[named_port_connection]] { **,** [[named_port_connection]] }
+	[[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:ordered_port_connection|ordered_port_connection]] { **,** [[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:ordered_port_connection|ordered_port_connection]] }
+| [[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:named_port_connection|named_port_connection]] { **,** [[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:named_port_connection|named_port_connection]] }
 
 ===== Backlinks =====
-[[hierarchical_instance]]
+[[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:hierarchical_instance|hierarchical_instance]]

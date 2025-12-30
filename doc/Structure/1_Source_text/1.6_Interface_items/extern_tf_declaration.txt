@@ -10,4 +10,4 @@ extern_tf_declaration ::=
 | **extern** **forkjoin** [[2_Declarations:2.7_Task_declarations:task_prototype|task_prototype]] ;
 
 ===== Backlinks =====
-[[interface_or_generate_item]]
+[[1_Source_text:1.6_Interface_items:interface_or_generate_item|interface_or_generate_item]]

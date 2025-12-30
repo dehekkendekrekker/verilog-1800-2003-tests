@@ -9,4 +9,4 @@ dpi_spec_string ::=
 	"DPI-C" | "DPI"
 
 ===== Backlinks =====
-[[dpi_import_export]]
+[[2_Declarations:2.6_Function_declarations:dpi_import_export|dpi_import_export]]

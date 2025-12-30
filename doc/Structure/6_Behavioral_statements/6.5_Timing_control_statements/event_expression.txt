@@ -8,10 +8,10 @@ Created Wednesday 17 December 2025
 event_expression ::=
 	[ [[7_Specify_section:7.2_Specify_path_declarations:edge_identifier|edge_identifier]] ] [[8_Expressions:8.3_Expressions:expression|expression]] [ **iff** [[8_Expressions:8.3_Expressions:expression|expression]] ]
 | [[2_Declarations:2.10_Assertion_declarations:sequence_instance|sequence_instance]] [ **iff** [[8_Expressions:8.3_Expressions:expression|expression]] ]
-| [[event_expression]] **or** [[event_expression]]
-| [[event_expression]] , [[event_expression]]
-| ( [[event_expression]] )
+| [[6_Behavioral_statements:6.5_Timing_control_statements:event_expression|event_expression]] **or** [[6_Behavioral_statements:6.5_Timing_control_statements:event_expression|event_expression]]
+| [[6_Behavioral_statements:6.5_Timing_control_statements:event_expression|event_expression]] , [[6_Behavioral_statements:6.5_Timing_control_statements:event_expression|event_expression]]
+| ( [[6_Behavioral_statements:6.5_Timing_control_statements:event_expression|event_expression]] )
 
 ===== Backlinks =====
-[[clocking_event]]
+[[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]]
 [[2_Declarations:2.10_Assertion_declarations:sequence_actual_arg|sequence_actual_arg]]

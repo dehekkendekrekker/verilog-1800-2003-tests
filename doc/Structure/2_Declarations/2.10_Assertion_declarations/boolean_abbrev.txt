@@ -8,14 +8,14 @@ Created Wednesday 17 December 2025
 IEEE 1800-2023 Section A.2.10, 16.7
 
 boolean_abbrev ::=
-	[[consecutive_repetition]]
-	| [[nonconsecutive_repetition]]
-	| [[goto_repetition]]
+	[[2_Declarations:2.10_Assertion_declarations:consecutive_repetition|consecutive_repetition]]
+	| [[2_Declarations:2.10_Assertion_declarations:nonconsecutive_repetition|nonconsecutive_repetition]]
+	| [[2_Declarations:2.10_Assertion_declarations:goto_repetition|goto_repetition]]
 
 ===== SVA-relevant paths =====
-[[consecutive_repetition]] - [*n], [*m:n], [*], [+]
-[[nonconsecutive_repetition]] - [=n], [=m:n]
-[[goto_repetition]] - [->n], [->m:n]
+[[2_Declarations:2.10_Assertion_declarations:consecutive_repetition|consecutive_repetition]] - [*n], [*m:n], [*], [+]
+[[2_Declarations:2.10_Assertion_declarations:nonconsecutive_repetition|nonconsecutive_repetition]] - [=n], [=m:n]
+[[2_Declarations:2.10_Assertion_declarations:goto_repetition|goto_repetition]] - [->n], [->m:n]
 
 ===== Backlinks =====
-[[sequence_expr]]
+[[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]]

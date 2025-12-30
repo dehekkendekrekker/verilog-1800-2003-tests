@@ -10,4 +10,4 @@ variable_assignment ::=
 
 ===== Backlinks =====
 [[6_Behavioral_statements:6.1_Continuous_assignment:list_of_variable_assignments|list_of_variable_assignments]]
-[[procedural_continuous_assignment]]
+[[6_Behavioral_statements:6.2_Procedural_blocks_and_assignments:procedural_continuous_assignment|procedural_continuous_assignment]]

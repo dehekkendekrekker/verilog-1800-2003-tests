@@ -11,4 +11,4 @@ clocking_decl_assign ::=
 	[[9_General:9.3_Identifiers:signal_identifier|signal_identifier]] [ = [[8_Expressions:8.3_Expressions:expression|expression]] ]
 
 ===== Backlinks =====
-[[list_of_clocking_decl_assign]]
+[[6_Behavioral_statements:6.11_Clocking_block:list_of_clocking_decl_assign|list_of_clocking_decl_assign]]

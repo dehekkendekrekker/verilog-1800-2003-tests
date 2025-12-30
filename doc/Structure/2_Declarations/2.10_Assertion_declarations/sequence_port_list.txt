@@ -7,7 +7,7 @@ Created Wednesday 17 December 2025
 
 
 sequence_port_list ::=
-	[[sequence_port_item]] { , [[sequence_port_item]] }
+	[[2_Declarations:2.10_Assertion_declarations:sequence_port_item|sequence_port_item]] { , [[2_Declarations:2.10_Assertion_declarations:sequence_port_item|sequence_port_item]] }
 
 ===== Backlinks =====
-[[sequence_declaration]]
+[[2_Declarations:2.10_Assertion_declarations:sequence_declaration|sequence_declaration]]

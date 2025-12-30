@@ -2,48 +2,48 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2025-12-22T00:00:00+00:00
 
-====== [[property_spec]] ======
+====== [[2_Declarations:2.10_Assertion_declarations:property_spec|property_spec]] ======
 Created Sunday 22 December 2025
 
 IEEE 1800-2023 Section A.2.10
 
 property_spec ::=
-	[ [[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]] ] [ **disable iff** ( [[1_Source_text:1.10_Constraints:expression_or_dist|expression_or_dist]] ) ] [[property_expr]]
+	[ [[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]] ] [ **disable iff** ( [[1_Source_text:1.10_Constraints:expression_or_dist|expression_or_dist]] ) ] [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
 
 ===== Permutations =====
 
-==== Permutation 1: [[property_expr]] only ====
-[[property_expr]]
+==== Permutation 1: [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] only ====
+[[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
 
 Example: a |-> b
 
 ==== Permutation 2: With [[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]] ====
-[[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]] [[property_expr]]
+[[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]] [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
 
 Examples:
-* @(posedge clk) [[property_expr]]
-* @(negedge clk) [[property_expr]]
-* @(posedge clk iff enable) [[property_expr]]
-* @clk [[property_expr]]
+* @(posedge clk) [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+* @(negedge clk) [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+* @(posedge clk iff enable) [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+* @clk [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
 
 ==== Permutation 3: With disable iff ====
-disable iff ( [[1_Source_text:1.10_Constraints:expression_or_dist|expression_or_dist]] ) [[property_expr]]
+disable iff ( [[1_Source_text:1.10_Constraints:expression_or_dist|expression_or_dist]] ) [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
 
 Example: disable iff (reset) a |-> b
 
 ==== Permutation 4: With [[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]] and disable iff ====
-[[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]] disable iff ( [[1_Source_text:1.10_Constraints:expression_or_dist|expression_or_dist]] ) [[property_expr]]
+[[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]] disable iff ( [[1_Source_text:1.10_Constraints:expression_or_dist|expression_or_dist]] ) [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
 
 Example: @(posedge clk) disable iff (reset) req |-> gnt
 
 ===== SVA-relevant paths =====
-[[property_expr]]
+[[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
 [[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]]
 
 ===== Backlinks =====
-[[assert_property_statement]]
-[[assume_property_statement]]
-[[cover_property_statement]]
-[[expect_property_statement]]
-[[property_declaration]]
-[[restrict_property_statement]]
+[[2_Declarations:2.10_Assertion_declarations:assert_property_statement|assert_property_statement]]
+[[2_Declarations:2.10_Assertion_declarations:assume_property_statement|assume_property_statement]]
+[[2_Declarations:2.10_Assertion_declarations:cover_property_statement|cover_property_statement]]
+[[2_Declarations:2.10_Assertion_declarations:expect_property_statement|expect_property_statement]]
+[[2_Declarations:2.10_Assertion_declarations:property_declaration|property_declaration]]
+[[2_Declarations:2.10_Assertion_declarations:restrict_property_statement|restrict_property_statement]]

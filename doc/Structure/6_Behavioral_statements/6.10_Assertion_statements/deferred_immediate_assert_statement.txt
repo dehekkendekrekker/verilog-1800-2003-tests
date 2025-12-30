@@ -10,4 +10,4 @@ deferred_immediate_assert_statement ::=
 | **assert** **final** ( expression ) [[6_Behavioral_statements:6.3_Parallel_and_sequential_blocks:action_block|action_block]]
 
 ===== Backlinks =====
-[[deferred_immediate_assertion_statement]]
+[[6_Behavioral_statements:6.10_Assertion_statements:deferred_immediate_assertion_statement|deferred_immediate_assertion_statement]]

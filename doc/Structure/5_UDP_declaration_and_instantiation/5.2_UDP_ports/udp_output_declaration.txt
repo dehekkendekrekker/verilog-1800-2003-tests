@@ -12,5 +12,5 @@ udp_output_declaration ::=
 | { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } **output** **reg** [[9_General:9.3_Identifiers:port_identifier|port_identifier]] [ = [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] ]
 
 ===== Backlinks =====
-[[udp_declaration_port_list]]
-[[udp_port_declaration]]
+[[5_UDP_declaration_and_instantiation:5.2_UDP_ports:udp_declaration_port_list|udp_declaration_port_list]]
+[[5_UDP_declaration_and_instantiation:5.2_UDP_ports:udp_port_declaration|udp_port_declaration]]

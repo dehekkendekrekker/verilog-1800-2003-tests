@@ -8,12 +8,12 @@ Created Friday 27 December 2025
 IEEE 1800-2023 Section A.2.2.2
 
 drive_strength ::=
-	**(** [[strength0]] **,** [[strength1]] **)**
-| **(** [[strength1]] **,** [[strength0]] **)**
-| **(** [[strength0]] **, highz1 )**
-| **(** [[strength1]] **, highz0 )**
-| **( highz0 ,** [[strength1]] **)**
-| **( highz1 ,** [[strength0]] **)**
+	**(** [[2_Declarations:2.2_Declaration_data_types:2.2.2_Strengths:strength0|strength0]] **,** [[2_Declarations:2.2_Declaration_data_types:2.2.2_Strengths:strength1|strength1]] **)**
+| **(** [[2_Declarations:2.2_Declaration_data_types:2.2.2_Strengths:strength1|strength1]] **,** [[2_Declarations:2.2_Declaration_data_types:2.2.2_Strengths:strength0|strength0]] **)**
+| **(** [[2_Declarations:2.2_Declaration_data_types:2.2.2_Strengths:strength0|strength0]] **, highz1 )**
+| **(** [[2_Declarations:2.2_Declaration_data_types:2.2.2_Strengths:strength1|strength1]] **, highz0 )**
+| **( highz0 ,** [[2_Declarations:2.2_Declaration_data_types:2.2.2_Strengths:strength1|strength1]] **)**
+| **( highz1 ,** [[2_Declarations:2.2_Declaration_data_types:2.2.2_Strengths:strength0|strength0]] **)**
 
 ===== Backlinks =====
 [[6_Behavioral_statements:6.1_Continuous_assignment:continuous_assign|continuous_assign]]

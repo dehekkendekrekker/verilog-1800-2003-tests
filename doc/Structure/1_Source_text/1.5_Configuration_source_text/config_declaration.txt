@@ -8,8 +8,8 @@ Created Friday 27 December 2025
 config_declaration ::=
 	**config** [[9_General:9.3_Identifiers:config_identifier|config_identifier]] **;**
 { [[2_Declarations:2.1_Declaration_types:2.1.1_Module_parameter_declarations:local_parameter_declaration|local_parameter_declaration]] **;** }
-[[design_statement]]
-{ [[config_rule_statement]] }
+[[1_Source_text:1.5_Configuration_source_text:design_statement|design_statement]]
+{ [[1_Source_text:1.5_Configuration_source_text:config_rule_statement|config_rule_statement]] }
 **endconfig** [ **:** [[9_General:9.3_Identifiers:config_identifier|config_identifier]] ]
 
 ===== Backlinks =====

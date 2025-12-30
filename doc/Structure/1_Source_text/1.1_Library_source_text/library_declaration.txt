@@ -12,4 +12,4 @@ library_declaration ::=
 [ **-incdir** file_path_spec { **,** file_path_spec } ] **;**
 
 ===== Backlinks =====
-[[library_description]]
+[[1_Source_text:1.1_Library_source_text:library_description|library_description]]

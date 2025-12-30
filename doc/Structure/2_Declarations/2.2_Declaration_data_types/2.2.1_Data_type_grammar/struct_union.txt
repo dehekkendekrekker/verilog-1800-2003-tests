@@ -11,4 +11,4 @@ struct_union ::=
 	**struct** | **union** [ **tagged** ]
 
 ===== Backlinks =====
-[[data_type]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type|data_type]]

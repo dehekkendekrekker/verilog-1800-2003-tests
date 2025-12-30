@@ -11,5 +11,5 @@ forward_type ::=
 	**enum** | **struct** | **union** | **class** | **interface** **class**
 
 ===== Backlinks =====
-[[type_declaration]]
+[[2_Declarations:2.1_Declaration_types:2.1.3_Type_declarations:type_declaration|type_declaration]]
 [[2_Declarations:2.1_Declaration_types:2.1.1_Module_parameter_declarations:type_parameter_declaration|type_parameter_declaration]]

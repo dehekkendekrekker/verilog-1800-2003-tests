@@ -10,5 +10,5 @@ function_prototype ::=
 [ ( [ [[2_Declarations:2.7_Task_declarations:tf_port_list|tf_port_list]] ] ) ]
 
 ===== Backlinks =====
-[[dpi_function_proto]]
+[[2_Declarations:2.6_Function_declarations:dpi_function_proto|dpi_function_proto]]
 [[1_Source_text:1.9_Class_items:method_prototype|method_prototype]]

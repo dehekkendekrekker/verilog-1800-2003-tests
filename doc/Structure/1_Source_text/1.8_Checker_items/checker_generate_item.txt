@@ -12,4 +12,4 @@ checker_generate_item ::=
 | [[1_Source_text:1.4_Module_items:elaboration_severity_system_task|elaboration_severity_system_task]]
 
 ===== Backlinks =====
-[[checker_or_generate_item]]
+[[1_Source_text:1.8_Checker_items:checker_or_generate_item|checker_or_generate_item]]

@@ -8,8 +8,8 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.6.12
 
 rs_case_item ::=
-	[[6_Behavioral_statements:6.7_Case_statements:case_item_expression|case_item_expression]] { , [[6_Behavioral_statements:6.7_Case_statements:case_item_expression|case_item_expression]] } : [[rs_production_item]] ;
-| **default** [ : ] [[rs_production_item]] ;
+	[[6_Behavioral_statements:6.7_Case_statements:case_item_expression|case_item_expression]] { , [[6_Behavioral_statements:6.7_Case_statements:case_item_expression|case_item_expression]] } : [[6_Behavioral_statements:6.12_Randsequence:rs_production_item|rs_production_item]] ;
+| **default** [ : ] [[6_Behavioral_statements:6.12_Randsequence:rs_production_item|rs_production_item]] ;
 
 ===== Backlinks =====
-[[rs_case]]
+[[6_Behavioral_statements:6.12_Randsequence:rs_case|rs_case]]

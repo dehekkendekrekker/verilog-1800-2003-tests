@@ -6,8 +6,8 @@ Creation-Date: 2025-12-22T00:00:00+00:00
 Created Sunday 22 December 2025
 
 case_generate_item ::=
-	[[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] { , [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] } : [[generate_block]]
-| **default** [ : ] [[generate_block]]
+	[[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] { , [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] } : [[4_Instantiations:4.2_Generated_instantiation:generate_block|generate_block]]
+| **default** [ : ] [[4_Instantiations:4.2_Generated_instantiation:generate_block|generate_block]]
 
 ===== Backlinks =====
-[[case_generate_construct]]
+[[4_Instantiations:4.2_Generated_instantiation:case_generate_construct|case_generate_construct]]

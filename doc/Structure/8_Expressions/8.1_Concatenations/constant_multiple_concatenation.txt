@@ -6,7 +6,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 constant_multiple_concatenation ::=
-	{ [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] [[constant_concatenation]] }
+	{ [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] [[8_Expressions:8.1_Concatenations:constant_concatenation|constant_concatenation]] }
 
 ===== Backlinks =====
 [[8_Expressions:8.4_Primaries:constant_primary|constant_primary]]

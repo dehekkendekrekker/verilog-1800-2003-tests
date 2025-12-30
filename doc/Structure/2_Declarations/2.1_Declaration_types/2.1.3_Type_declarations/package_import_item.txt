@@ -10,5 +10,5 @@ package_import_item ::=
 | [[9_General:9.3_Identifiers:package_identifier|package_identifier]] :: *
 
 ===== Backlinks =====
-[[package_export_declaration]]
-[[package_import_declaration]]
+[[2_Declarations:2.1_Declaration_types:2.1.3_Type_declarations:package_export_declaration|package_export_declaration]]
+[[2_Declarations:2.1_Declaration_types:2.1.3_Type_declarations:package_import_declaration|package_import_declaration]]

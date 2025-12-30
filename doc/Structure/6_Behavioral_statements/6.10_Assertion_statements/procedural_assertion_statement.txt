@@ -7,7 +7,7 @@ Created Tuesday 16 December 2025
 
 procedural_assertion_statement ::=
 	[[2_Declarations:2.10_Assertion_declarations:concurrent_assertion_statement|concurrent_assertion_statement]]
-| [[immediate_assertion_statement]]
+| [[6_Behavioral_statements:6.10_Assertion_statements:immediate_assertion_statement|immediate_assertion_statement]]
 | [[4_Instantiations:4.1_Instantiations:4.1.4_Checker_instantiation:checker_instantiation|checker_instantiation]]
 
 ===== Backlinks =====

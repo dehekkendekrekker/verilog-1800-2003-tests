@@ -12,4 +12,4 @@ parameter_port_declaration ::=
 | [[2_Declarations:2.1_Declaration_types:2.1.1_Module_parameter_declarations:type_parameter_declaration|type_parameter_declaration]]
 
 ===== Backlinks =====
-[[parameter_port_list]]
+[[1_Source_text:1.3_Module_parameters_and_ports:parameter_port_list|parameter_port_list]]

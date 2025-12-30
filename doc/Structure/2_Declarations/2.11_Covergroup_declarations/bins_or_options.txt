@@ -6,13 +6,13 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 bins_or_options ::=
-	[[coverage_option]]
-| [ **wildcard** ] [[bins_keyword]] [[9_General:9.3_Identifiers:bin_identifier|bin_identifier]] [ [ [ [[covergroup_expression]] ] ] ] = { [[covergroup_range_list]] } [ **with** ( [[with_covergroup_expression]] ) ] [ **iff** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) ]
-| [ **wildcard** ] [[bins_keyword]] [[9_General:9.3_Identifiers:bin_identifier|bin_identifier]] [ [ [ [[covergroup_expression]] ] ] ] = [[9_General:9.3_Identifiers:cover_point_identifier|cover_point_identifier]] **with** ( [[with_covergroup_expression]] ) [ **iff** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) ]
-| [ **wildcard** ] [[bins_keyword]] [[9_General:9.3_Identifiers:bin_identifier|bin_identifier]] [ [ [ [[covergroup_expression]] ] ] ] = [[set_covergroup_expression]] [ **iff** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) ]
-| [ **wildcard** ] [[bins_keyword]] [[9_General:9.3_Identifiers:bin_identifier|bin_identifier]] [ [ ] ] = [[trans_list]] [ **iff** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) ]
-| [[bins_keyword]] [[9_General:9.3_Identifiers:bin_identifier|bin_identifier]] [ [ [ [[covergroup_expression]] ] ] ] = **default** [ **iff** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) ]
-| [[bins_keyword]] [[9_General:9.3_Identifiers:bin_identifier|bin_identifier]] = **default** **sequence** [ **iff** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) ]
+	[[2_Declarations:2.11_Covergroup_declarations:coverage_option|coverage_option]]
+| [ **wildcard** ] [[2_Declarations:2.11_Covergroup_declarations:bins_keyword|bins_keyword]] [[9_General:9.3_Identifiers:bin_identifier|bin_identifier]] [ [ [ [[2_Declarations:2.11_Covergroup_declarations:covergroup_expression|covergroup_expression]] ] ] ] = { [[2_Declarations:2.11_Covergroup_declarations:covergroup_range_list|covergroup_range_list]] } [ **with** ( [[2_Declarations:2.11_Covergroup_declarations:with_covergroup_expression|with_covergroup_expression]] ) ] [ **iff** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) ]
+| [ **wildcard** ] [[2_Declarations:2.11_Covergroup_declarations:bins_keyword|bins_keyword]] [[9_General:9.3_Identifiers:bin_identifier|bin_identifier]] [ [ [ [[2_Declarations:2.11_Covergroup_declarations:covergroup_expression|covergroup_expression]] ] ] ] = [[9_General:9.3_Identifiers:cover_point_identifier|cover_point_identifier]] **with** ( [[2_Declarations:2.11_Covergroup_declarations:with_covergroup_expression|with_covergroup_expression]] ) [ **iff** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) ]
+| [ **wildcard** ] [[2_Declarations:2.11_Covergroup_declarations:bins_keyword|bins_keyword]] [[9_General:9.3_Identifiers:bin_identifier|bin_identifier]] [ [ [ [[2_Declarations:2.11_Covergroup_declarations:covergroup_expression|covergroup_expression]] ] ] ] = [[2_Declarations:2.11_Covergroup_declarations:set_covergroup_expression|set_covergroup_expression]] [ **iff** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) ]
+| [ **wildcard** ] [[2_Declarations:2.11_Covergroup_declarations:bins_keyword|bins_keyword]] [[9_General:9.3_Identifiers:bin_identifier|bin_identifier]] [ [ ] ] = [[2_Declarations:2.11_Covergroup_declarations:trans_list|trans_list]] [ **iff** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) ]
+| [[2_Declarations:2.11_Covergroup_declarations:bins_keyword|bins_keyword]] [[9_General:9.3_Identifiers:bin_identifier|bin_identifier]] [ [ [ [[2_Declarations:2.11_Covergroup_declarations:covergroup_expression|covergroup_expression]] ] ] ] = **default** [ **iff** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) ]
+| [[2_Declarations:2.11_Covergroup_declarations:bins_keyword|bins_keyword]] [[9_General:9.3_Identifiers:bin_identifier|bin_identifier]] = **default** **sequence** [ **iff** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) ]
 
 ===== Backlinks =====
-[[bins_or_empty]]
+[[2_Declarations:2.11_Covergroup_declarations:bins_or_empty|bins_or_empty]]

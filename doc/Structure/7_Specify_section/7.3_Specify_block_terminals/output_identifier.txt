@@ -13,4 +13,4 @@ output_identifier ::=
 | [[9_General:9.3_Identifiers:interface_identifier|interface_identifier]] . [[9_General:9.3_Identifiers:port_identifier|port_identifier]]
 
 ===== Backlinks =====
-[[specify_output_terminal_descriptor]]
+[[7_Specify_section:7.3_Specify_block_terminals:specify_output_terminal_descriptor|specify_output_terminal_descriptor]]

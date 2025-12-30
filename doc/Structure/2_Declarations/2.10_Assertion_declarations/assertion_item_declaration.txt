@@ -8,17 +8,17 @@ Created Tuesday 16 December 2025
 IEEE 1800-2023 Section A.2.10
 
 assertion_item_declaration ::=
-	[[property_declaration]]
-	| [[sequence_declaration]]
+	[[2_Declarations:2.10_Assertion_declarations:property_declaration|property_declaration]]
+	| [[2_Declarations:2.10_Assertion_declarations:sequence_declaration|sequence_declaration]]
 	| [[2_Declarations:2.12_Let_declarations:let_declaration|let_declaration]]
 
 ===== SVA-relevant paths =====
 
 ==== Property declaration ====
-[[property_declaration]]
+[[2_Declarations:2.10_Assertion_declarations:property_declaration|property_declaration]]
 
 ==== Sequence declaration ====
-[[sequence_declaration]]
+[[2_Declarations:2.10_Assertion_declarations:sequence_declaration|sequence_declaration]]
 
 ==== Let declaration ====
 [[2_Declarations:2.12_Let_declarations:let_declaration|let_declaration]] (for reusable expressions)

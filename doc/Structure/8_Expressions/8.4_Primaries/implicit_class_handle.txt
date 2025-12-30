@@ -10,7 +10,7 @@ implicit_class_handle ::=
 
 ===== Backlinks =====
 [[6_Behavioral_statements:6.2_Procedural_blocks_and_assignments:blocking_assignment|blocking_assignment]]
-[[class_qualifier]]
+[[8_Expressions:8.4_Primaries:class_qualifier|class_qualifier]]
 [[1_Source_text:1.10_Constraints:constraint_primary|constraint_primary]]
 [[8_Expressions:8.2_Subroutine_calls:method_call_root|method_call_root]]
 [[8_Expressions:8.5_Expression_left_side_values:nonrange_variable_lvalue|nonrange_variable_lvalue]]

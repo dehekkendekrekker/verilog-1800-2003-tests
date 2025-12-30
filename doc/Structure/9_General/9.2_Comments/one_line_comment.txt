@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.9.2
 
 one_line_comment ::=
-	// [[comment_text]] \n
+	// [[9_General:9.2_Comments:comment_text|comment_text]] \n
 
 ===== Backlinks =====
-[[comment]]
+[[9_General:9.2_Comments:comment|comment]]

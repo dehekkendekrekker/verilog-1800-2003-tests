@@ -8,8 +8,8 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.2.11
 
 with_covergroup_expression ::=
-	[[covergroup_expression]]
+	[[2_Declarations:2.11_Covergroup_declarations:covergroup_expression|covergroup_expression]]
 
 ===== Backlinks =====
-[[bins_or_options]]
-[[select_expression]]
+[[2_Declarations:2.11_Covergroup_declarations:bins_or_options|bins_or_options]]
+[[2_Declarations:2.11_Covergroup_declarations:select_expression|select_expression]]

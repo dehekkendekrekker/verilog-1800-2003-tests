@@ -6,14 +6,14 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 udp_declaration ::=
-	[[udp_nonansi_declaration]] [[5_UDP_declaration_and_instantiation:5.2_UDP_ports:udp_port_declaration|udp_port_declaration]] { [[5_UDP_declaration_and_instantiation:5.2_UDP_ports:udp_port_declaration|udp_port_declaration]] }
+	[[5_UDP_declaration_and_instantiation:5.1_UDP_declaration:udp_nonansi_declaration|udp_nonansi_declaration]] [[5_UDP_declaration_and_instantiation:5.2_UDP_ports:udp_port_declaration|udp_port_declaration]] { [[5_UDP_declaration_and_instantiation:5.2_UDP_ports:udp_port_declaration|udp_port_declaration]] }
 [[5_UDP_declaration_and_instantiation:5.3_UDP_body:udp_body|udp_body]]
 **endprimitive** [ : [[9_General:9.3_Identifiers:udp_identifier|udp_identifier]] ]
-| [[udp_ansi_declaration]]
+| [[5_UDP_declaration_and_instantiation:5.1_UDP_declaration:udp_ansi_declaration|udp_ansi_declaration]]
 [[5_UDP_declaration_and_instantiation:5.3_UDP_body:udp_body|udp_body]]
 **endprimitive** [ : [[9_General:9.3_Identifiers:udp_identifier|udp_identifier]] ]
-| **extern** [[udp_nonansi_declaration]]
-| **extern** [[udp_ansi_declaration]]
+| **extern** [[5_UDP_declaration_and_instantiation:5.1_UDP_declaration:udp_nonansi_declaration|udp_nonansi_declaration]]
+| **extern** [[5_UDP_declaration_and_instantiation:5.1_UDP_declaration:udp_ansi_declaration|udp_ansi_declaration]]
 | { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } **primitive** [[9_General:9.3_Identifiers:udp_identifier|udp_identifier]] ( . * ) ;
 { [[5_UDP_declaration_and_instantiation:5.2_UDP_ports:udp_port_declaration|udp_port_declaration]] }
 [[5_UDP_declaration_and_instantiation:5.3_UDP_body:udp_body|udp_body]]

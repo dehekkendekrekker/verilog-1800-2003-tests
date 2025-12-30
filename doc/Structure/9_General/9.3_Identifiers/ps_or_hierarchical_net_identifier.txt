@@ -6,8 +6,8 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 ps_or_hierarchical_net_identifier ::=
-	[ [[package_scope]] ] [[net_identifier]]
-| [[hierarchical_net_identifier]]
+	[ [[9_General:9.3_Identifiers:package_scope|package_scope]] ] [[9_General:9.3_Identifiers:net_identifier|net_identifier]]
+| [[9_General:9.3_Identifiers:hierarchical_net_identifier|hierarchical_net_identifier]]
 
 ===== Backlinks =====
 [[8_Expressions:8.5_Expression_left_side_values:net_lvalue|net_lvalue]]

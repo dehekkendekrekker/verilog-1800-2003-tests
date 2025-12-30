@@ -8,16 +8,16 @@ Created Tuesday 16 December 2025
 IEEE 1800-2023 Section A.2.10, 16.11
 
 property_declaration ::=
-	**property** [[9_General:9.3_Identifiers:property_identifier|property_identifier]] [ ( [ [[property_port_list]] ] ) ] ;
-	{ [[assertion_variable_declaration]] }
-	[[property_spec]] [ ; ]
+	**property** [[9_General:9.3_Identifiers:property_identifier|property_identifier]] [ ( [ [[2_Declarations:2.10_Assertion_declarations:property_port_list|property_port_list]] ] ) ] ;
+	{ [[2_Declarations:2.10_Assertion_declarations:assertion_variable_declaration|assertion_variable_declaration]] }
+	[[2_Declarations:2.10_Assertion_declarations:property_spec|property_spec]] [ ; ]
 	**endproperty** [ : [[9_General:9.3_Identifiers:property_identifier|property_identifier]] ]
 
 ===== Permutations =====
 
 ==== Permutation 1: Basic property without arguments ====
 property p;
-	[[property_spec]];
+	[[2_Declarations:2.10_Assertion_declarations:property_spec|property_spec]];
 endproperty
 
 ==== Permutation 2: Property with port list ====
@@ -47,9 +47,9 @@ property p;
 endproperty : p
 
 ===== SVA-relevant paths =====
-[[property_port_list]]
-[[assertion_variable_declaration]]
-[[property_spec]]
+[[2_Declarations:2.10_Assertion_declarations:property_port_list|property_port_list]]
+[[2_Declarations:2.10_Assertion_declarations:assertion_variable_declaration|assertion_variable_declaration]]
+[[2_Declarations:2.10_Assertion_declarations:property_spec|property_spec]]
 
 ===== Backlinks =====
-[[assertion_item_declaration]]
+[[2_Declarations:2.10_Assertion_declarations:assertion_item_declaration|assertion_item_declaration]]

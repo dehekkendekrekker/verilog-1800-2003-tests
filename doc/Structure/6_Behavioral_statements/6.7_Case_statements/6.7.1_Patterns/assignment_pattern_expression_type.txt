@@ -12,6 +12,6 @@ assignment_pattern_expression_type ::=
 | [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:type_reference|type_reference]]
 
 ===== Backlinks =====
-[[assignment_pattern_expression]]
+[[6_Behavioral_statements:6.7_Case_statements:6.7.1_Patterns:assignment_pattern_expression|assignment_pattern_expression]]
 [[8_Expressions:8.5_Expression_left_side_values:net_lvalue|net_lvalue]]
 [[8_Expressions:8.5_Expression_left_side_values:variable_lvalue|variable_lvalue]]

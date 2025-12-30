@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.6.12
 
 rs_if_else ::=
-	**if** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) [[rs_production_item]] [ **else** [[rs_production_item]] ]
+	**if** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) [[6_Behavioral_statements:6.12_Randsequence:rs_production_item|rs_production_item]] [ **else** [[6_Behavioral_statements:6.12_Randsequence:rs_production_item|rs_production_item]] ]
 
 ===== Backlinks =====
-[[rs_prod]]
+[[6_Behavioral_statements:6.12_Randsequence:rs_prod|rs_prod]]

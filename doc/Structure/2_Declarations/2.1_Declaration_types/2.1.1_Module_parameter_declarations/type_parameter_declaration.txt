@@ -9,6 +9,6 @@ type_parameter_declaration ::=
 	**type** [ [[2_Declarations:2.1_Declaration_types:2.1.3_Type_declarations:forward_type|forward_type]] ] [[2_Declarations:2.3_Declaration_lists:list_of_type_assignments|list_of_type_assignments]]
 
 ===== Backlinks =====
-[[local_parameter_declaration]]
-[[parameter_declaration]]
+[[2_Declarations:2.1_Declaration_types:2.1.1_Module_parameter_declarations:local_parameter_declaration|local_parameter_declaration]]
+[[2_Declarations:2.1_Declaration_types:2.1.1_Module_parameter_declarations:parameter_declaration|parameter_declaration]]
 [[1_Source_text:1.3_Module_parameters_and_ports:parameter_port_declaration|parameter_port_declaration]]

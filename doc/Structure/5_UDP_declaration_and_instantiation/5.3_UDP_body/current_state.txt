@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.5.3
 
 current_state ::=
-	[[level_symbol]]
+	[[5_UDP_declaration_and_instantiation:5.3_UDP_body:level_symbol|level_symbol]]
 
 ===== Backlinks =====
-[[sequential_entry]]
+[[5_UDP_declaration_and_instantiation:5.3_UDP_body:sequential_entry|sequential_entry]]

@@ -8,9 +8,9 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.8.2
 
 array_manipulation_call ::=
-	[[array_method_name]] { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] }
-[ ( [[list_of_arguments]] ) ]
+	[[8_Expressions:8.2_Subroutine_calls:array_method_name|array_method_name]] { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] }
+[ ( [[8_Expressions:8.2_Subroutine_calls:list_of_arguments|list_of_arguments]] ) ]
 [ **with** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) ]
 
 ===== Backlinks =====
-[[built_in_method_call]]
+[[8_Expressions:8.2_Subroutine_calls:built_in_method_call|built_in_method_call]]

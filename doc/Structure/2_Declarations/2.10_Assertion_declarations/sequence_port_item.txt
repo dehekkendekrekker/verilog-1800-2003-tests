@@ -6,8 +6,8 @@ Creation-Date: 2025-12-17T00:22:45+00:00
 Created Wednesday 17 December 2025
 
 sequence_port_item ::=
-	{ [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [ **local** [ [[sequence_lvar_port_direction]] ] ] [[sequence_formal_type]]
-[[9_General:9.3_Identifiers:formal_port_identifier|formal_port_identifier]] { [[2_Declarations:2.5_Declaration_ranges:variable_dimension|variable_dimension]] } [ **=** [[sequence_actual_arg]] ]
+	{ [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [ **local** [ [[2_Declarations:2.10_Assertion_declarations:sequence_lvar_port_direction|sequence_lvar_port_direction]] ] ] [[2_Declarations:2.10_Assertion_declarations:sequence_formal_type|sequence_formal_type]]
+[[9_General:9.3_Identifiers:formal_port_identifier|formal_port_identifier]] { [[2_Declarations:2.5_Declaration_ranges:variable_dimension|variable_dimension]] } [ **=** [[2_Declarations:2.10_Assertion_declarations:sequence_actual_arg|sequence_actual_arg]] ]
 
 ===== Backlinks =====
-[[sequence_port_list]]
+[[2_Declarations:2.10_Assertion_declarations:sequence_port_list|sequence_port_list]]

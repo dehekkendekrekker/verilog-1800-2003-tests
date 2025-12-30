@@ -8,229 +8,229 @@ Created Tuesday 16 December 2025
 IEEE 1800-2023 Section A.2.10, 16.12
 
 property_expr ::=
-	[[sequence_expr]]
-	| **strong** ( [[sequence_expr]] )
-	| **weak** ( [[sequence_expr]] )
-	| ( [[property_expr]] )
-	| **not** [[property_expr]]
-	| [[property_expr]] **or** [[property_expr]]
-	| [[property_expr]] **and** [[property_expr]]
-	| [[sequence_expr]] **|->** [[property_expr]]
-	| [[sequence_expr]] **|=>** [[property_expr]]
-	| **if** ( [[1_Source_text:1.10_Constraints:expression_or_dist|expression_or_dist]] ) [[property_expr]] [ **else** [[property_expr]] ]
-	| **case** ( [[1_Source_text:1.10_Constraints:expression_or_dist|expression_or_dist]] ) [[property_case_item]] { [[property_case_item]] } **endcase**
-	| [[sequence_expr]] **#-#** [[property_expr]]
-	| [[sequence_expr]] **#=#** [[property_expr]]
-	| **nexttime** [[property_expr]]
-	| **nexttime** [ [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] ] [[property_expr]]
-	| **s_nexttime** [[property_expr]]
-	| **s_nexttime** [ [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] ] [[property_expr]]
-	| **always** [[property_expr]]
-	| **always** [ [[cycle_delay_const_range_expression]] ] [[property_expr]]
-	| **s_always** [ [[8_Expressions:8.3_Expressions:constant_range|constant_range]] ] [[property_expr]]
-	| **s_eventually** [[property_expr]]
-	| **eventually** [ [[8_Expressions:8.3_Expressions:constant_range|constant_range]] ] [[property_expr]]
-	| **s_eventually** [ [[cycle_delay_const_range_expression]] ] [[property_expr]]
-	| [[property_expr]] **until** [[property_expr]]
-	| [[property_expr]] **s_until** [[property_expr]]
-	| [[property_expr]] **until_with** [[property_expr]]
-	| [[property_expr]] **s_until_with** [[property_expr]]
-	| [[property_expr]] **implies** [[property_expr]]
-	| [[property_expr]] **iff** [[property_expr]]
-	| **accept_on** ( [[1_Source_text:1.10_Constraints:expression_or_dist|expression_or_dist]] ) [[property_expr]]
-	| **reject_on** ( [[1_Source_text:1.10_Constraints:expression_or_dist|expression_or_dist]] ) [[property_expr]]
-	| **sync_accept_on** ( [[1_Source_text:1.10_Constraints:expression_or_dist|expression_or_dist]] ) [[property_expr]]
-	| **sync_reject_on** ( [[1_Source_text:1.10_Constraints:expression_or_dist|expression_or_dist]] ) [[property_expr]]
-	| [[property_instance]]
-	| [[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]] [[property_expr]]
+	[[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]]
+	| **strong** ( [[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]] )
+	| **weak** ( [[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]] )
+	| ( [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] )
+	| **not** [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] **or** [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] **and** [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| [[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]] **|->** [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| [[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]] **|=>** [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| **if** ( [[1_Source_text:1.10_Constraints:expression_or_dist|expression_or_dist]] ) [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] [ **else** [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ]
+	| **case** ( [[1_Source_text:1.10_Constraints:expression_or_dist|expression_or_dist]] ) [[2_Declarations:2.10_Assertion_declarations:property_case_item|property_case_item]] { [[2_Declarations:2.10_Assertion_declarations:property_case_item|property_case_item]] } **endcase**
+	| [[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]] **#-#** [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| [[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]] **#=#** [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| **nexttime** [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| **nexttime** [ [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] ] [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| **s_nexttime** [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| **s_nexttime** [ [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] ] [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| **always** [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| **always** [ [[2_Declarations:2.10_Assertion_declarations:cycle_delay_const_range_expression|cycle_delay_const_range_expression]] ] [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| **s_always** [ [[8_Expressions:8.3_Expressions:constant_range|constant_range]] ] [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| **s_eventually** [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| **eventually** [ [[8_Expressions:8.3_Expressions:constant_range|constant_range]] ] [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| **s_eventually** [ [[2_Declarations:2.10_Assertion_declarations:cycle_delay_const_range_expression|cycle_delay_const_range_expression]] ] [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] **until** [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] **s_until** [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] **until_with** [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] **s_until_with** [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] **implies** [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] **iff** [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| **accept_on** ( [[1_Source_text:1.10_Constraints:expression_or_dist|expression_or_dist]] ) [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| **reject_on** ( [[1_Source_text:1.10_Constraints:expression_or_dist|expression_or_dist]] ) [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| **sync_accept_on** ( [[1_Source_text:1.10_Constraints:expression_or_dist|expression_or_dist]] ) [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| **sync_reject_on** ( [[1_Source_text:1.10_Constraints:expression_or_dist|expression_or_dist]] ) [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
+	| [[2_Declarations:2.10_Assertion_declarations:property_instance|property_instance]]
+	| [[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]] [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]
 
 ===== Category 1: Base forms =====
 
-==== [[sequence_expr]] as property ====
+==== [[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]] as property ====
 A sequence expression used directly as a property.
 	a
 	a ##1 b
 	req ##[1:4] gnt
 
-==== strong([[sequence_expr]]) ====
+==== strong([[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]]) ====
 Strong sequence - must complete.
 	strong(req ##[1:$] gnt)
 
-==== weak([[sequence_expr]]) ====
+==== weak([[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]]) ====
 Weak sequence - may or may not complete.
 	weak(req ##[1:$] gnt)
 
-==== ([[property_expr]]) ====
+==== ([[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]]) ====
 Parenthesized property.
 	(a |-> b)
 
 
 ===== Category 2: Logical operators =====
 
-==== not [[property_expr]] ====
+==== not [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Negation.
 	not (a && b)
 	not (a |-> b)
 
-==== [[property_expr]] or [[property_expr]] ====
+==== [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] or [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Logical OR.
 	(a |-> b) or (c |-> d)
 
-==== [[property_expr]] and [[property_expr]] ====
+==== [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] and [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Logical AND.
 	(a |-> b) and (c |-> d)
 
 
 ===== Category 3: Implication operators =====
 
-==== [[sequence_expr]] |-> [[property_expr]] (overlapped implication) ====
+==== [[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]] |-> [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] (overlapped implication) ====
 Antecedent match triggers consequent check same cycle.
 	req |-> gnt
 	(a ##1 b) |-> c
 	a |-> (b ##1 c)
 
-==== [[sequence_expr]] |=> [[property_expr]] (non-overlapped implication) ====
+==== [[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]] |=> [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] (non-overlapped implication) ====
 Antecedent match triggers consequent check next cycle.
 	req |=> gnt
 	(a ##1 b) |=> (c ##1 d)
 
-==== [[property_expr]] implies [[property_expr]] ====
+==== [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] implies [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Property implication.
 	(a |-> b) implies (c |-> d)
 
-==== [[property_expr]] iff [[property_expr]] ====
+==== [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] iff [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Property if-and-only-if.
 	(a |-> b) iff (b |-> a)
 
 
 ===== Category 4: Followed-by operators =====
 
-==== [[sequence_expr]] #-# [[property_expr]] (overlapped followed-by) ====
+==== [[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]] #-# [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] (overlapped followed-by) ====
 	a #-# b
 
-==== [[sequence_expr]] #=# [[property_expr]] (non-overlapped followed-by) ====
+==== [[2_Declarations:2.10_Assertion_declarations:sequence_expr|sequence_expr]] #=# [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] (non-overlapped followed-by) ====
 	a #=# b
 
 
 ===== Category 5: Temporal operators - nexttime =====
 
-==== nexttime [[property_expr]] ====
+==== nexttime [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Property must hold next cycle.
 	req |-> nexttime gnt
 
-==== nexttime [n] [[property_expr]] ====
+==== nexttime [n] [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Property must hold n cycles later.
 	req |-> nexttime[2] gnt
 
-==== s_nexttime [[property_expr]] ====
+==== s_nexttime [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Strong nexttime.
 	req |-> s_nexttime gnt
 
-==== s_nexttime [n] [[property_expr]] ====
+==== s_nexttime [n] [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Strong nexttime with offset.
 	req |-> s_nexttime[2] gnt
 
 
 ===== Category 6: Temporal operators - always =====
 
-==== always [[property_expr]] ====
+==== always [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Property must hold every cycle.
 	always valid
 
-==== always [range] [[property_expr]] ====
+==== always [range] [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Property must hold within range.
 	req |-> always[1:10] busy
 
-==== s_always [range] [[property_expr]] ====
+==== s_always [range] [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Strong always with range.
 	s_always[1:10] stable
 
 
 ===== Category 7: Temporal operators - eventually =====
 
-==== eventually [range] [[property_expr]] ====
+==== eventually [range] [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Property must hold at some cycle in range.
 	req |-> eventually[1:100] gnt
 
-==== s_eventually [[property_expr]] ====
+==== s_eventually [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Strong eventually (must complete).
 	req |-> s_eventually gnt
 
-==== s_eventually [range] [[property_expr]] ====
+==== s_eventually [range] [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Strong eventually with range.
 	req |-> s_eventually[1:$] gnt
 
 
 ===== Category 8: Temporal operators - until =====
 
-==== [[property_expr]] until [[property_expr]] ====
+==== [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] until [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 First property holds until second becomes true.
 	busy until done
 
-==== [[property_expr]] s_until [[property_expr]] ====
+==== [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] s_until [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Strong until.
 	busy s_until done
 
-==== [[property_expr]] until_with [[property_expr]] ====
+==== [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] until_with [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Until (inclusive).
 	busy until_with done
 
-==== [[property_expr]] s_until_with [[property_expr]] ====
+==== [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] s_until_with [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Strong until (inclusive).
 	busy s_until_with done
 
 
 ===== Category 9: Conditional =====
 
-==== if (expr) [[property_expr]] ====
+==== if (expr) [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Conditional property without else.
 	if (mode) (a |-> b)
 
-==== if (expr) [[property_expr]] else [[property_expr]] ====
+==== if (expr) [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] else [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Conditional property with else.
 	if (mode) (a |-> b) else (c |-> d)
 
-==== case (expr) [[property_case_item]] endcase ====
+==== case (expr) [[2_Declarations:2.10_Assertion_declarations:property_case_item|property_case_item]] endcase ====
 Case property.
 	case(state) 2'b00: idle_prop; 2'b01: run_prop; endcase
 
 
 ===== Category 10: Abort conditions =====
 
-==== accept_on (expr) [[property_expr]] ====
+==== accept_on (expr) [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Asynchronous accept.
 	accept_on(done) req |-> gnt
 
-==== reject_on (expr) [[property_expr]] ====
+==== reject_on (expr) [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Asynchronous reject.
 	reject_on(error) req |-> gnt
 
-==== sync_accept_on (expr) [[property_expr]] ====
+==== sync_accept_on (expr) [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Synchronous accept.
 	sync_accept_on(done) req |-> gnt
 
-==== sync_reject_on (expr) [[property_expr]] ====
+==== sync_reject_on (expr) [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Synchronous reject.
 	sync_reject_on(error) req |-> gnt
 
 
 ===== Category 11: Instance and clocking =====
 
-==== [[property_instance]] ====
+==== [[2_Declarations:2.10_Assertion_declarations:property_instance|property_instance]] ====
 Named property instantiation.
 	my_property(a, b)
 
-==== [[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]] [[property_expr]] ====
+==== [[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]] [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ====
 Property with explicit clock.
 	@(posedge clk) a |-> b
 
 
 ===== Backlinks =====
-[[assert_property_statement]]
-[[assume_property_statement]]
-[[cover_property_statement]]
-[[expect_property_statement]]
-[[property_actual_arg]]
-[[property_case_item]]
-[[property_spec]]
-[[restrict_property_statement]]
+[[2_Declarations:2.10_Assertion_declarations:assert_property_statement|assert_property_statement]]
+[[2_Declarations:2.10_Assertion_declarations:assume_property_statement|assume_property_statement]]
+[[2_Declarations:2.10_Assertion_declarations:cover_property_statement|cover_property_statement]]
+[[2_Declarations:2.10_Assertion_declarations:expect_property_statement|expect_property_statement]]
+[[2_Declarations:2.10_Assertion_declarations:property_actual_arg|property_actual_arg]]
+[[2_Declarations:2.10_Assertion_declarations:property_case_item|property_case_item]]
+[[2_Declarations:2.10_Assertion_declarations:property_spec|property_spec]]
+[[2_Declarations:2.10_Assertion_declarations:restrict_property_statement|restrict_property_statement]]

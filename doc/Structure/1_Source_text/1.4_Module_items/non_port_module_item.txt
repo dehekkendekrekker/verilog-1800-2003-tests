@@ -7,7 +7,7 @@ Created Friday 27 December 2025
 
 non_port_module_item ::=
 	[[4_Instantiations:4.2_Generated_instantiation:generate_region|generate_region]]
-| [[module_or_generate_item]]
+| [[1_Source_text:1.4_Module_items:module_or_generate_item|module_or_generate_item]]
 | [[7_Specify_section:7.1_Specify_block_declaration:specify_block|specify_block]]
 | { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [[2_Declarations:2.1_Declaration_types:2.1.1_Module_parameter_declarations:specparam_declaration|specparam_declaration]]
 | [[1_Source_text:1.2_SystemVerilog_source_text:program_declaration|program_declaration]]
@@ -17,4 +17,4 @@ non_port_module_item ::=
 
 ===== Backlinks =====
 [[1_Source_text:1.2_SystemVerilog_source_text:module_declaration|module_declaration]]
-[[module_item]]
+[[1_Source_text:1.4_Module_items:module_item|module_item]]

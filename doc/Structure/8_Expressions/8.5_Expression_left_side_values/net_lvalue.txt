@@ -7,7 +7,7 @@ Created Friday 27 December 2025
 
 net_lvalue ::=
 	[[9_General:9.3_Identifiers:ps_or_hierarchical_net_identifier|ps_or_hierarchical_net_identifier]] [[8_Expressions:8.4_Primaries:constant_select|constant_select]]
-| { [[net_lvalue]] { , [[net_lvalue]] } }
+| { [[8_Expressions:8.5_Expression_left_side_values:net_lvalue|net_lvalue]] { , [[8_Expressions:8.5_Expression_left_side_values:net_lvalue|net_lvalue]] } }
 | [ [[6_Behavioral_statements:6.7_Case_statements:6.7.1_Patterns:assignment_pattern_expression_type|assignment_pattern_expression_type]] ] [[6_Behavioral_statements:6.7_Case_statements:6.7.1_Patterns:assignment_pattern_net_lvalue|assignment_pattern_net_lvalue]]
 
 ===== Backlinks =====

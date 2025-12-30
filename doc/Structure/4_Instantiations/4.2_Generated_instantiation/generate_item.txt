@@ -13,5 +13,5 @@ generate_item ::=
 | [[1_Source_text:1.8_Checker_items:checker_or_generate_item|checker_or_generate_item]]
 
 ===== Backlinks =====
-[[generate_block]]
-[[generate_region]]
+[[4_Instantiations:4.2_Generated_instantiation:generate_block|generate_block]]
+[[4_Instantiations:4.2_Generated_instantiation:generate_region|generate_region]]

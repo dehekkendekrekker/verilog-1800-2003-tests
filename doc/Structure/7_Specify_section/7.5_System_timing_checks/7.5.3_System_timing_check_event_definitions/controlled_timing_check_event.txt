@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.7.5.3
 
 controlled_timing_check_event ::=
-	[[timing_check_event_control]] [[specify_terminal_descriptor]] [ &&& [[timing_check_condition]] ]
+	[[7_Specify_section:7.5_System_timing_checks:7.5.3_System_timing_check_event_definitions:timing_check_event_control|timing_check_event_control]] [[7_Specify_section:7.5_System_timing_checks:7.5.3_System_timing_check_event_definitions:specify_terminal_descriptor|specify_terminal_descriptor]] [ &&& [[7_Specify_section:7.5_System_timing_checks:7.5.3_System_timing_check_event_definitions:timing_check_condition|timing_check_condition]] ]
 
 ===== Backlinks =====
 [[7_Specify_section:7.5_System_timing_checks:7.5.2_System_timing_check_command_arguments:controlled_reference_event|controlled_reference_event]]

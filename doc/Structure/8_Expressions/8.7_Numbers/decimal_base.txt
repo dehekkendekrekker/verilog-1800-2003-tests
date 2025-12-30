@@ -11,4 +11,4 @@ decimal_base ::=
 	**'** [ **s** | **S** ] **d** | **'** [ **s** | **S** ] **D**
 
 ===== Backlinks =====
-[[decimal_number]]
+[[8_Expressions:8.7_Numbers:decimal_number|decimal_number]]

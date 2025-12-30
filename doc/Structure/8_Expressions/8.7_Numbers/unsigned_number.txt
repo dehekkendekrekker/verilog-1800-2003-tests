@@ -8,12 +8,12 @@ Created Friday 27 December 2025
 IEEE 1800-2023 Section A.8.7
 
 unsigned_number ::=
-	[[decimal_digit]] { _ | [[decimal_digit]] }
+	[[8_Expressions:8.7_Numbers:decimal_digit|decimal_digit]] { _ | [[8_Expressions:8.7_Numbers:decimal_digit|decimal_digit]] }
 
 ===== Backlinks =====
-[[decimal_number]]
+[[8_Expressions:8.7_Numbers:decimal_number|decimal_number]]
 [[2_Declarations:2.2_Declaration_data_types:2.2.3_Delays:delay_value|delay_value]]
-[[fixed_point_number]]
-[[real_number]]
-[[size]]
+[[8_Expressions:8.7_Numbers:fixed_point_number|fixed_point_number]]
+[[8_Expressions:8.7_Numbers:real_number|real_number]]
+[[8_Expressions:8.7_Numbers:size|size]]
 [[8_Expressions:8.4_Primaries:time_literal|time_literal]]

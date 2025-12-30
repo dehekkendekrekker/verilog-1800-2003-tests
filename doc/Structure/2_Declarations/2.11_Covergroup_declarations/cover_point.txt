@@ -6,7 +6,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 cover_point ::=
-	[ [ [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type_or_implicit|data_type_or_implicit]] ] [[9_General:9.3_Identifiers:cover_point_identifier|cover_point_identifier]] : ] **coverpoint** [[8_Expressions:8.3_Expressions:expression|expression]] [ **iff** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) ] [[bins_or_empty]]
+	[ [ [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type_or_implicit|data_type_or_implicit]] ] [[9_General:9.3_Identifiers:cover_point_identifier|cover_point_identifier]] : ] **coverpoint** [[8_Expressions:8.3_Expressions:expression|expression]] [ **iff** ( [[8_Expressions:8.3_Expressions:expression|expression]] ) ] [[2_Declarations:2.11_Covergroup_declarations:bins_or_empty|bins_or_empty]]
 
 ===== Backlinks =====
-[[coverage_spec]]
+[[2_Declarations:2.11_Covergroup_declarations:coverage_spec|coverage_spec]]

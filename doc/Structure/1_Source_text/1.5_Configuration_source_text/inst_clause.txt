@@ -8,7 +8,7 @@ Created Friday 27 December 2025
 IEEE 1800-2023 Section A.1.5
 
 inst_clause ::=
-	**instance** [[inst_name]]
+	**instance** [[1_Source_text:1.5_Configuration_source_text:inst_name|inst_name]]
 
 ===== Backlinks =====
-[[config_rule_statement]]
+[[1_Source_text:1.5_Configuration_source_text:config_rule_statement|config_rule_statement]]

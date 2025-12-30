@@ -11,5 +11,5 @@ list_of_variable_assignments ::=
 	[[6_Behavioral_statements:6.2_Procedural_blocks_and_assignments:variable_assignment|variable_assignment]] { **,** [[6_Behavioral_statements:6.2_Procedural_blocks_and_assignments:variable_assignment|variable_assignment]] }
 
 ===== Backlinks =====
-[[continuous_assign]]
+[[6_Behavioral_statements:6.1_Continuous_assignment:continuous_assign|continuous_assign]]
 [[6_Behavioral_statements:6.8_Looping_statements:for_initialization|for_initialization]]

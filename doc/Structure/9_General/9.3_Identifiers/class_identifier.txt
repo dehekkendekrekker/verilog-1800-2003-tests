@@ -8,10 +8,10 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.9.3
 
 class_identifier ::=
-	[[identifier]]
+	[[9_General:9.3_Identifiers:identifier|identifier]]
 
 ===== Backlinks =====
 [[1_Source_text:1.2_SystemVerilog_source_text:class_declaration|class_declaration]]
 [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:class_type|class_type]]
 [[1_Source_text:1.2_SystemVerilog_source_text:interface_class_declaration|interface_class_declaration]]
-[[ps_class_identifier]]
+[[9_General:9.3_Identifiers:ps_class_identifier|ps_class_identifier]]

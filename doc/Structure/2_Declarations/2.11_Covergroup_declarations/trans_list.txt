@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.2.11
 
 trans_list ::=
-	( [[trans_set]] ) { , ( [[trans_set]] ) }
+	( [[2_Declarations:2.11_Covergroup_declarations:trans_set|trans_set]] ) { , ( [[2_Declarations:2.11_Covergroup_declarations:trans_set|trans_set]] ) }
 
 ===== Backlinks =====
-[[bins_or_options]]
+[[2_Declarations:2.11_Covergroup_declarations:bins_or_options|bins_or_options]]

@@ -11,4 +11,4 @@ hex_base ::=
 	**'** [ **s** | **S** ] **h** | **'** [ **s** | **S** ] **H**
 
 ===== Backlinks =====
-[[hex_number]]
+[[8_Expressions:8.7_Numbers:hex_number|hex_number]]

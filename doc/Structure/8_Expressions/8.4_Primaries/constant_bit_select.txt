@@ -10,6 +10,6 @@ constant_bit_select ::=
 
 ===== Backlinks =====
 [[1_Source_text:1.4_Module_items:bind_target_instance|bind_target_instance]]
-[[constant_select]]
+[[8_Expressions:8.4_Primaries:constant_select|constant_select]]
 [[9_General:9.3_Identifiers:hierarchical_identifier|hierarchical_identifier]]
 [[2_Declarations:2.1_Declaration_types:2.1.3_Type_declarations:type_declaration|type_declaration]]

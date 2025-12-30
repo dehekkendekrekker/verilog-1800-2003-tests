@@ -8,8 +8,8 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.9.3
 
 generate_block_identifier ::=
-	[[identifier]]
+	[[9_General:9.3_Identifiers:identifier|identifier]]
 
 ===== Backlinks =====
 [[4_Instantiations:4.2_Generated_instantiation:generate_block|generate_block]]
-[[ps_parameter_identifier]]
+[[9_General:9.3_Identifiers:ps_parameter_identifier|ps_parameter_identifier]]

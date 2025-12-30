@@ -8,9 +8,9 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.7.2
 
 state_dependent_path_declaration ::=
-	**if** ( [[8_Expressions:8.3_Expressions:module_path_expression|module_path_expression]] ) [[simple_path_declaration]]
-| **if** ( [[8_Expressions:8.3_Expressions:module_path_expression|module_path_expression]] ) [[edge_sensitive_path_declaration]]
-| **ifnone** [[simple_path_declaration]]
+	**if** ( [[8_Expressions:8.3_Expressions:module_path_expression|module_path_expression]] ) [[7_Specify_section:7.2_Specify_path_declarations:simple_path_declaration|simple_path_declaration]]
+| **if** ( [[8_Expressions:8.3_Expressions:module_path_expression|module_path_expression]] ) [[7_Specify_section:7.2_Specify_path_declarations:edge_sensitive_path_declaration|edge_sensitive_path_declaration]]
+| **ifnone** [[7_Specify_section:7.2_Specify_path_declarations:simple_path_declaration|simple_path_declaration]]
 
 ===== Backlinks =====
-[[path_declaration]]
+[[7_Specify_section:7.2_Specify_path_declarations:path_declaration|path_declaration]]

@@ -6,7 +6,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 modport_simple_ports_declaration ::=
-	[[1_Source_text:1.3_Module_parameters_and_ports:port_direction|port_direction]] [[modport_simple_port]] { , [[modport_simple_port]] }
+	[[1_Source_text:1.3_Module_parameters_and_ports:port_direction|port_direction]] [[2_Declarations:2.9_Interface_declarations:modport_simple_port|modport_simple_port]] { , [[2_Declarations:2.9_Interface_declarations:modport_simple_port|modport_simple_port]] }
 
 ===== Backlinks =====
-[[modport_ports_declaration]]
+[[2_Declarations:2.9_Interface_declarations:modport_ports_declaration|modport_ports_declaration]]

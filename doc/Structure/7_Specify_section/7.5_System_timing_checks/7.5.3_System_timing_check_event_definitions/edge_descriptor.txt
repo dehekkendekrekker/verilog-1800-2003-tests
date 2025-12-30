@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.7.5.3
 
 edge_descriptor ::=
-	01 | 10 | [[z_or_x]] [[zero_or_one]] | [[zero_or_one]] [[z_or_x]]
+	01 | 10 | [[7_Specify_section:7.5_System_timing_checks:7.5.3_System_timing_check_event_definitions:z_or_x|z_or_x]] [[7_Specify_section:7.5_System_timing_checks:7.5.3_System_timing_check_event_definitions:zero_or_one|zero_or_one]] | [[7_Specify_section:7.5_System_timing_checks:7.5.3_System_timing_check_event_definitions:zero_or_one|zero_or_one]] [[7_Specify_section:7.5_System_timing_checks:7.5.3_System_timing_check_event_definitions:z_or_x|z_or_x]]
 
 ===== Backlinks =====
-[[edge_control_specifier]]
+[[7_Specify_section:7.5_System_timing_checks:7.5.3_System_timing_check_event_definitions:edge_control_specifier|edge_control_specifier]]

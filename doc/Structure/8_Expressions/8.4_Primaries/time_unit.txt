@@ -9,4 +9,4 @@ time_unit ::=
 	**s** | **ms** | **us** | **ns** | **ps** | **fs**
 
 ===== Backlinks =====
-[[time_literal]]
+[[8_Expressions:8.4_Primaries:time_literal|time_literal]]

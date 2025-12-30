@@ -6,8 +6,8 @@ Creation-Date: 2025-12-16T23:35:55+00:00
 Created Tuesday 16 December 2025
 
 checker_port_item ::=
-	{ [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [ [[checker_port_direction]] ] [[2_Declarations:2.10_Assertion_declarations:property_formal_type|property_formal_type]] [[9_General:9.3_Identifiers:formal_port_identifier|formal_port_identifier]]
+	{ [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [ [[1_Source_text:1.8_Checker_items:checker_port_direction|checker_port_direction]] ] [[2_Declarations:2.10_Assertion_declarations:property_formal_type|property_formal_type]] [[9_General:9.3_Identifiers:formal_port_identifier|formal_port_identifier]]
 { [[2_Declarations:2.5_Declaration_ranges:variable_dimension|variable_dimension]] } [ = [[2_Declarations:2.10_Assertion_declarations:property_actual_arg|property_actual_arg]] ]
 
 ===== Backlinks =====
-[[checker_port_list]]
+[[1_Source_text:1.8_Checker_items:checker_port_list|checker_port_list]]

@@ -8,23 +8,23 @@ Created Tuesday 16 December 2025
 IEEE 1800-2023 Section A.2.10, 16.14
 
 restrict_property_statement ::=
-	**restrict property** ( [[property_spec]] ) ;
+	**restrict property** ( [[2_Declarations:2.10_Assertion_declarations:property_spec|property_spec]] ) ;
 
 Note: restrict has no [[6_Behavioral_statements:6.3_Parallel_and_sequential_blocks:action_block|action_block]] - it terminates with semicolon.
 
-===== [[property_spec]] permutations =====
+===== [[2_Declarations:2.10_Assertion_declarations:property_spec|property_spec]] permutations =====
 
-==== Permutation 1: [[property_expr]] only ====
-restrict property ( [[property_expr]] ) ;
+==== Permutation 1: [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] only ====
+restrict property ( [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ) ;
 
 ==== Permutation 2: With [[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]] ====
-restrict property ( @(posedge clk) [[property_expr]] ) ;
+restrict property ( @(posedge clk) [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ) ;
 
 ==== Permutation 3: With disable iff ====
-restrict property ( disable iff (reset) [[property_expr]] ) ;
+restrict property ( disable iff (reset) [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ) ;
 
 ==== Permutation 4: With [[6_Behavioral_statements:6.5_Timing_control_statements:clocking_event|clocking_event]] and disable iff ====
-restrict property ( @(posedge clk) disable iff (reset) [[property_expr]] ) ;
+restrict property ( @(posedge clk) disable iff (reset) [[2_Declarations:2.10_Assertion_declarations:property_expr|property_expr]] ) ;
 
 ===== Backlinks =====
-[[concurrent_assertion_statement]]
+[[2_Declarations:2.10_Assertion_declarations:concurrent_assertion_statement|concurrent_assertion_statement]]

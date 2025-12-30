@@ -6,19 +6,19 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 constant_primary ::=
-	[[primary_literal]]
-| [[9_General:9.3_Identifiers:ps_parameter_identifier|ps_parameter_identifier]] [[constant_select]]
+	[[8_Expressions:8.4_Primaries:primary_literal|primary_literal]]
+| [[9_General:9.3_Identifiers:ps_parameter_identifier|ps_parameter_identifier]] [[8_Expressions:8.4_Primaries:constant_select|constant_select]]
 | [[9_General:9.3_Identifiers:specparam_identifier|specparam_identifier]] [ [ [[8_Expressions:8.3_Expressions:constant_range_expression|constant_range_expression]] ] ]
 | [[9_General:9.3_Identifiers:genvar_identifier|genvar_identifier]]
-| [[9_General:9.3_Identifiers:formal_port_identifier|formal_port_identifier]] [[constant_select]]
+| [[9_General:9.3_Identifiers:formal_port_identifier|formal_port_identifier]] [[8_Expressions:8.4_Primaries:constant_select|constant_select]]
 | [ [[9_General:9.3_Identifiers:package_scope|package_scope]] | [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:class_scope|class_scope]] ] [[9_General:9.3_Identifiers:enum_identifier|enum_identifier]]
 | [[8_Expressions:8.1_Concatenations:empty_unpacked_array_concatenation|empty_unpacked_array_concatenation]]
 | [[8_Expressions:8.1_Concatenations:constant_concatenation|constant_concatenation]] [ [ [[8_Expressions:8.3_Expressions:constant_range_expression|constant_range_expression]] ] ]
 | [[8_Expressions:8.1_Concatenations:constant_multiple_concatenation|constant_multiple_concatenation]] [ [ [[8_Expressions:8.3_Expressions:constant_range_expression|constant_range_expression]] ] ]
 | [[8_Expressions:8.2_Subroutine_calls:constant_function_call|constant_function_call]] [ [ [[8_Expressions:8.3_Expressions:constant_range_expression|constant_range_expression]] ] ]
-| [[constant_let_expression]]
+| [[8_Expressions:8.4_Primaries:constant_let_expression|constant_let_expression]]
 | ( [[8_Expressions:8.3_Expressions:constant_mintypmax_expression|constant_mintypmax_expression]] )
-| [[constant_cast]]
+| [[8_Expressions:8.4_Primaries:constant_cast|constant_cast]]
 | [[6_Behavioral_statements:6.7_Case_statements:6.7.1_Patterns:constant_assignment_pattern_expression|constant_assignment_pattern_expression]]
 | [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:type_reference|type_reference]]
 | **null**

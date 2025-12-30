@@ -11,6 +11,6 @@ strength1 ::=
 	**supply1** | **strong1** | **pull1** | **weak1**
 
 ===== Backlinks =====
-[[drive_strength]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.2_Strengths:drive_strength|drive_strength]]
 [[3_Primitive_instances:3.2_Primitive_strengths:pulldown_strength|pulldown_strength]]
 [[3_Primitive_instances:3.2_Primitive_strengths:pullup_strength|pullup_strength]]

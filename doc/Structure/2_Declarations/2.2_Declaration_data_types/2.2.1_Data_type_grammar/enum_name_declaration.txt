@@ -11,4 +11,4 @@ enum_name_declaration ::=
 	[[9_General:9.3_Identifiers:enum_identifier|enum_identifier]] [ **[** [[8_Expressions:8.7_Numbers:integral_number|integral_number]] [ **:** [[8_Expressions:8.7_Numbers:integral_number|integral_number]] ] **]** ] [ **=** [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] ]
 
 ===== Backlinks =====
-[[data_type]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type|data_type]]

@@ -9,4 +9,4 @@ for_variable_declaration ::=
 	[ **var** ] [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type|data_type]] [[9_General:9.3_Identifiers:variable_identifier|variable_identifier]] = [[8_Expressions:8.3_Expressions:expression|expression]] { , [[9_General:9.3_Identifiers:variable_identifier|variable_identifier]] = [[8_Expressions:8.3_Expressions:expression|expression]] }
 
 ===== Backlinks =====
-[[for_initialization]]
+[[6_Behavioral_statements:6.8_Looping_statements:for_initialization|for_initialization]]

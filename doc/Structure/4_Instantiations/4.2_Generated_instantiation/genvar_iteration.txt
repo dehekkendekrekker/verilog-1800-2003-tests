@@ -13,4 +13,4 @@ genvar_iteration ::=
 | [[9_General:9.3_Identifiers:genvar_identifier|genvar_identifier]] [[8_Expressions:8.6_Operators:inc_or_dec_operator|inc_or_dec_operator]]
 
 ===== Backlinks =====
-[[loop_generate_construct]]
+[[4_Instantiations:4.2_Generated_instantiation:loop_generate_construct|loop_generate_construct]]

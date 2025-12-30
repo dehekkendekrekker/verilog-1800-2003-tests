@@ -7,9 +7,9 @@ Created Sunday 22 December 2025
 
 type_reference ::=
 	**type** ( [[8_Expressions:8.3_Expressions:expression|expression]] )
-| **type** ( [[data_type_or_incomplete_class_scoped_type]] )
+| **type** ( [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type_or_incomplete_class_scoped_type|data_type_or_incomplete_class_scoped_type]] )
 
 ===== Backlinks =====
 [[6_Behavioral_statements:6.7_Case_statements:6.7.1_Patterns:assignment_pattern_expression_type|assignment_pattern_expression_type]]
 [[8_Expressions:8.4_Primaries:constant_primary|constant_primary]]
-[[data_type]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type|data_type]]

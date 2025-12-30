@@ -7,7 +7,7 @@ Created Tuesday 16 December 2025
 
 assertion_item ::=
 	[[2_Declarations:2.10_Assertion_declarations:concurrent_assertion_item|concurrent_assertion_item]]
-| [[deferred_immediate_assertion_item]]
+| [[6_Behavioral_statements:6.10_Assertion_statements:deferred_immediate_assertion_item|deferred_immediate_assertion_item]]
 
 
 ===== Backlinks =====

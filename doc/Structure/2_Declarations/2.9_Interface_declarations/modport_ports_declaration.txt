@@ -6,9 +6,9 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 modport_ports_declaration ::=
-	{ [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [[modport_simple_ports_declaration]]
-| { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [[modport_tf_ports_declaration]]
-| { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [[modport_clocking_declaration]]
+	{ [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [[2_Declarations:2.9_Interface_declarations:modport_simple_ports_declaration|modport_simple_ports_declaration]]
+| { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [[2_Declarations:2.9_Interface_declarations:modport_tf_ports_declaration|modport_tf_ports_declaration]]
+| { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [[2_Declarations:2.9_Interface_declarations:modport_clocking_declaration|modport_clocking_declaration]]
 
 ===== Backlinks =====
-[[modport_item]]
+[[2_Declarations:2.9_Interface_declarations:modport_item|modport_item]]

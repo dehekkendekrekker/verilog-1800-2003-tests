@@ -9,4 +9,4 @@ queue_dimension ::=
 	[ $ [ : [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] ] ]
 
 ===== Backlinks =====
-[[variable_dimension]]
+[[2_Declarations:2.5_Declaration_ranges:variable_dimension|variable_dimension]]

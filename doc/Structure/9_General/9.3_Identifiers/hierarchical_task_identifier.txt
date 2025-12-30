@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.9.3
 
 hierarchical_task_identifier ::=
-	[[hierarchical_identifier]]
+	[[9_General:9.3_Identifiers:hierarchical_identifier|hierarchical_identifier]]
 
 ===== Backlinks =====
 [[6_Behavioral_statements:6.5_Timing_control_statements:disable_statement|disable_statement]]

@@ -6,7 +6,7 @@ Creation-Date: 2025-12-22T00:00:00+00:00
 Created Sunday 22 December 2025
 
 if_generate_construct ::=
-	**if** ( [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] ) [[generate_block]] [ **else** [[generate_block]] ]
+	**if** ( [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] ) [[4_Instantiations:4.2_Generated_instantiation:generate_block|generate_block]] [ **else** [[4_Instantiations:4.2_Generated_instantiation:generate_block|generate_block]] ]
 
 ===== Backlinks =====
-[[conditional_generate_construct]]
+[[4_Instantiations:4.2_Generated_instantiation:conditional_generate_construct|conditional_generate_construct]]

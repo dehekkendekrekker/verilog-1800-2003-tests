@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.8.3
 
 genvar_expression ::=
-	[[constant_expression|constant_expression]]
+	[[8_Expressions:8.3_Expressions:constant_expression|constant_expression]]
 
 ===== Backlinks =====
 [[4_Instantiations:4.2_Generated_instantiation:genvar_iteration|genvar_iteration]]

@@ -7,7 +7,7 @@ Created Friday 27 December 2025
 
 parameter_declaration ::=
 	**parameter** [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type_or_implicit|data_type_or_implicit]] [[2_Declarations:2.3_Declaration_lists:list_of_param_assignments|list_of_param_assignments]]
-| **parameter** [[type_parameter_declaration]]
+| **parameter** [[2_Declarations:2.1_Declaration_types:2.1.1_Module_parameter_declarations:type_parameter_declaration|type_parameter_declaration]]
 
 ===== Backlinks =====
 [[2_Declarations:2.8_Block_item_declarations:block_item_declaration|block_item_declaration]]

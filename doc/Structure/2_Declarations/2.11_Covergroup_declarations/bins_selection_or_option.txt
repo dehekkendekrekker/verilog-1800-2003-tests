@@ -8,8 +8,8 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.2.11
 
 bins_selection_or_option ::=
-	{ [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [[coverage_option]]
-| { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [[bins_selection]]
+	{ [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [[2_Declarations:2.11_Covergroup_declarations:coverage_option|coverage_option]]
+| { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [[2_Declarations:2.11_Covergroup_declarations:bins_selection|bins_selection]]
 
 ===== Backlinks =====
-[[cross_body_item]]
+[[2_Declarations:2.11_Covergroup_declarations:cross_body_item|cross_body_item]]

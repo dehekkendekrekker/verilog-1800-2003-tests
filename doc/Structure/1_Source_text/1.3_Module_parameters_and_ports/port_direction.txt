@@ -9,8 +9,8 @@ port_direction ::=
 	**input** | **output** | **inout** | **ref**
 
 ===== Backlinks =====
-[[ansi_port_declaration]]
+[[1_Source_text:1.3_Module_parameters_and_ports:ansi_port_declaration|ansi_port_declaration]]
 [[2_Declarations:2.9_Interface_declarations:modport_simple_ports_declaration|modport_simple_ports_declaration]]
-[[net_port_header]]
+[[1_Source_text:1.3_Module_parameters_and_ports:net_port_header|net_port_header]]
 [[2_Declarations:2.7_Task_declarations:tf_port_direction|tf_port_direction]]
-[[variable_port_header]]
+[[1_Source_text:1.3_Module_parameters_and_ports:variable_port_header|variable_port_header]]

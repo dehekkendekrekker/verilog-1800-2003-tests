@@ -11,4 +11,4 @@ nochange_timing_check ::=
 	**$nochange** ( [[7_Specify_section:7.5_System_timing_checks:7.5.2_System_timing_check_command_arguments:reference_event|reference_event]] , [[7_Specify_section:7.5_System_timing_checks:7.5.2_System_timing_check_command_arguments:data_event|data_event]] , [[7_Specify_section:7.5_System_timing_checks:7.5.2_System_timing_check_command_arguments:start_edge_offset|start_edge_offset]] , [[7_Specify_section:7.5_System_timing_checks:7.5.2_System_timing_check_command_arguments:end_edge_offset|end_edge_offset]] [ , [ [[7_Specify_section:7.5_System_timing_checks:7.5.2_System_timing_check_command_arguments:notifier|notifier]] ] ] ) ;
 
 ===== Backlinks =====
-[[system_timing_check]]
+[[7_Specify_section:7.5_System_timing_checks:7.5.1_System_timing_check_commands:system_timing_check|system_timing_check]]

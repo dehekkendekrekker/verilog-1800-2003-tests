@@ -11,10 +11,10 @@ covergroup_expression ::=
 	[[8_Expressions:8.3_Expressions:expression|expression]]
 
 ===== Backlinks =====
-[[bins_or_options]]
-[[covergroup_value_range]]
-[[cross_set_expression]]
-[[integer_covergroup_expression]]
-[[repeat_range]]
-[[set_covergroup_expression]]
-[[with_covergroup_expression]]
+[[2_Declarations:2.11_Covergroup_declarations:bins_or_options|bins_or_options]]
+[[2_Declarations:2.11_Covergroup_declarations:covergroup_value_range|covergroup_value_range]]
+[[2_Declarations:2.11_Covergroup_declarations:cross_set_expression|cross_set_expression]]
+[[2_Declarations:2.11_Covergroup_declarations:integer_covergroup_expression|integer_covergroup_expression]]
+[[2_Declarations:2.11_Covergroup_declarations:repeat_range|repeat_range]]
+[[2_Declarations:2.11_Covergroup_declarations:set_covergroup_expression|set_covergroup_expression]]
+[[2_Declarations:2.11_Covergroup_declarations:with_covergroup_expression|with_covergroup_expression]]

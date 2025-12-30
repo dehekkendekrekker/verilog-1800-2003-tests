@@ -7,7 +7,7 @@ Created Tuesday 16 December 2025
 
 program_item ::=
 	[[1_Source_text:1.3_Module_parameters_and_ports:port_declaration|port_declaration]] **;**
-| [[non_port_program_item]]
+| [[1_Source_text:1.7_Program_items:non_port_program_item|non_port_program_item]]
 
 ===== Backlinks =====
 [[1_Source_text:1.2_SystemVerilog_source_text:program_declaration|program_declaration]]

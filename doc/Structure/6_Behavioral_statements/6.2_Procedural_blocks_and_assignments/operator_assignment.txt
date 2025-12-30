@@ -6,10 +6,10 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 operator_assignment ::=
-	[[8_Expressions:8.5_Expression_left_side_values:variable_lvalue|variable_lvalue]] [[assignment_operator]] [[8_Expressions:8.3_Expressions:expression|expression]]
+	[[8_Expressions:8.5_Expression_left_side_values:variable_lvalue|variable_lvalue]] [[6_Behavioral_statements:6.2_Procedural_blocks_and_assignments:assignment_operator|assignment_operator]] [[8_Expressions:8.3_Expressions:expression|expression]]
 
 ===== Backlinks =====
-[[blocking_assignment]]
+[[6_Behavioral_statements:6.2_Procedural_blocks_and_assignments:blocking_assignment|blocking_assignment]]
 [[8_Expressions:8.3_Expressions:expression|expression]]
 [[6_Behavioral_statements:6.8_Looping_statements:for_step_assignment|for_step_assignment]]
 [[2_Declarations:2.10_Assertion_declarations:sequence_match_item|sequence_match_item]]

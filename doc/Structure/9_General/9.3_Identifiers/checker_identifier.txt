@@ -8,8 +8,8 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.9.3
 
 checker_identifier ::=
-	[[identifier]]
+	[[9_General:9.3_Identifiers:identifier|identifier]]
 
 ===== Backlinks =====
 [[1_Source_text:1.2_SystemVerilog_source_text:checker_declaration|checker_declaration]]
-[[ps_checker_identifier]]
+[[9_General:9.3_Identifiers:ps_checker_identifier|ps_checker_identifier]]

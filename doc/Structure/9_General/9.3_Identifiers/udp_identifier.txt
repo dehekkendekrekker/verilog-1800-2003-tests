@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.9.3
 
 udp_identifier ::=
-	[[identifier]]
+	[[9_General:9.3_Identifiers:identifier|identifier]]
 
 ===== Backlinks =====
 [[5_UDP_declaration_and_instantiation:5.1_UDP_declaration:udp_ansi_declaration|udp_ansi_declaration]]

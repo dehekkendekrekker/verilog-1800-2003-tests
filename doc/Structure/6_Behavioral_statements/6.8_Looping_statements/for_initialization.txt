@@ -7,7 +7,7 @@ Created Friday 27 December 2025
 
 for_initialization ::=
 	[[6_Behavioral_statements:6.1_Continuous_assignment:list_of_variable_assignments|list_of_variable_assignments]]
-| [[for_variable_declaration]] { , [[for_variable_declaration]] }
+| [[6_Behavioral_statements:6.8_Looping_statements:for_variable_declaration|for_variable_declaration]] { , [[6_Behavioral_statements:6.8_Looping_statements:for_variable_declaration|for_variable_declaration]] }
 
 ===== Backlinks =====
-[[loop_statement]]
+[[6_Behavioral_statements:6.8_Looping_statements:loop_statement|loop_statement]]

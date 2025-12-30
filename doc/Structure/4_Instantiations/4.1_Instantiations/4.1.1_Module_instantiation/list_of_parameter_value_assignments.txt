@@ -8,8 +8,8 @@ Created Friday 27 December 2025
 IEEE 1800-2023 Section A.4.1.1
 
 list_of_parameter_value_assignments ::=
-	[[ordered_parameter_assignment]] { **,** [[ordered_parameter_assignment]] }
-| [[named_parameter_assignment]] { **,** [[named_parameter_assignment]] }
+	[[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:ordered_parameter_assignment|ordered_parameter_assignment]] { **,** [[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:ordered_parameter_assignment|ordered_parameter_assignment]] }
+| [[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:named_parameter_assignment|named_parameter_assignment]] { **,** [[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:named_parameter_assignment|named_parameter_assignment]] }
 
 ===== Backlinks =====
-[[parameter_value_assignment]]
+[[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:parameter_value_assignment|parameter_value_assignment]]

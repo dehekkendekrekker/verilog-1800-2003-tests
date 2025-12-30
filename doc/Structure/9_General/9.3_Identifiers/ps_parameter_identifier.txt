@@ -6,8 +6,8 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 ps_parameter_identifier ::=
-	[ [[package_scope]] | [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:class_scope|class_scope]] ] [[parameter_identifier]]
-| { [[generate_block_identifier]] [ [ [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] ] ] . } [[parameter_identifier]]
+	[ [[9_General:9.3_Identifiers:package_scope|package_scope]] | [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:class_scope|class_scope]] ] [[9_General:9.3_Identifiers:parameter_identifier|parameter_identifier]]
+| { [[9_General:9.3_Identifiers:generate_block_identifier|generate_block_identifier]] [ [ [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] ] ] . } [[9_General:9.3_Identifiers:parameter_identifier|parameter_identifier]]
 
 ===== Backlinks =====
 [[6_Behavioral_statements:6.7_Case_statements:6.7.1_Patterns:assignment_pattern_expression_type|assignment_pattern_expression_type]]

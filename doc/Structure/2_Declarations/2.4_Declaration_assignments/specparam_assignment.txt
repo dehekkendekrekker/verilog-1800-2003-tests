@@ -7,7 +7,7 @@ Created Friday 27 December 2025
 
 specparam_assignment ::=
 	[[9_General:9.3_Identifiers:specparam_identifier|specparam_identifier]] = [[8_Expressions:8.3_Expressions:constant_mintypmax_expression|constant_mintypmax_expression]]
-| [[pulse_control_specparam]]
+| [[2_Declarations:2.4_Declaration_assignments:pulse_control_specparam|pulse_control_specparam]]
 
 ===== Backlinks =====
 [[2_Declarations:2.3_Declaration_lists:list_of_specparam_assignments|list_of_specparam_assignments]]

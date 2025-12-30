@@ -6,7 +6,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 binary_number ::=
-	[ [[size]] ] [[binary_base]] [[binary_value]]
+	[ [[8_Expressions:8.7_Numbers:size|size]] ] [[8_Expressions:8.7_Numbers:binary_base|binary_base]] [[8_Expressions:8.7_Numbers:binary_value|binary_value]]
 
 ===== Backlinks =====
-[[integral_number]]
+[[8_Expressions:8.7_Numbers:integral_number|integral_number]]

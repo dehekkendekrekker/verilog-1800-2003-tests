@@ -9,4 +9,4 @@ randcase_item ::=
 	[[8_Expressions:8.3_Expressions:expression|expression]] : [[6_Behavioral_statements:6.4_Statements:statement_or_null|statement_or_null]]
 
 ===== Backlinks =====
-[[randcase_statement]]
+[[6_Behavioral_statements:6.7_Case_statements:randcase_statement|randcase_statement]]

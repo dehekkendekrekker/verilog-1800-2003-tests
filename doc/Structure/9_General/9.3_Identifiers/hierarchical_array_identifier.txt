@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.9.3
 
 hierarchical_array_identifier ::=
-	[[hierarchical_identifier]]
+	[[9_General:9.3_Identifiers:hierarchical_identifier|hierarchical_identifier]]
 
 ===== Backlinks =====
-[[ps_or_hierarchical_array_identifier]]
+[[9_General:9.3_Identifiers:ps_or_hierarchical_array_identifier|ps_or_hierarchical_array_identifier]]

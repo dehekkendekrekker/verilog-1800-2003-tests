@@ -11,4 +11,4 @@ slice_size ::=
 	[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:simple_type|simple_type]] | [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]]
 
 ===== Backlinks =====
-[[streaming_concatenation]]
+[[8_Expressions:8.1_Concatenations:streaming_concatenation|streaming_concatenation]]

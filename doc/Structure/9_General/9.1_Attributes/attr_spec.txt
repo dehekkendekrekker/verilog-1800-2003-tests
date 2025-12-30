@@ -8,7 +8,7 @@ Created Friday 27 December 2025
 IEEE 1800-2023 Section A.9.1
 
 attr_spec ::=
-	[[attr_name]] [ **=** [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] ]
+	[[9_General:9.1_Attributes:attr_name|attr_name]] [ **=** [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]] ]
 
 ===== Backlinks =====
-[[attribute_instance]]
+[[9_General:9.1_Attributes:attribute_instance|attribute_instance]]

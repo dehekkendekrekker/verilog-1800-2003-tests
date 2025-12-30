@@ -9,6 +9,6 @@ module_keyword ::=
 	**module** | **macromodule**
 
 ===== Backlinks =====
-[[module_ansi_header]]
-[[module_declaration]]
-[[module_nonansi_header]]
+[[1_Source_text:1.2_SystemVerilog_source_text:module_ansi_header|module_ansi_header]]
+[[1_Source_text:1.2_SystemVerilog_source_text:module_declaration|module_declaration]]
+[[1_Source_text:1.2_SystemVerilog_source_text:module_nonansi_header|module_nonansi_header]]

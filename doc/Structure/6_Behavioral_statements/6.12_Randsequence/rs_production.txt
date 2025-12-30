@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.6.12
 
 rs_production ::=
-	[ [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type_or_void|data_type_or_void]] ] [[9_General:9.3_Identifiers:rs_production_identifier|rs_production_identifier]] [ ( [[2_Declarations:2.7_Task_declarations:tf_port_list|tf_port_list]] ) ] : [[rs_rule]] { | [[rs_rule]] } ;
+	[ [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type_or_void|data_type_or_void]] ] [[9_General:9.3_Identifiers:rs_production_identifier|rs_production_identifier]] [ ( [[2_Declarations:2.7_Task_declarations:tf_port_list|tf_port_list]] ) ] : [[6_Behavioral_statements:6.12_Randsequence:rs_rule|rs_rule]] { | [[6_Behavioral_statements:6.12_Randsequence:rs_rule|rs_rule]] } ;
 
 ===== Backlinks =====
-[[randsequence_statement]]
+[[6_Behavioral_statements:6.12_Randsequence:randsequence_statement|randsequence_statement]]

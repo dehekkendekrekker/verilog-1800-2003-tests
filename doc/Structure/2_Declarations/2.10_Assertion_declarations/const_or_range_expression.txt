@@ -7,10 +7,10 @@ Created Wednesday 17 December 2025
 
 const_or_range_expression ::=
 	[[8_Expressions:8.3_Expressions:constant_expression|constant_expression]]
-| [[cycle_delay_const_range_expression]]
+| [[2_Declarations:2.10_Assertion_declarations:cycle_delay_const_range_expression|cycle_delay_const_range_expression]]
 
 
 ===== Backlinks =====
-[[consecutive_repetition]]
-[[goto_repetition]]
-[[nonconsecutive_repetition]]
+[[2_Declarations:2.10_Assertion_declarations:consecutive_repetition|consecutive_repetition]]
+[[2_Declarations:2.10_Assertion_declarations:goto_repetition|goto_repetition]]
+[[2_Declarations:2.10_Assertion_declarations:nonconsecutive_repetition|nonconsecutive_repetition]]

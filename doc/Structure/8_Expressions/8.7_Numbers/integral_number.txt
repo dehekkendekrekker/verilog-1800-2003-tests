@@ -6,13 +6,13 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 integral_number ::=
-	[[decimal_number]]
-| [[octal_number]]
-| [[binary_number]]
-| [[hex_number]]
+	[[8_Expressions:8.7_Numbers:decimal_number|decimal_number]]
+| [[8_Expressions:8.7_Numbers:octal_number|octal_number]]
+| [[8_Expressions:8.7_Numbers:binary_number|binary_number]]
+| [[8_Expressions:8.7_Numbers:hex_number|hex_number]]
 
 ===== Backlinks =====
 [[6_Behavioral_statements:6.11_Clocking_block:cycle_delay|cycle_delay]]
 [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:enum_name_declaration|enum_name_declaration]]
-[[number]]
+[[8_Expressions:8.7_Numbers:number|number]]
 [[6_Behavioral_statements:6.12_Randsequence:rs_weight_specification|rs_weight_specification]]

@@ -11,5 +11,5 @@ sequence_formal_type ::=
 | **untyped**
 
 ===== Backlinks =====
-[[property_formal_type]]
-[[sequence_port_item]]
+[[2_Declarations:2.10_Assertion_declarations:property_formal_type|property_formal_type]]
+[[2_Declarations:2.10_Assertion_declarations:sequence_port_item|sequence_port_item]]

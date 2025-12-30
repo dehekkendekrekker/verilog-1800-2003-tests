@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.8.7
 
 binary_digit ::=
-	[[x_digit]] | [[z_digit]] | **0** | **1**
+	[[8_Expressions:8.7_Numbers:x_digit|x_digit]] | [[8_Expressions:8.7_Numbers:z_digit|z_digit]] | **0** | **1**
 
 ===== Backlinks =====
-[[binary_value]]
+[[8_Expressions:8.7_Numbers:binary_value|binary_value]]

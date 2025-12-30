@@ -7,7 +7,7 @@ Created Friday 27 December 2025
 
 interface_class_item ::=
 	[[2_Declarations:2.1_Declaration_types:2.1.3_Type_declarations:type_declaration|type_declaration]]
-| { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [[interface_class_method]]
+| { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } [[1_Source_text:1.9_Class_items:interface_class_method|interface_class_method]]
 | [[2_Declarations:2.1_Declaration_types:2.1.1_Module_parameter_declarations:local_parameter_declaration|local_parameter_declaration]] ;
 | [[2_Declarations:2.1_Declaration_types:2.1.1_Module_parameter_declarations:parameter_declaration|parameter_declaration]] ;
 | ;

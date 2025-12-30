@@ -10,4 +10,4 @@ assignment_operator ::=
 
 ===== Backlinks =====
 [[4_Instantiations:4.2_Generated_instantiation:genvar_iteration|genvar_iteration]]
-[[operator_assignment]]
+[[6_Behavioral_statements:6.2_Procedural_blocks_and_assignments:operator_assignment|operator_assignment]]

@@ -6,10 +6,10 @@ Creation-Date: 2025-12-22T00:00:00+00:00
 Created Sunday 22 December 2025
 
 implicit_data_type ::=
-	[ [[signing]] ] { [[2_Declarations:2.5_Declaration_ranges:packed_dimension|packed_dimension]] }
+	[ [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:signing|signing]] ] { [[2_Declarations:2.5_Declaration_ranges:packed_dimension|packed_dimension]] }
 
 ===== Backlinks =====
-[[data_type_or_implicit]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:data_type_or_implicit|data_type_or_implicit]]
 [[2_Declarations:2.6_Function_declarations:function_data_type_or_implicit|function_data_type_or_implicit]]
 [[2_Declarations:2.1_Declaration_types:2.1.3_Type_declarations:net_declaration|net_declaration]]
-[[net_port_type]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:net_port_type|net_port_type]]

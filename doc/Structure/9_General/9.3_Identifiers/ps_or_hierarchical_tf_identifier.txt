@@ -6,8 +6,8 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 ps_or_hierarchical_tf_identifier ::=
-	[ [[package_scope]] ] [[tf_identifier]]
-| [[hierarchical_tf_identifier]]
+	[ [[9_General:9.3_Identifiers:package_scope|package_scope]] ] [[9_General:9.3_Identifiers:tf_identifier|tf_identifier]]
+| [[9_General:9.3_Identifiers:hierarchical_tf_identifier|hierarchical_tf_identifier]]
 
 ===== Backlinks =====
 [[8_Expressions:8.2_Subroutine_calls:tf_call|tf_call]]

@@ -6,10 +6,10 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 variable_dimension ::=
-	[[unsized_dimension]]
-| [[unpacked_dimension]]
-| [[associative_dimension]]
-| [[queue_dimension]]
+	[[2_Declarations:2.5_Declaration_ranges:unsized_dimension|unsized_dimension]]
+| [[2_Declarations:2.5_Declaration_ranges:unpacked_dimension|unpacked_dimension]]
+| [[2_Declarations:2.5_Declaration_ranges:associative_dimension|associative_dimension]]
+| [[2_Declarations:2.5_Declaration_ranges:queue_dimension|queue_dimension]]
 
 ===== Backlinks =====
 [[1_Source_text:1.3_Module_parameters_and_ports:ansi_port_declaration|ansi_port_declaration]]

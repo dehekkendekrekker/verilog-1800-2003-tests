@@ -10,4 +10,4 @@ associative_dimension ::=
 | [ * ]
 
 ===== Backlinks =====
-[[variable_dimension]]
+[[2_Declarations:2.5_Declaration_ranges:variable_dimension|variable_dimension]]

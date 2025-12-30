@@ -11,4 +11,4 @@ octal_base ::=
 	**'** [ **s** | **S** ] **o** | **'** [ **s** | **S** ] **O**
 
 ===== Backlinks =====
-[[octal_number]]
+[[8_Expressions:8.7_Numbers:octal_number|octal_number]]

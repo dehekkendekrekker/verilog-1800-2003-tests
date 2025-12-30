@@ -8,9 +8,9 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.7.2
 
 simple_path_declaration ::=
-	[[parallel_path_description]] = [[7_Specify_section:7.4_Specify_path_delays:path_delay_value|path_delay_value]]
-| [[full_path_description]] = [[7_Specify_section:7.4_Specify_path_delays:path_delay_value|path_delay_value]]
+	[[7_Specify_section:7.2_Specify_path_declarations:parallel_path_description|parallel_path_description]] = [[7_Specify_section:7.4_Specify_path_delays:path_delay_value|path_delay_value]]
+| [[7_Specify_section:7.2_Specify_path_declarations:full_path_description|full_path_description]] = [[7_Specify_section:7.4_Specify_path_delays:path_delay_value|path_delay_value]]
 
 ===== Backlinks =====
-[[path_declaration]]
-[[state_dependent_path_declaration]]
+[[7_Specify_section:7.2_Specify_path_declarations:path_declaration|path_declaration]]
+[[7_Specify_section:7.2_Specify_path_declarations:state_dependent_path_declaration|state_dependent_path_declaration]]

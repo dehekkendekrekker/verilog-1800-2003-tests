@@ -14,12 +14,12 @@ timeunits_declaration ::=
 | **timeprecision** [[8_Expressions:8.4_Primaries:time_literal|time_literal]] **;** **timeunit** [[8_Expressions:8.4_Primaries:time_literal|time_literal]] **;**
 
 ===== Backlinks =====
-[[interface_declaration]]
-[[module_declaration]]
+[[1_Source_text:1.2_SystemVerilog_source_text:interface_declaration|interface_declaration]]
+[[1_Source_text:1.2_SystemVerilog_source_text:module_declaration|module_declaration]]
 [[1_Source_text:1.6_Interface_items:non_port_interface_item|non_port_interface_item]]
 [[1_Source_text:1.4_Module_items:non_port_module_item|non_port_module_item]]
 [[1_Source_text:1.7_Program_items:non_port_program_item|non_port_program_item]]
-[[package_declaration]]
+[[1_Source_text:1.2_SystemVerilog_source_text:package_declaration|package_declaration]]
 [[1_Source_text:1.11_Package_items:package_item|package_item]]
-[[program_declaration]]
-[[source_text]]
+[[1_Source_text:1.2_SystemVerilog_source_text:program_declaration|program_declaration]]
+[[1_Source_text:1.2_SystemVerilog_source_text:source_text|source_text]]

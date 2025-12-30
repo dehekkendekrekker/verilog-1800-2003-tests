@@ -8,8 +8,8 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.9.3
 
 sequence_identifier ::=
-	[[identifier]]
+	[[9_General:9.3_Identifiers:identifier|identifier]]
 
 ===== Backlinks =====
-[[ps_or_hierarchical_sequence_identifier]]
+[[9_General:9.3_Identifiers:ps_or_hierarchical_sequence_identifier|ps_or_hierarchical_sequence_identifier]]
 [[2_Declarations:2.10_Assertion_declarations:sequence_declaration|sequence_declaration]]

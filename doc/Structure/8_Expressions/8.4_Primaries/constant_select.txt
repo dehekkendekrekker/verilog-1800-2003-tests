@@ -6,9 +6,9 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 constant_select ::=
-	[ { . [[9_General:9.3_Identifiers:member_identifier|member_identifier]] [[constant_bit_select]] } . [[9_General:9.3_Identifiers:member_identifier|member_identifier]] ] [[constant_bit_select]] [ [ [[8_Expressions:8.3_Expressions:constant_part_select_range|constant_part_select_range]] ] ]
+	[ { . [[9_General:9.3_Identifiers:member_identifier|member_identifier]] [[8_Expressions:8.4_Primaries:constant_bit_select|constant_bit_select]] } . [[9_General:9.3_Identifiers:member_identifier|member_identifier]] ] [[8_Expressions:8.4_Primaries:constant_bit_select|constant_bit_select]] [ [ [[8_Expressions:8.3_Expressions:constant_part_select_range|constant_part_select_range]] ] ]
 
 ===== Backlinks =====
-[[constant_primary]]
+[[8_Expressions:8.4_Primaries:constant_primary|constant_primary]]
 [[8_Expressions:8.5_Expression_left_side_values:net_lvalue|net_lvalue]]
 [[1_Source_text:1.3_Module_parameters_and_ports:port_reference|port_reference]]

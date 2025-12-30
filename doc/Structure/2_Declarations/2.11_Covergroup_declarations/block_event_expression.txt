@@ -6,9 +6,9 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 block_event_expression ::=
-	[[block_event_expression]] **or** [[block_event_expression]]
-| **begin** [[hierarchical_btf_identifier]]
-| **end** [[hierarchical_btf_identifier]]
+	[[2_Declarations:2.11_Covergroup_declarations:block_event_expression|block_event_expression]] **or** [[2_Declarations:2.11_Covergroup_declarations:block_event_expression|block_event_expression]]
+| **begin** [[2_Declarations:2.11_Covergroup_declarations:hierarchical_btf_identifier|hierarchical_btf_identifier]]
+| **end** [[2_Declarations:2.11_Covergroup_declarations:hierarchical_btf_identifier|hierarchical_btf_identifier]]
 
 ===== Backlinks =====
-[[coverage_event]]
+[[2_Declarations:2.11_Covergroup_declarations:coverage_event|coverage_event]]

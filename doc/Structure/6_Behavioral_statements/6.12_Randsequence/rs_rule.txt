@@ -8,7 +8,7 @@ Created Saturday 28 December 2025
 IEEE 1800-2023 Section A.6.12
 
 rs_rule ::=
-	[[rs_production_list]] [ := [[rs_weight_specification]] [ [[rs_code_block]] ] ]
+	[[6_Behavioral_statements:6.12_Randsequence:rs_production_list|rs_production_list]] [ := [[6_Behavioral_statements:6.12_Randsequence:rs_weight_specification|rs_weight_specification]] [ [[6_Behavioral_statements:6.12_Randsequence:rs_code_block|rs_code_block]] ] ]
 
 ===== Backlinks =====
-[[rs_production]]
+[[6_Behavioral_statements:6.12_Randsequence:rs_production|rs_production]]

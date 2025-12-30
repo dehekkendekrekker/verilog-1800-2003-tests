@@ -11,4 +11,4 @@ udp_instance ::=
 	[ [[4_Instantiations:4.1_Instantiations:4.1.1_Module_instantiation:name_of_instance|name_of_instance]] ] ( [[3_Primitive_instances:3.3_Primitive_terminals:output_terminal|output_terminal]] , [[3_Primitive_instances:3.3_Primitive_terminals:input_terminal|input_terminal]] { , [[3_Primitive_instances:3.3_Primitive_terminals:input_terminal|input_terminal]] } )
 
 ===== Backlinks =====
-[[udp_instantiation]]
+[[5_UDP_declaration_and_instantiation:5.4_UDP_instantiation:udp_instantiation|udp_instantiation]]

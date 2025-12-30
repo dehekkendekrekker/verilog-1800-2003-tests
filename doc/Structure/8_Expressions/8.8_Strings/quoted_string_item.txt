@@ -11,4 +11,4 @@ quoted_string_item ::=
 	any_ASCII_character except **\\** or newline or **"**
 
 ===== Backlinks =====
-[[quoted_string]]
+[[8_Expressions:8.8_Strings:quoted_string|quoted_string]]

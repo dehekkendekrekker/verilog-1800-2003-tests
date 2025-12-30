@@ -9,7 +9,7 @@ IEEE 1800-2023 Section A.2.2.1
 
 type_identifier_or_class_type ::=
 	[[9_General:9.3_Identifiers:type_identifier|type_identifier]]
-| [[class_type]]
+| [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:class_type|class_type]]
 
 ===== Backlinks =====
-[[incomplete_class_scoped_type]]
+[[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:incomplete_class_scoped_type|incomplete_class_scoped_type]]

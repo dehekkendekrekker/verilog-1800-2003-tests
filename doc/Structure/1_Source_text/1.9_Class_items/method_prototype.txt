@@ -10,7 +10,7 @@ method_prototype ::=
 | [[2_Declarations:2.6_Function_declarations:function_prototype|function_prototype]]
 
 ===== Backlinks =====
-[[class_method]]
+[[1_Source_text:1.9_Class_items:class_method|class_method]]
 [[1_Source_text:1.6_Interface_items:extern_tf_declaration|extern_tf_declaration]]
-[[interface_class_method]]
+[[1_Source_text:1.9_Class_items:interface_class_method|interface_class_method]]
 [[2_Declarations:2.9_Interface_declarations:modport_tf_port|modport_tf_port]]

@@ -6,7 +6,7 @@ Creation-Date: 2025-12-16T21:26:52+00:00
 Created Tuesday 16 December 2025
 
 statement_or_null ::=
-	[[statement]]
+	[[6_Behavioral_statements:6.4_Statements:statement|statement]]
 | { [[9_General:9.1_Attributes:attribute_instance|attribute_instance]] } ;
 
 ===== Backlinks =====

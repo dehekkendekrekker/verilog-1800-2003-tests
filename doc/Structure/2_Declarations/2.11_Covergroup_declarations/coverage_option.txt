@@ -10,6 +10,6 @@ coverage_option ::=
 | **type_option** . [[9_General:9.3_Identifiers:member_identifier|member_identifier]] = [[8_Expressions:8.3_Expressions:constant_expression|constant_expression]]
 
 ===== Backlinks =====
-[[bins_or_options]]
-[[bins_selection_or_option]]
-[[coverage_spec_or_option]]
+[[2_Declarations:2.11_Covergroup_declarations:bins_or_options|bins_or_options]]
+[[2_Declarations:2.11_Covergroup_declarations:bins_selection_or_option|bins_selection_or_option]]
+[[2_Declarations:2.11_Covergroup_declarations:coverage_spec_or_option|coverage_spec_or_option]]

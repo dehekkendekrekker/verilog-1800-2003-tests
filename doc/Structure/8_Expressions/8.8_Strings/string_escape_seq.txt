@@ -13,5 +13,5 @@ string_escape_seq ::=
 | **\\x** one_to_two_digit_hex_number
 
 ===== Backlinks =====
-[[quoted_string]]
-[[triple_quoted_string]]
+[[8_Expressions:8.8_Strings:quoted_string|quoted_string]]
+[[8_Expressions:8.8_Strings:triple_quoted_string|triple_quoted_string]]

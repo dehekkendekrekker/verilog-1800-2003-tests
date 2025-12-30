@@ -11,4 +11,4 @@ attr_name ::=
 	[[9_General:9.3_Identifiers:identifier|identifier]]
 
 ===== Backlinks =====
-[[attr_spec]]
+[[9_General:9.1_Attributes:attr_spec|attr_spec]]

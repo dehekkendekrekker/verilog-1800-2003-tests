@@ -6,7 +6,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 variable_port_header ::=
-	[ [[port_direction]] ] [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:variable_port_type|variable_port_type]]
+	[ [[1_Source_text:1.3_Module_parameters_and_ports:port_direction|port_direction]] ] [[2_Declarations:2.2_Declaration_data_types:2.2.1_Data_type_grammar:variable_port_type|variable_port_type]]
 
 ===== Backlinks =====
-[[ansi_port_declaration]]
+[[1_Source_text:1.3_Module_parameters_and_ports:ansi_port_declaration|ansi_port_declaration]]

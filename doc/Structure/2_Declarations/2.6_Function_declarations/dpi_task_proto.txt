@@ -9,4 +9,4 @@ dpi_task_proto ::=
 	[[2_Declarations:2.7_Task_declarations:task_prototype|task_prototype]]
 
 ===== Backlinks =====
-[[dpi_import_export]]
+[[2_Declarations:2.6_Function_declarations:dpi_import_export|dpi_import_export]]

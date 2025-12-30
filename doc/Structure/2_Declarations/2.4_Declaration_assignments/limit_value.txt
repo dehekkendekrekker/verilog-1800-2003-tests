@@ -11,5 +11,5 @@ limit_value ::=
 	[[8_Expressions:8.3_Expressions:constant_mintypmax_expression|constant_mintypmax_expression]]
 
 ===== Backlinks =====
-[[error_limit_value]]
-[[reject_limit_value]]
+[[2_Declarations:2.4_Declaration_assignments:error_limit_value|error_limit_value]]
+[[2_Declarations:2.4_Declaration_assignments:reject_limit_value|reject_limit_value]]

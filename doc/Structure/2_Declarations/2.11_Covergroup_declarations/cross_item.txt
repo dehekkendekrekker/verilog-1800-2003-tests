@@ -12,4 +12,4 @@ cross_item ::=
 | [[9_General:9.3_Identifiers:variable_identifier|variable_identifier]]
 
 ===== Backlinks =====
-[[list_of_cross_items]]
+[[2_Declarations:2.11_Covergroup_declarations:list_of_cross_items|list_of_cross_items]]

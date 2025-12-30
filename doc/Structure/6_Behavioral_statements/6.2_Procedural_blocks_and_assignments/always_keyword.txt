@@ -9,4 +9,4 @@ always_keyword ::=
 	**always** | **always_comb** | **always_latch** | **always_ff**
 
 ===== Backlinks =====
-[[always_construct]]
+[[6_Behavioral_statements:6.2_Procedural_blocks_and_assignments:always_construct|always_construct]]

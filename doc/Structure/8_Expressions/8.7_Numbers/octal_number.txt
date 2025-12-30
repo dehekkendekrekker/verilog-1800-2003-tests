@@ -6,7 +6,7 @@ Creation-Date: 2025-12-27T00:00:00+00:00
 Created Friday 27 December 2025
 
 octal_number ::=
-	[ [[size]] ] [[octal_base]] [[octal_value]]
+	[ [[8_Expressions:8.7_Numbers:size|size]] ] [[8_Expressions:8.7_Numbers:octal_base|octal_base]] [[8_Expressions:8.7_Numbers:octal_value|octal_value]]
 
 ===== Backlinks =====
-[[integral_number]]
+[[8_Expressions:8.7_Numbers:integral_number|integral_number]]

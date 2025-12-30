@@ -11,5 +11,5 @@ net_assignment ::=
 	[[8_Expressions:8.5_Expression_left_side_values:net_lvalue|net_lvalue]] **=** [[8_Expressions:8.3_Expressions:expression|expression]]
 
 ===== Backlinks =====
-[[list_of_net_assignments]]
+[[6_Behavioral_statements:6.1_Continuous_assignment:list_of_net_assignments|list_of_net_assignments]]
 [[6_Behavioral_statements:6.2_Procedural_blocks_and_assignments:procedural_continuous_assignment|procedural_continuous_assignment]]

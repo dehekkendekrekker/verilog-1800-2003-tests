@@ -13,4 +13,4 @@ rs_weight_specification ::=
 | ( [[8_Expressions:8.3_Expressions:expression|expression]] )
 
 ===== Backlinks =====
-[[rs_rule]]
+[[6_Behavioral_statements:6.12_Randsequence:rs_rule|rs_rule]]
