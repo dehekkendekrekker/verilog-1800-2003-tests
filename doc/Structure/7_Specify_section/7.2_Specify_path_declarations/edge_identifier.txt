@@ -5,10 +5,9 @@ Creation-Date: 2025-12-28T00:00:00+00:00
 ====== edge identifier ======
 Created Saturday 28 December 2025
 
-IEEE 1800-2023 Section A.7.2
+IEEE 1800-2023 Section A.6.5
 
 **posedge** | **negedge** | **edge**
 
 ===== Backlinks =====
-[[full_edge_sensitive_path_description]]
-[[parallel_edge_sensitive_path_description]]
+[[6_Behavioral_statements:6.11_Clocking_block:clocking_skew|clocking_skew]]

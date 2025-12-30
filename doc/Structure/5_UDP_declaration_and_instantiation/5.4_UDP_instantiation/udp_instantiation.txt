@@ -1,13 +1,11 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
-Creation-Date: 2025-12-28T00:00:00+00:00
+Creation-Date: 2025-12-27T00:00:00+00:00
 
 ====== udp instantiation ======
-Created Saturday 28 December 2025
+Created Friday 27 December 2025
 
-IEEE 1800-2023 Section A.5.4
-
-[[9_General:9.3_Identifiers:udp_identifier|udp_identifier]] [ [[2_Declarations:2.2_Declaration_data_types:drive_strength|drive_strength]] ] [ [[2_Declarations:2.2_Declaration_data_types:delay2|delay2]] ] [[udp_instance]] { , [[udp_instance]] } ;
+udp_identifier [ drive_strength ] [ delay2 ] udp_instance { , udp_instance } ;
 
 ===== Backlinks =====
-(no backlinks)
+[[1_Source_text:1.4_Module_items:module_or_generate_item|module_or_generate_item]]
