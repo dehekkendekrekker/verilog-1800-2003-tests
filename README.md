@@ -23,12 +23,12 @@ SystemVerilog was originally standardized in IEEE1800-2005 and was merged with b
 
 Not only is SystemVerilog useful for synthesis of designs, but also for verification thereof using the language component SystemVerilog Assertions (SVA).
 
-The IEEE1800 standard is open, and a collection of open-source tools have emerged that parse the language to provide several functions. To highlight a few; Verilator parses the language to transform a design into C++ code, so that it may be compiled and run on a general purpose computer. Slang offers functionality that parses the language into an abstract syntax tree (AST). yosys-slang uses slang to transform the AST into RTLIL so it can be used by yosys to synthesise a design.
+The IEEE1800 standard is open, and a collection of open-source tools have emerged that parse the language to provide several functions. To highlight a few; [Verilator](https://www.veripool.org/verilator/) parses the language to transform a design into C++ code, so that it may be compiled and run on a general purpose computer. [Slang](https://sv-lang.com/) offers functionality that parses the language into an abstract syntax tree (AST). [yosys-slang](https://github.com/povik/yosys-slang) uses slang to transform the AST into RTLIL so it can be used by [yosys](https://github.com/YosysHQ/yosys/) to synthesise a design.
 
 ## Current testing landscape
-As concluded before, a tool needs to be reliable. Tool developers address this by equipping their tools with test cases. Furthermore, the sv-tests project by the Chips Alliance intends to find all supported and missing SystemVerilog features in various Verilog tools.
+As concluded before, a tool needs to be reliable. Tool developers address this by equipping their tools with test cases. Furthermore, the [sv-tests](https://github.com/chipsalliance/sv-tests) project by the Chips Alliance intends to find all supported and missing SystemVerilog features in various Verilog tools.
 
-They have published a dashboard in which the current state of support for different Verilog/SystemVerilog features is shown.
+They have published a [dashboard](https://chipsalliance.github.io/sv-tests-results/) in which the current state of support for different Verilog/SystemVerilog features is shown.
 
 ## Problems with existing Test Coverage
 Though great work has been done by everyone involved to raise the quality of the tools, a number of problems exist:
@@ -41,8 +41,7 @@ The test-suite of the tools themselves and that of sv-tests do not necessarily l
 2) The sv-tests suite of tests contains gaps. A cursory review of the implemented tests showed that for SVA, the test suites do not fully cover all features. Some features have no tests at all, such as Checkers. Note that this is but a sample, and may not generalize to the coverage of the rest of the language.
 
 3) The dashboard of the sv-tests suite shows false positives. Some tools appear to pass tests, but upon closer inspection they do not.
-In this particular case, the worst scenario is likely a disappointed user that selected the tool based on the information the dashboard provided.
-
+In these particular casex, the worst scenario is likely a disappointed user that selected the tool based on the information the dashboard provided.
 
 As we will see, false positives can have more serious consequences.
 
@@ -50,38 +49,43 @@ As we will see, false positives can have more serious consequences.
 In this particular issue of yosys-slang, https://github.com/povik/yosys-slang/issues/77, a problem is described where intended use of the tool resulted in a false positive.
 A testcase was written that should have resulted in a failure, but instead resulted in a pass. The AST was converted to invalid RTLIL that failed to trigger an error and as a result, the test passed.
 
-According to the IEEE1800 standard, a simple_immediate_assert_statement embedded in an initial_construct was parsed erroneously.
+According to the IEEE1800 standard, a `simple_immediate_assert_statement` embedded in an `initial_construct` was parsed erroneously.
 
-The tool supports tests for assert in an assert_comb block, which is a simple_immediate_assert_statement in an always_construct.
+The tool supports tests for assert in an `assert_comb` block, which is a `simple_immediate_assert_statement` in an `always_construct`.
 
 False positives at this level are more dangerous. The assert statement is explicitly designed to test designs. A passing assert that should have failed leads
 to a corruption propagating through subsequent steps.
 
 In this case, the first line of defense has failed. Unsupported language did not result in an error when used.
 
-## The context problem
-However, the second line of defense has also failed. simple_immediate_assert_statements are part of chapter 16.3 of the IEEE1800 standard.
-sv-tests does not currently provide any tests for this language feature. This is an example that shows that gaps in test coverage fail to detect problems in tools, with dire consequences.
+The second line of defense has also failed. The sv-tests dashboard shows that for yosys-slang, the (16.2) assert test passes, but that is only half of the story. Even if the condition were false, the test would still pass.
 
-However, there is another problem. As the yosys-slang issue revealed, language features do not occur in isolation. Merely testing whether an assert statement is parsed correctly is not enough. In this example, an assert statement in an initial block behaves differently from an assert statement in an always_comb block.
+There should be a test that also verifies the negative. Ie, if a true statement cause the test to pass, a false statement should cause the test to fail.
+
+
+## The context problem
+However, there is another problem. As the yosys-slang issue revealed, language features do not occur in isolation. Merely testing whether an assert statement is parsed correctly is not enough. In this example, an `assert` statement in an `initial` block behaves differently from an assert statement in an `always_comb` block.
 
 A project like sv-tests, apart from its stated mission, should therefore also consider how the language features are tested in context.
-Failure to do so will lead, again, to false positives. Even if 16.3 contained a test for assert, if it does not take its context into account, it would appear that a tool passing the test supports the feature. This, however, would only be true in the tested case.
+Failure to do so will lead to false positives, as demonstrated above.
 
 Summarizing, the following problems exist:
-1) The tool's own test suites do not always catch all problems, which could lead to false positives when used.
-2) The overarching test framework sv-tests contains gaps in its coverage of the IEEE1800 standard.
-3) Filling in these gaps depends on the community, which is slow and arbitrary.
-4) Language features need to be tested in context.
+1) The test coverage contains gaps
+2) Filling in these gaps depends on the community, which is slow and arbitrary.
+3) The tool's own test suites do not always catch all problems, which could lead to false positives when used.
+4) The overarching test framework sv-tests also contains false positives.
+5) Language features need to be tested in context.
 
 
 ## Proposed approach
-In order to address these problems, a different way of generating test cases is required. Due to previous experience with fuzzing techniques to find bugs in software,the author will explore applying these techniques to test case generation.
+In order to address these problems, a different way of generating test cases is required. 
+Due to previous experience with fuzzing techniques to find bugs in software, the author will explore applying these techniques to test case generation. 
+Applying these techniques would mean that a graph that describes the language is assembled. 
+All possible permutations will be contained in this graph. 
+Corrected for recursion and infinity, this hopefully yields a set of paths through the graphs that can be followed to generated valid test cases. 
+Positive paths describe valid paths through the graph, and should pass.
+Negative paths describe invalid paths through the graph and should fail.
+This should take care of the gaps problem, the testing-in-context problem as well as the false positives problem.
 
-Concretely, the following approach will be explored:
+Progress may be followed here: https://dehekkendekrekker.nl/posts
 
-1) The IEEE1800-2023 grammar elements will be copied from the standard to a text format.
-2) A tool will be built that takes the BNF grammar and produces a graph that describes the standard.
-3) From this graph, meaningful paths will be extracted and converted to HDL test cases.
-
-Developments on the project will be posted here: https://dehekkendekrekker.nl/posts
