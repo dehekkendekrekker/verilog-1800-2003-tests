@@ -44,12 +44,6 @@ The test-suite of the tools themselves and that of sv-tests do not necessarily l
 In this particular case, the worst scenario is likely a disappointed user that selected the tool based on the information the dashboard provided.
 
 
-{{<load-photoswipe>}}
-{{<gallery>}}
-{{<figure link="https://res.cloudinary.com/direflzw1/image/upload/w_0.5/v1767390569/ieee1800-2023-tests/false_positives_ckdcho.png">}}
-{{<figure link="https://res.cloudinary.com/direflzw1/image/upload/w_0.5/v1767390571/ieee1800-2023-tests/false_positive2_hktu8g.png">}}
-{{</gallery>}}
-
 As we will see, false positives can have more serious consequences.
 
 ## A Concrete Example: False Positives in Practice
