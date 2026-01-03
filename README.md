@@ -87,5 +87,5 @@ Positive paths describe valid paths through the graph, and should pass.
 Negative paths describe invalid paths through the graph and should fail.
 This should take care of the gaps problem, the testing-in-context problem as well as the false positives problem.
 
-Progress may be followed here: https://dehekkendekrekker.nl/posts
+Progress may be followed her https://dehekkendekrekker.nl/tags/ieee1800-2023-tests/)
 
